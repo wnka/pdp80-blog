@@ -2,7 +2,7 @@
 title = "100 Mile Week"
 date = "2016-07-24"
 slug = "100-mile-week"
-Categories = []
+Categories = ["biking"]
 +++
 This week, I biked 111.2 miles.
 

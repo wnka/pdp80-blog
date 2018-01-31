@@ -2,7 +2,7 @@
 title = "2015 Biking Results"
 date = "2015-12-30"
 slug = "2015-biking-results"
-Categories = []
+Categories = ["biking"]
 +++
 Unfortunately, I did not meet my biking goal of 1,500 miles for 2015. 
 

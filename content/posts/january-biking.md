@@ -2,7 +2,7 @@
 title = "January Biking"
 date = "2015-02-14"
 slug = "january-biking"
-Categories = []
+Categories = ["biking"]
 +++
 
 Last year I started biking more seriously, sometimes biking to work but mostly doing longer trips on weekends. I gradually increased my miles on the weekend and was soon doing 32 mile rides. I didn't really set a goal for total miles for the year, but as the end of 2014 approached I noticed I was very close to achieving 1,000 miles so I pushed in the final days of the year and was able to hit that goal!

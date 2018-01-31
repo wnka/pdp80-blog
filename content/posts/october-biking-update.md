@@ -2,7 +2,7 @@
 title = "October Biking Update"
 date = "2015-10-18"
 slug = "october-biking-update"
-Categories = []
+Categories = ["biking"]
 +++
 - 2015 miles as of October 18th: 1299
 - Miles to go toward goal of 1,500: 201

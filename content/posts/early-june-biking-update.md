@@ -2,7 +2,7 @@
 title = "Early June Biking Update"
 date = "2015-06-07"
 slug = "early-june-biking-update"
-Categories = []
+Categories = ["biking"]
 +++
 - 2015 miles as of June 7th: 787
 - Miles to go toward goal of 1,500: 713

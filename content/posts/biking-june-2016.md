@@ -2,7 +2,7 @@
 title = "Biking June 2016"
 date = "2016-06-05"
 slug = "biking-june-2016"
-Categories = []
+Categories = ["biking"]
 +++
 I got a slow start to biking this year for various reasons (lazyness, back pain, lazyness) but toward the end of April I started up again and am now hitting my goal of 40 miles per week consistently. I've been doing early morning rides on Saturdays with a friend, which has really helped me stay committed.
 

@@ -2,7 +2,7 @@
 title = "Biking July 2016"
 date = "2016-07-02"
 slug = "biking-july-2016"
-Categories = []
+Categories = ["biking"]
 +++
 Man, I did a lot of biking in June. Our early morning Saturday rides are serious business! Last blog post I was at 419 miles for the year, as of now I'm at 653 miles. That's 234 miles in a month!
 

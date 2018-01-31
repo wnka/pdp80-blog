@@ -2,7 +2,7 @@
 title = "March Biking Update"
 date = "2015-04-04"
 slug = "march-biking-update"
-Categories = []
+Categories = ["biking"]
 +++
 
 On pace to meet my goal of 1,500 miles in 2015!
