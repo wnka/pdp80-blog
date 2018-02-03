@@ -1,4 +1,4 @@
-baseURL = "https://pdp80.com/"
+baseURL = "http://pdp80.com/"
 languageCode = "en-us"
 title = "Phil Piwonka"
 theme = "temple"
