@@ -19,7 +19,7 @@ This new setup is great for fighting games, so I picked up [Super Street Fighter
 
 I also picked up some [Taito F3](http://www.system16.com/hardware.php?id=665) hardware. This platform ran some great shmups and I'm most interested in [Rayforce](http://en.wikipedia.org/wiki/RayForce) and [Darius Gaiden](http://en.wikipedia.org/wiki/Darius_Gaiden). So I picked up a motherboard and cartridges for Arkanoid Returns and Puzzle Bobble 4.  Why those games?  Because they were cheap and supposedly you can swap roms in the game cartridges, allowing me to convert those cheap games into expensive awesome games. 
 
-{{<img src="/images/f3.png">}}
+{{<img src="/images/f3.jpg">}}
 
 Unfortunately, my attempts to convert the cartridges has been a complete failure. I went through all the work of desoldering the ROM chips out of the Arkanoid Returns cartridge and installing chip sockets so I could easily swap ROMs. While I can swap out the chips, both Rayforce and Darius Gaiden just reboot endlessly when I install their ROM chips. The good news is that I am now actually pretty decent at desoldering chips, and my sockets work because Arkanoid Returns still works when I put its chips in the sockets I installed! I did rip up a few traces in the process of desoldering, but I was able to patch those with wire.
 

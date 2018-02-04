@@ -13,7 +13,7 @@ The original fixture required a starter bulb, which was missing when I got the c
 
 First thing I did was remove the monitor shroud. Remove the metal panel on the back of the cabinet that covers the speakers and lamp, then underneath the control panel unhook the speaker AMP-UP connector (in green) and three screws (in red) as shown below.
 
-![Remove Monitor Shroud](/images/IMG_18791.png)
+![Remove Monitor Shroud](/images/IMG_18791.jpg)
 
 With the shroud removed, we now have easy access to the fluorescent fixture and can remove it.
 
