@@ -31,7 +31,7 @@ I got to tour the [Spheres at Amazon](https://www.seattlespheres.com) this week,
 
 I took these pictures on my iPhone 8 Plus, and pretty much just walked around and snapped whatever.
 
-To put these on this page, I wanted to resize them such that the width of the images was fixes regardless of their orientation. To do this, I used [ImageMagick](https://www.imagemagick.org/script/index.php). These notes are mostly for me.
+To put these on this page, I wanted to resize them such that the width of the images was fixed regardless of their orientation. To do this, I used [ImageMagick](https://www.imagemagick.org/script/index.php). These notes are mostly for me.
 
 First, I need to find each image's orientation:
 
