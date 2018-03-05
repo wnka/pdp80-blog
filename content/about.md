@@ -7,8 +7,9 @@ Hi, my name is Phil Piwonka and I like arcade games and computers.
 
 {{<img src="/images/about.jpg">}}
 
-* [Arcade PCB List](/pcb)
+* [Strava](https://www.strava.com/athletes/6632067)
 * [Twitter](https://twitter.com/wnka)
+* [Arcade PCB List](/pcb)
 * [GitHub](https://github.com/wnka)
 * [Twitch Stream](https://twitch.tv/pdp80)
 * [Resume](http://philpiwonka.com)
