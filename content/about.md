@@ -15,12 +15,13 @@ On other social media / sites I use the handle **wnka**, which is my last name t
 
 Links:
 
+* [Arcade PCB Collection](/pcb)
+* [Vinyl Collection](/vinyl)
 * [Strava](https://www.strava.com/athletes/6632067)
 * [Twitter](https://twitter.com/wnka)
 * [Instagram](https://instagram.com/wnka)
 * [Facebook](https://facebook.com/phil.piwonka)
 * [GitHub](https://github.com/wnka)
-* [Arcade PCB List](/pcb)
 * [Twitch Stream](https://twitch.tv/pdp80)
 * [Resume](http://philpiwonka.com)
 
