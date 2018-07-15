@@ -1,3 +1,16 @@
++++
+title = "Vinyl Collection"
+date = "2018-07-14T18:53:54-08:00"
++++
+
+I started buying vinyl in 1998 when I was a senior in high school and had my own money from working. My interest in music was really ramping up and vinyl was the cheapest way to get music (this is all pre-Napster). I don't really buy records anymore, there are easier ways to get music with all the streaming services and records have gotten crazy expensive lately.
+
+* **Favorite Record Store:** [Black and Read](http://www.blackandread.net/site/) in Arvada, CO.
+* **Favorite Online Record Store:** [Turntable Lab](https://www.turntablelab.com), nice curated selection that turned me on to a lot of good stuff.
+* **Favorite Record:** Gosh that's a hard question, but I'll go with [Slates](https://en.wikipedia.org/wiki/Slates_(EP)) by [The Fall](https://en.wikipedia.org/wiki/The_Fall_(band)).
+
+**July 15, 2018:** This list is currently not up to date, I'm in the process of cataloging everything to figure out what I want to keep and what I want to sell/donate/give away.
+
 | Artist                                    | Album                                                                       |
 |-------------------------------------------|-----------------------------------------------------------------------------|
 | 808 State                                 | NewBuild                                                                    |
@@ -59,7 +72,6 @@
 | Boogie Down Productions                   | Ghetto Music: The Blueprint of Hip Hop                                      |
 | Booker T. and the MGs                     | Soul Dressing                                                               |
 | Breakestra                                | Cramp Your Style/Baby Don't Cry                                             |
-| Breakestra                                | Cramp Your Style/Baby Don't Cry                                             |
 | Brian Eno                                 | Ambient 1 - Music for Airports                                              |
 | Brian Eno and David Byrne                 | My Life In The Bush of Ghosts                                               |
 | Bud Powell                                | The Scene Changes                                                           |
@@ -68,8 +80,8 @@
 | Burning Spear                             | Studio One Presents Burning Spear                                           |
 | Candi Staton                              | Best Of                                                                     |
 | Cannibal Ox                               | The Cold Vein                                                               |
-| Cannibal Ox                               | The F-Word                                                                  |
 | Cannibal Ox                               | Vein/B-Boy's Alpha                                                          |
+| Cannibal Ox                               | The F-Word (White Label Promo)                                              |
 | Cannibal Ox                               | The F-Word                                                                  |
 | Casual                                    | Fear Itself                                                                 |
 | Charizma and Peanut Butter Wolf           | Devotion '92/Devotion '93                                                   |
@@ -282,7 +294,7 @@
 | Mach Tiver/The Creature                   | Split 7"                                                                    |
 | Madlib                                    | Shades of Blue                                                              |
 | Madlib                                    | Madlib Invazion                                                             |
-| Madlib                                    | The Beat Conductor                                                          |
+| Madlib                                    | The Beat Conductor 2x7"                                                     |
 | Madonna                                   | Like a Virgin                                                               |
 | Madonna                                   | Madonna                                                                     |
 | Madvillain                                | Money Folder/America's Most Blunted                                         |
@@ -300,9 +312,9 @@
 | Massive Attack                            | Protection                                                                  |
 | Massive Attack                            | Mezzanine                                                                   |
 | Mates of State                            | Our Constant Concern                                                        |
-| Meat Puppets                              | Up On The Sun                                                               |
 | Meat Puppets                              | Meat Puppets                                                                |
 | Meat Puppets                              | Meat Puppets II                                                             |
+| Meat Puppets                              | Up On The Sun                                                               |
 | Meat Puppets                              | Mirage                                                                      |
 | Mekons                                    | The Mekons Rock 'n Roll                                                     |
 | Men At Work                               | Business As Usual                                                           |
@@ -343,7 +355,7 @@
 | My Bloody Valentine                       | Feed Me With Your Kiss EP                                                   |
 | My Bloody Valentine                       | You Made Me Realise EP                                                      |
 | My Bloody Valentine                       | Loveless                                                                    |
-| My Bloody Valentine                       | Loveless                                                                    |
+| My Bloody Valentine                       | Loveless (Reissue)                                                          |
 | Nas                                       | Illmatic                                                                    |
 | Neu                                       | Neu 1                                                                       |
 | New Order                                 | Power Corruption and Lies                                                   |
@@ -363,13 +375,13 @@
 | P.E.A.C.E.                                | Southern Fry'd Chicken                                                      |
 | Patti Smith                               | Easter                                                                      |
 | Patti Smith                               | Horses                                                                      |
-| Pavement                                  | Terror Twilight                                                             |
 | Pavement                                  | Westing (by Musket and Sextant)                                             |
 | Pavement                                  | Slanted and Enchanted                                                       |
 | Pavement                                  | Crooked Rain Crooked Rain                                                   |
+| Pavement                                  | Terror Twilight                                                             |
 | Peanut Butter Wolf                        | Peanut Butter Breaks                                                        |
-| Pere Ubu                                  | Dub Housing                                                                 |
 | Pere Ubu                                  | The Modern Dance                                                            |
+| Pere Ubu                                  | Dub Housing                                                                 |
 | Pete Rock                                 | PeteStrumentals                                                             |
 | Pharoahe Monch                            | Internal Affairs                                                            |
 | Piano Overlord                            | Tease EP                                                                    |
