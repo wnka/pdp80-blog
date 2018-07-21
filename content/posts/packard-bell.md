@@ -1,12 +1,12 @@
 ---
-title: "Packard Bell!"
+title: "Packard Bell"
 date: 2018-07-20T22:45:16-07:00
 ---
 I came across this hilarious Packard Bell TV commercial from 1996. What art!
 
 {{< youtube Z28KzhQ3gFU >}}
 
-Reminds me of that arty Mr. Plow ad from the Simpsons.
+Reminds me of that Mr. Plow ad from the Simpsons.
 
 {{< youtube gArU-BAO7Kw >}}
 
