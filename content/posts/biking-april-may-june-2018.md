@@ -1,5 +1,6 @@
 ---
 title: "Biking April / May / June 2018"
+slug: biking-april-may-june-2018
 date: 2018-07-07T10:15:47-07:00
 draft: false
 Categories: ["biking"]
