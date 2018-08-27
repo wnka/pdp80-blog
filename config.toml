@@ -1,7 +1,7 @@
 baseURL = "https://pdp80.com/"
 languageCode = "en-us"
 title = "Phil Piwonka"
-theme = "hugo-theme-cactus-plus"
+theme = "pdp80-theme"
 googleAnalytics = "UA-21053678-2"
 
 [params]
