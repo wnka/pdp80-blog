@@ -9,7 +9,7 @@ I was hitting my vacation limit at work so I took this week off. [My wife](https
 
 ### Soundtrack for the ride: 
 
-* **The Fall - Totally Wired: The Rough Trade Anthology** - [iTunes](https://itunes.apple.com/gb/album/totally-wired-the-rough-trade-anthology/1144224993) / [Spotify](https://open.spotify.com/album/1AikHVRZpnTVfkOXMt7RfJ)
+* The Fall - Totally Wired: The Rough Trade Anthology - [iTunes](https://itunes.apple.com/gb/album/totally-wired-the-rough-trade-anthology/1144224993) / [Spotify](https://open.spotify.com/album/1AikHVRZpnTVfkOXMt7RfJ)
 
 ### Route / Stats:
 
