@@ -2,7 +2,7 @@
 title = "Current arcade PCB list"
 date = "2018-01-29T18:58:16-08:00"
 +++
-This list is ordered by when I got them.  I didn't start buying PCBs until I got my Astro City cabinet on May 8th 2011.
+This list is ordered by (roughly) when I got them.  I didn't start buying PCBs until I got my Astro City cabinet on May 8th 2011.
 
 - **1943**
  * Got: May 19 2011
