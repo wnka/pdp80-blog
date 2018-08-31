@@ -4,7 +4,6 @@
 
         <section id="wrapper" class="post">
             <article>
-                <header>
                   <h1>
                     {{ .Title }}
                   </h1>
@@ -16,7 +15,6 @@
 -->
                   </h2>
                   {{ end }}
-                </header>
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
                     <div id="toc">
