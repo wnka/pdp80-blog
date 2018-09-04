@@ -1,4 +1,7 @@
 <footer id="footer">
+    {{ if not .IsHome }}
+    <a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
+    {{ end }}
     <p class="small">
     {{ with .Site.Params.copyright }}
         {{ . | markdownify }}
