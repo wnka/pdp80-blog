@@ -16,10 +16,10 @@ Links:
 * [Arcade PCB Collection](/pcb)
 * [Vinyl Collection](/vinyl)
 * [Strava](https://www.strava.com/athletes/6632067)
-* [Twitter](https://twitter.com/wnka)
-* [Instagram](https://instagram.com/wnka)
+* <a href="https://twitter.com/wnka" rel="me">Twitter</a>
+* <a href="https://instagram.com/wnka" rel="me">Instagram</a>
 * [Facebook](https://facebook.com/phil.piwonka)
-* [GitHub](https://github.com/wnka)
+* <a href="https://github.com/wnka" rel="me">GitHub</a>
 * [Twitch Stream](https://twitch.tv/pdp80)
 * [Resume](http://philpiwonka.com)
 
