@@ -460,7 +460,6 @@ thead th, th {
 
 img {
     width: calc(100% + 40px);
-    border-radius: 3px;
     margin-left: calc(-20px);
     margin-right: calc(-20px);
 }
