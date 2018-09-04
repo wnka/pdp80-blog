@@ -459,9 +459,10 @@ thead th, th {
 }
 
 img {
-    width: 100%;
-    max-width: 100%;
+    width: calc(100% + 40px);
     border-radius: 3px;
+    margin-left: calc(-20px);
+    margin-right: calc(-20px);
 }
 
 
