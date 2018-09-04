@@ -31,11 +31,11 @@ The direct wire fixture has three wires: white (neutral), black (hot), and green
 
 Now we're ready to wire the new fixture into where the old one connected to the power supply. I cut the pink and gray wires off the old fixture so that I could reuse the connector and wire. From the fixture, wire the pink wire to the black wire and the gray wire to the white wire. What about ground? The old fixture has no ground wire, but the new one does. Thankfully there are quite a few ground points within the cab, so you can just wire it to one of those.  I crimped a ring terminal connector to the ground wire and hooked it to a post just inside the service door by the front left leg.  The ground wire for the light is the red one:
 
-![Lamp Ground](/images/IMG_1880.jpg)
+![Lamp Ground](/images/IMG_1880_2.jpg)
 
 Next, the new fixture didn't have any mounting holes, so I need to drill some. I just held it up to the bracket and marked where the holes needed to go, then used a punch on those spots to help guide the bit. With those drilled, the new fixture can now be mounted and things can be reassembled. Viola!
 
-![New Fixture](/images/IMG_1875.jpg)
+![New Fixture](/images/IMG_1875_2.jpg)
 
 ![Result](/images/IMG_1878.jpg)
 
