@@ -38,3 +38,9 @@ I made all the code that I use available on GitHub. Please feel free to use it, 
 * [Builder Lambda](https://github.com/wnka/hugo-lambda)
 
 One of the reasons I like hosting my own content is that it gives me the opportunity to play around with some toy problems and experiment with different tools. I find this kind of stuff fun!
+
+**TODO:**
+
+* Doing full CloudFront invalidations on updates feels goofy, there's gotta be a better way.
+* Need to set `Cache-Control` headers/metadata appropriately on images.
+* Get the **API Lambda** and **Builder Lambda** to be more easily deployable. [AWS SAM?](https://github.com/awslabs/serverless-application-model) [Serverless framework?](https://serverless.com)
