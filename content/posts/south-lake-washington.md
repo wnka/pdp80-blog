@@ -19,6 +19,8 @@ Total mileage for the week so far: **89.4 miles**
 
 ![route](/images/IMG_1851.jpg)
 
+Full Strava activity [here.](https://www.strava.com/activities/1806235335)
+
 ### Pictures from along the way:
 
 ![520 lillies](/images/IMG_1821.JPG)

@@ -11,6 +11,8 @@ I was hitting my vacation limit at work so I took this week off. [My wife](https
 
 ![route](/images/sea-red-loop.jpg)
 
+Full Strava activity [here.](https://www.strava.com/activities/1801745205)
+
 ### Pictures from along the way:
 
 ![wood bridge in Woodinville](/images/woodbridge.jpg)

@@ -13,9 +13,11 @@ Once on the Elliott Bay trail it was easy to follow the signage and reach Alki B
 
 Total distance: **24.8 miles**
 
-### To West Seattle Route/Stats:
+### To West Seattle Route/Stats 
 
 ![to Alki](/images/IMG_B14D53374D36-1.jpeg)
+
+Full Strava activity [here.](https://www.strava.com/activities/1817071635)
 
 ### Pictures heading to West Seattle:
 
@@ -33,6 +35,8 @@ Total distance: **24.8 miles**
 ### From West Seattle to Home Route/Stats:
 
 ![from Alki](/images/IMG_1A0172138DBC-1.jpeg)
+
+Full Strava activity [here.](https://www.strava.com/activities/1817451082)
 
 ### Pictures heading home:
 
