@@ -44,3 +44,7 @@ One of the reasons I like hosting my own content is that it gives me the opportu
 * Doing full CloudFront invalidations on updates feels goofy, there's gotta be a better way.
 * Need to set `Cache-Control` headers/metadata appropriately on images.
 * Get the **API Lambda** and **Builder Lambda** to be more easily deployable. [AWS SAM?](https://github.com/awslabs/serverless-application-model) [Serverless framework?](https://serverless.com)
+
+**UPDATE 9/14/2018:**
+
+I made [some changes](https://github.com/wnka/hugo-lambda/commit/304b043a2a4d8e99d8ec74a1538db1092cea1ba5) to set `Cache-Control` headers in a sane way when syncing to S3, which has eliminated the need for CloudFront invalidations. 
