@@ -2,7 +2,7 @@ baseURL = "https://pdp80.com/"
 languageCode = "en-us"
 title = "Phil Piwonka"
 theme = "pdp80-theme"
-googleAnalytics = "UA-21053678-2"
+#googleAnalytics = "UA-21053678-2"
 
 [params]
 	author = "Phil Piwonka"
