@@ -40,3 +40,5 @@ input displays and I wanted to be able to do that as well for an actual arcade c
 **NOTE**: The display does sometimes freeze up, however refreshing the
 browser page typically solves this. I'm not sure what causes it, maybe I'll figure it out.
 
+**UPDATE**: Updating to a newer version of [Socket.IO](http://socket.io) fixed the freezing.
+
