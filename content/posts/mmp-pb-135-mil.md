@@ -4,7 +4,7 @@ date: 2019-02-11T20:02:16-08:00
 draft: false
 ---
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v378187653" frameborder="0" allowfullscreen="true" scrolling="no" height="360" width="100%"></iframe>
+{{<youtube ZFuUf9xCLDA>}}
 
 It's been snowing in Seattle which means a lot of sitting indoors, so this weekend I played some [Muchi Muchi Pork](https://en.wikipedia.org/wiki/Muchi_Muchi_Pork!) and streamed it on Twitch. I was able to improve my 1-ALL score from 127,207,710 to 135,255,400.
 
