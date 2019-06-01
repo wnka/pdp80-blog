@@ -9,7 +9,7 @@
     {{ end }}
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ hugo.Generator }}
+    {{ .Hugo.Generator }}
     <title>{{ .Title }}</title>
     <link rel="me" href="https://twitter.com/wnka"/>
     <link rel="me" href="https://github.com/wnka"/>
