@@ -2,6 +2,7 @@
 title: "Bicycle Sundays"
 date: 2019-05-12T20:37:33-07:00
 draft: false
+Categories: ["biking"]
 ---
 Today was the first [Bicycle Sunday](https://parkways.seattle.gov/2019/01/07/mark-calendar-2019-bicycle-sundays/) of the year here in Seattle and I took advantage by going for a ride with some coworkers.
 

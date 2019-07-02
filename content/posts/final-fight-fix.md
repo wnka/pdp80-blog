@@ -3,6 +3,7 @@ title: "Final Fight Fixed!"
 date: 2019-07-01T19:42:44-07:00
 slug: final-fight-fix
 draft: false
+Categories: ["capcom", "cps1", "final fight", "hardware"]
 ---
 This last weekend, after my [long bike ride](/blog/2019/07/bike-june-2019/) on Saturday, I took some time on Sunday and poked at my [Final Fight](http://en.wikipedia.org/wiki/Final_fight) arcade board to see if I could figure out its graphical issues. **I FIXED IT!** I originally bought this game to swap parts to fix my [Strider arcade board](/blog/2012/05/strider-pcb-fixed/) and I knew the issue was in the B-board.
 
@@ -21,4 +22,4 @@ Here's the **after**:
 ![img](/images/IMG_1169.jpg)
 ![img](/images/IMG_1173.jpg)
 
-It only took me about **seven years** to get around to fixing this. Once I sat down to do it, it only took about an hour. I gotta say that I felt pretty **COOL** after fixing this, and for a fleeting moment though about going and buying *broken* arcade boards on eBay to see if I could fix them, but I don't believe I'll be doing *that!*
+It only took me about **seven years** to get around to fixing this. Once I sat down to do it, it only took about an hour. I gotta say that I felt pretty **COOL** after fixing this, and for a fleeting moment thought about going and buying *broken* arcade boards on eBay to see if I could fix them, but I don't believe I'll be doing *that!*

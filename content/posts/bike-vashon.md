@@ -2,6 +2,7 @@
 title: "Vashon Island Biking"
 date: 2019-06-26T18:24:32-07:00
 draft: False
+Categories: ["biking"]
 ---
 
 This past weekend I biked from my house to West Seattle, where I caught a ferry to Vashon Island and then did some biking there. My wife *loves* Vashon Island so she drove our car separately and we met up on the island for a nice dinner at [The Ruby Brink](https://www.yelp.com/biz/the-ruby-brink-vashon). Yummy meal!

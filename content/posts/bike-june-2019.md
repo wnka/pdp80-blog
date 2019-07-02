@@ -3,6 +3,7 @@ title: "Biking June 2019"
 date: 2019-07-01T19:29:42-07:00
 slug: bike-june-2019
 draft: false
+Categories: ["biking"]
 ---
 
 I biked a lot in June and wrapped the month up with a ride around *all* of Lake Washington.

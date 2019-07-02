@@ -2,6 +2,7 @@
 title: "Biking February 2019"
 date: 2019-03-17T10:39:35-07:00
 draft: false
+Categories: ["biking"]
 ---
 
 In February 2019, I biked **16.3 miles**. Quite the drop from January! What the hell happened? 2 things:
