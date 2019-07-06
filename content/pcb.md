@@ -14,7 +14,7 @@ This list is ordered by (roughly) when I got them.  I didn't start buying PCBs u
  * Got: June 15 2011
 - **EspGaluda**
  * Got: August 5 2011
- * 1cc: August 13 2011 - Ageha - 27,587,750
+ * 1cc: August 13 2011 - Ageha - 27,387,750
 - **Ketsui**
  * Got: July 27 2011
  * 1-ALL: Feb 21 2012 - Jager - 72,325,552
