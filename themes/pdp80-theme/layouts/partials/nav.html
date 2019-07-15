@@ -10,7 +10,4 @@
 		<a href="{{ $val }}">{{ $key }}</a>
 	{{ end }}
 
-	{{ if .Site.Params.enableRSS }}
-	<a class="cta" href="{{ .Site.RSSLink }}">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}RSS{{ end }}</a>
-	{{ end }}
 </nav>
