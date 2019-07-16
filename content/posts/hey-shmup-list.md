@@ -84,3 +84,5 @@ When we were in Japan in late Sept/early Oct 2018, I went to the [HEY! arcade in
 - Ultra X Weapons
 - Varth 
 - Viper Phase 1
+
+They also had a few [NESiCAxLive](https://en.wikipedia.org/wiki/NESiCAxLive) cabinets that had a bunch of games, I saw at least Crimzon Clover and Ikaruga.
