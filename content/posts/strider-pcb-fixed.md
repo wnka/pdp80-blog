@@ -22,3 +22,5 @@ I swapped the Final Fight roms onto the Strider "B" board. Lines!
 ![Lines!](/images/20120528-213148.jpg)
 
 At some point I'll look more into what is wrong with the Strider "B" board, but at least now I have a fully working CPS board set.
+
+**UPDATE:** I was able to figure out what was wrong with that B-board, see [this post](/blog/2019/07/final-fight-fix/) for details!
