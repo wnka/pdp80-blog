@@ -35,37 +35,37 @@ To put these on this page, I wanted to resize them such that the width of the im
 
 First, I need to find each image's orientation:
 
-````bash
+{{<highlight bash>}}
 for i in `ls *.jpeg`; do 
    j=`identify -format '%[orientation]' $i`; 
    echo $j,$i;
 done
-````
+{{</highlight>}}
 
 This gives output like this:
 
-````bash
+{{<highlight bash>}}
 BottomRight,2018-02-06_09-30-16_283.jpeg
 RightTop,2018-02-06_09-30-25_981.jpeg
-````
+{{</highlight>}}
 
 * BottomRight = landscape, or wider than tall.
 * RightTop = portrait, or taller than wide.
 
 To resize the portrait images (and also rename them from .jpeg to .jpg):
-````bash
+{{<highlight bash>}}
 for i in `grep RightTop files.out | cut -d, -f2`; do 
     echo $i; 
     convert $i -resize "1024x" -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace sRGB -auto-orient ${i: : -5}.jpg; 
 done
-````
+{{</highlight>}}
 
 To resize the landscape images:
-````bash
+{{<highlight bash>}}
 for i in `grep BottomRight files.out | cut -d, -f2`; do
     echo $i; 
     convert $i -resize "768x" -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace sRGB -auto-orient ${i: : -5}.jpg;
 done
-````
+{{</highlight>}}
 
 Neat!

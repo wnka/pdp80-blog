@@ -30,7 +30,7 @@ Interestingly, the [hardware Ketsui runs on](http://www.system16.com/hardware.ph
 
 Here's the Swift code for the Apple Watch app. Pretty simple:
 
-````swift
+{{<highlight swift>}}
 //
 //  InterfaceController.swift
 //  InsertCoinWatch WatchKit Extension
@@ -82,4 +82,4 @@ class InterfaceController: WKInterfaceController {
         socket.emit("clicked", ["button": "coin"])
     }
 }
-````
+{{</highlight>}}
