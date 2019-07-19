@@ -7,7 +7,7 @@ Categories = ["hardware"]
 
 Happy New Year everybody!
 
-When I got my [Astro City back in May of 2011](/blog/2011/05/sega-astro-city/), it was in great shape but it had one issue: the fluorescent lamp for the marquee didn't work. Before I headed back to work I wanted to finally get this fixed, so I spent New Years Day working on it.
+When I got my [Astro City back in May of 2011](/posts/sega-astro-city/), it was in great shape but it had one issue: the fluorescent lamp for the marquee didn't work. Before I headed back to work I wanted to finally get this fixed, so I spent New Years Day working on it.
 
 The original fixture required a starter bulb, which was missing when I got the cabinet. The first thing I tried was ordering some [FG-1E starter bulbs](http://www.bulbconnection.com/ViewSIMItem/bcrw/simid/3677/item.html) and screwing one into the empty socket. This somewhat fixed the problem in that I could get the lamp to start up, but it didn't work without manual intervention since something was wrong with the ballast. I asked around on [forums](http://shmups.system11.org/viewtopic.php?f=6&t=36865) but with no easy fix, I didn't worry about it too much since I was too busy playing games.  Finally, I decided to just replace the whole fixture. I've seen [others](http://forum.arcadeotaku.com/viewtopic.php?f=3&t=5691) [talk](http://forum.arcadeotaku.com/viewtopic.php?f=3&t=15564) about doing this but haven't found a comprehensive guide of how to do it, so I figured I'd document what I did to replace mine.
 

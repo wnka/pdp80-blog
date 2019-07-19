@@ -4,7 +4,7 @@ slug: hugo-lambda
 date: 2018-08-31
 draft: false
 ---
-I made a post a few days ago about [being able to post using my phone](/blog/2018/08/hugo-from-phone/), so here's some more info!
+I made a post a few days ago about [being able to post using my phone](/posts/hugo-from-phone/), so here's some more info!
 
 **Disclaimer:** I work at Amazon on the AWS Lambda team.
 

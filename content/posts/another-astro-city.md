@@ -13,7 +13,7 @@ He bought this cab from the same guy I bought mine from and I had played on it a
 
 It's a [New Astro City](http://wiki.arcadeotaku.com/w/Sega_New_Astro_City) which is basically the same as a regular [Astro City](http://wiki.arcadeotaku.com/w/Sega_Astro_City), except the speakers and monitor are different.  Personally, I think the speakers are uglier than an Astro City, but that's mostly because the plastic tends to yellow due to age. Some folks [spray paint them white](http://www.gamoover.net/node/59) to cover up the yellowing, which I'll probably do myself soon. 
 
-As I commented [before](/blog/2013/02/moving-an-astro-city/), separating the two halves of the body on these cabinets is a huge pain. Thankfully in order to get it into his apartment he already had to disassemble it, so all the screws were loose which made it easy to take apart. We had it broken down and loaded into a U-Haul van in about 30 minutes. 
+As I commented [before](/posts/moving-an-astro-city/), separating the two halves of the body on these cabinets is a huge pain. Thankfully in order to get it into his apartment he already had to disassemble it, so all the screws were loose which made it easy to take apart. We had it broken down and loaded into a U-Haul van in about 30 minutes. 
 
 {{<img src="/images/IMG_0435.jpg" caption="Monitor and Bezel in U-Haul">}}
 

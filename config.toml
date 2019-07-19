@@ -67,9 +67,6 @@ pygmentsUseClasses=true
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""
 
-[permalinks]
-  posts = "blog/:year/:month/:slug"
-
 # Add additional social link entries underneath
 [social]
 	facebook-square = "https://www.facebook.com/phil.piwonka"

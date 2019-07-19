@@ -5,7 +5,7 @@ title = "Ketsui 1-ALL 1cc"
 Categories = ["cave", "ketsui", "1cc"]
 +++
 
-Clearing the first loop of [Ketsui](http://en.wikipedia.org/wiki/Ketsui) in one credit has been a goal of mine for a long time. I dedicated a whole month to trying to pull it off on the XBox 360 port, then I [got the PCB](/blog/2011/08/cave-pgm-boards/) and put more time into it and came insanely close on the last boss. Then I gave up for a while.
+Clearing the first loop of [Ketsui](http://en.wikipedia.org/wiki/Ketsui) in one credit has been a goal of mine for a long time. I dedicated a whole month to trying to pull it off on the XBox 360 port, then I [got the PCB](/posts/cave-pgm-boards/) and put more time into it and came insanely close on the last boss. Then I gave up for a while.
 
 Last night, after almost 2 years of playing the game off and on, I finally did it! I even captured it on video, for the most part.  **Protip:** if you're going to record something important on your iPhone, turn on airplane mode, otherwise a phone call will cause the video to stop recording.
 

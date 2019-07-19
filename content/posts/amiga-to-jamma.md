@@ -9,7 +9,7 @@ Growing up, my brother and I had an [Amiga 2000](http://en.wikipedia.org/wiki/Am
 
 Originally launched in 1985, the [Commodore Amiga](http://en.wikipedia.org/wiki/Amiga) was years ahead of all other computers and game consoles in terms of graphics and sound. I first saw an Amiga at a neighbor's house and I vividly remember the first two games I saw: [Sword of Sodan](http://www.youtube.com/watch?v=1sMJq_Xxnjc) and [Dragon's Lair](http://www.youtube.com/watch?v=dSE5LFdOtQI). Compared to the NES games we were playing, those games were pretty impressive.
 
-That Amiga 2000 from my youth eventually broke, so one day when feeling nostalgic I found an [Amiga 1000](http://en.wikipedia.org/wiki/Amiga_1000) on craigslist so that I could still play all those great games and have a reason to keep all those 3.5" 880k floppies. Recently however, the monitor for the Amiga stopped showing blue on its RGB input, leaving only red and green and making everything yellow. However, an Amiga monitor is basically an arcade monitor, which means I can hook it up to my cabinet or [supergun](/blog/2012/02/playing-arcade-games-with-no-cabinet/)!
+That Amiga 2000 from my youth eventually broke, so one day when feeling nostalgic I found an [Amiga 1000](http://en.wikipedia.org/wiki/Amiga_1000) on craigslist so that I could still play all those great games and have a reason to keep all those 3.5" 880k floppies. Recently however, the monitor for the Amiga stopped showing blue on its RGB input, leaving only red and green and making everything yellow. However, an Amiga monitor is basically an arcade monitor, which means I can hook it up to my cabinet or [supergun](/posts/playing-arcade-games-with-no-cabinet/)!
 
 ![Wired up](/images/IMG_2046.jpg)
 

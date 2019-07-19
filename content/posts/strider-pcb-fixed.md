@@ -5,7 +5,7 @@ title = "Strider PCB Fixed"
 Categories = ["capcom", "cps1", "strider"]
 +++
 
-As I [mentioned previously](/blog/2012/05/new-pcbs-2/), I picked up a [Strider](http://en.wikipedia.org/wiki/Strider_(arcade_game)) PCB that had some graphical issues. I did more futzing around and was able to fix the problem. It was the "B" board, just as I thought. I used my Street Fighter II board set to eliminate the "A" and "C" boards as the problem, which narrowed it down to either the "B" board itself or some of the graphics roms. 
+As I [mentioned previously](/posts/new-pcbs-2/), I picked up a [Strider](http://en.wikipedia.org/wiki/Strider_(arcade_game)) PCB that had some graphical issues. I did more futzing around and was able to fix the problem. It was the "B" board, just as I thought. I used my Street Fighter II board set to eliminate the "A" and "C" boards as the problem, which narrowed it down to either the "B" board itself or some of the graphics roms. 
 
 I pulled the graphics roms out one by one, which led to some interesting results and helped me narrow it down to the ST-8 and/or ST-9 graphics roms. I swapped in some of the other graphics roms into those positions, which totally screwed up the graphics but showed that the roms that I put in that position also started showing vertical lines. This told me it was those sockets on the board and not the actual roms, since those roms at their original position showed no corruption. 
 
@@ -23,4 +23,4 @@ I swapped the Final Fight roms onto the Strider "B" board. Lines!
 
 At some point I'll look more into what is wrong with the Strider "B" board, but at least now I have a fully working CPS board set.
 
-**UPDATE:** I was able to figure out what was wrong with that B-board, see [this post](/blog/2019/07/final-fight-fix/) for details!
+**UPDATE:** I was able to figure out what was wrong with that B-board, see [this post](/posts/final-fight-fix/) for details!

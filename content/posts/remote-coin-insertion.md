@@ -10,7 +10,7 @@ I looked at my [Ketsui](http://www.hardcoregaming101.net/ketsui/) PCB and the ba
 
 I’d rather just not worry about the battery damaging the game, so I removed it and now the game runs with default settings and I gotta insert a coin to play. What a **catastrophic inconvenience!** But what if I didn’t have to *actually* insert a coin? The coin mechanism in an arcade cabinet is basically a hunk of plastic  only lets quarters (or whatever currency) pass through. When they do pass through, they fall down a chute into a coin bucket and on the way flip a little switch that sends a signal to the PCB. That switch is basically just like a button in that it has a signal and a ground. 
 
-I’ve already got a Raspberry Pi sitting under the control panel of my cabinet that runs [the input display I built](/blog/2014/05/jamma-input-display/). The code for this is on [Github](https://github.com/wnka/arcadebuttons-node-pi). I made it able to [trigger buttons remotely](/blog/2015/04/input-display-improvements/), which was fun to write but pretty useless... until now. 
+I’ve already got a Raspberry Pi sitting under the control panel of my cabinet that runs [the input display I built](/posts/jamma-input-display/). The code for this is on [Github](https://github.com/wnka/arcadebuttons-node-pi). I made it able to [trigger buttons remotely](/posts/input-display-improvements/), which was fun to write but pretty useless... until now. 
 
 So to remotely trigger a coin drop, all I need to do is wire up the coin switch just like I wired up the buttons, which means hooking a [GPIO pin](https://www.raspberrypi.org/documentation/usage/gpio/) to the signal wire of the coin switch. An alligator clip made that super easy and the coin switch still works as normal. 
 

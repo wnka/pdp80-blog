@@ -5,9 +5,9 @@ title = "Mushihimesama Maniac Mode"
 Categories = ["cave", "mushihimesama"]
 +++
 
-Lately I've been doing more cabinet maintenance and improvements than actually playing any games seriously. I've swapped all of my boards in and out to check how they looked after [recalibrating my monitor](/blog/2012/01/astro-city-monitor-calibration/), and after playing a few credits of everything I have I've decided to leave Mushihimesama in the cab.
+Lately I've been doing more cabinet maintenance and improvements than actually playing any games seriously. I've swapped all of my boards in and out to check how they looked after [recalibrating my monitor](/posts/astro-city-monitor-calibration/), and after playing a few credits of everything I have I've decided to leave Mushihimesama in the cab.
 
-Now, I previously [1CC'd Mushihimesama Original mode](/blog/2011/07/mushihimesama-1cc/), however that's the easiest mode of the game. The scoring is really simple (don't die) and it really wasn't too challenging to get the 1CC. 
+Now, I previously [1CC'd Mushihimesama Original mode](/posts/mushihimesama-1cc/), however that's the easiest mode of the game. The scoring is really simple (don't die) and it really wasn't too challenging to get the 1CC. 
 
 Maniac mode has bullet patterns that are a lot more dense and interesting. On top of that, the scoring system is also more complicated and has the potential for huge scores. High level players get scores in the BILLIONS. Scoring is based around chaining enemies and pushing counter values higher. There are multiple counters that you need to monitor and use different attacks in different scenarios to push the counter values up. This [thread](http://www.cave-stg.com/forum/index.php?topic=4.msg4#msg4) does a good job explaining the different attacks and when to use them. Usually I don't like chaining based scoring systems but the incorporation of the shot types and child counters make for interesting gameplay.
 
