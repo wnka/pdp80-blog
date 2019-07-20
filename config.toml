@@ -1,19 +1,15 @@
 baseURL = "https://pdp80.com/"
 languageCode = "en-us"
-title = "Phil Piwonka"
+publishDir = "public"
+pygmentsUseClasses = true
 theme = "pdp80-theme"
-pygmentsUseClasses=true
-
+title = "Phil Piwonka"
 [params]
 	author = "Phil Piwonka"
-	description = "yea hi"
 	bio = ""
-
-	twitter = "wnka"
-	facebook = "phil.piwonka"
-
+	description = "yea hi"
 	enableRSS = true
-
-	# 404 page
-	title404 = ""
+	facebook = "phil.piwonka"
 	subtitle404 = ""
+	title404 = ""
+	twitter = "wnka"
