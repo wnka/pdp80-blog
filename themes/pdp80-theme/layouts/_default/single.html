@@ -8,36 +8,15 @@
                     {{ .Title }}
                   </h1>
                   {{ if eq .Type "posts" }}
-                  <h2 class="headline">
+                  <div class="date-line">
                     {{ .Date.Format "Jan 2, 2006" }}
-<!--                    · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
-                      · {{ .ReadingTime }} minute read
--->
-                  </h2>
+                  </div>
                   {{ end }}
-                {{ if .Site.Params.enableToc }}
-                  {{ if .TableOfContents }}
-                    <div id="toc">
-                      {{ .TableOfContents }}
-                    </div>
-                  {{ end }}
-                {{ end }}
                 <section id="post-body">
                     {{ .Content }}
                 </section>
             </article>
 
-            {{ if .Site.Params.enableShare }}
-                {{ partial "share.html" . }}
-            {{ end }}
-
-            {{ if .Site.Params.enableDisqus }}
-                {{ partial "disqus.html" . }}
-            {{ end }}
-
-            {{ if .Site.Params.showLatestPosts }}
-                {{ partial "latest-posts.html" . }}
-            {{ end }}
             {{ partial "footer.html" . }}
         </section>
     </body>

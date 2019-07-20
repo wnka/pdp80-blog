@@ -2,11 +2,7 @@
     {{ if not .IsHome }}
     <a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
     {{ end }}
-    <p class="small">
-    {{ with .Site.Params.copyright }}
-        {{ . | markdownify }}
-    {{ else }}
-       © Copyright {{ now.Format "2006"}} - {{ .Site.Params.Author }}
-    {{ end }}
+    <p class="copyright">
+    © Copyright {{ now.Format "2006"}} - {{ .Site.Params.Author }}
     </p>
 </footer>

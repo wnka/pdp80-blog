@@ -1,124 +1,3 @@
-/*
- * IBM Plex Sans font
- * Originally included via:
- * @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,600);
- * But inlined so I could fix:
- * https://developers.google.com/web/updates/2016/02/font-display?utm_source=lighthouse&utm_medium=unknown
- */
-
-/* cyrillic-ext */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 400;
-  src: local('IBM Plex Sans'), local('IBMPlexSans'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhdzeFaxOedfTDw.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-display: fallback;
-  font-style: normal;
-  font-weight: 400;
-  src: local('IBM Plex Sans'), local('IBMPlexSans'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhdXeFaxOedfTDw.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* greek */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 400;
-  src: local('IBM Plex Sans'), local('IBMPlexSans'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhdLeFaxOedfTDw.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 400;
-  src: local('IBM Plex Sans'), local('IBMPlexSans'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhd7eFaxOedfTDw.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 400;
-  src: local('IBM Plex Sans'), local('IBMPlexSans'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhd_eFaxOedfTDw.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 400;
-  src: local('IBM Plex Sans'), local('IBMPlexSans'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhdHeFaxOedc.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic-ext */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 600;
-  src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdP3pBmtF8A.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 600;
-  src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIVsdP3pBmtF8A.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* greek */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 600;
-  src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIJsdP3pBmtF8A.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
-}
-/* vietnamese */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 600;
-  src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI5sdP3pBmtF8A.woff2) format('woff2');
-  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-display: fallback;
-  font-weight: 600;
-  src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9sdP3pBmtF8A.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'IBM Plex Sans';
-  font-style: normal;
-  font-weight: 600;
-  font-display: fallback;
-  src: local('IBM Plex Sans SemiBold'), local('IBMPlexSans-SemiBold'), url(https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdP3pBms.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-/*
- * END IBM Plex Sans font
- */
-
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
     border: 0;
     font-size: 100%;
@@ -152,7 +31,6 @@ table {
 
 .post h1, h3, h4, h5, p, #post-body ul, #post-list li, #post-body ol, pre {
   margin-bottom: 10px;
-  color: #282828;
 }
 
 /* Base */
@@ -163,14 +41,13 @@ html, body {
 }
 
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
 
 h1 {
     font-size: 30px;
-    letter-spacing: -1px;
     font-weight: bold;
     color: #FF4538;
 }
@@ -195,7 +72,6 @@ h2, h3 {
   display: inline-block;
   width: 60px;
   margin: 0;
-  color: #282828;
   font-weight: bold;
 }
 
@@ -238,16 +114,10 @@ nav.main-nav a {
       top: 8px;
       right: 6px;
       padding: 8px 8px;
-      color: #282828;
       font-size: 13px;
       line-height: 1.35;
       border-radius: 3px;
   }
-}
-@media (max-width: 324px) {
-    nav.main-nav a.cta {
-      display: none;
-    }
 }
 
 #wrapper {
@@ -259,34 +129,12 @@ nav.main-nav a {
 /*Accent color*/
 
 a, #title, #post-list a:hover, #title:hover {
-  text-decoration: underline;
-}
-
-p a {
-  text-decoration: underline;
   color: #282828;
-}
-
-
-/*Transitions*/
-
-a, #post-nav a, #post-list a {
-    -webkit-transition: all 0.15s ease;
-    -moz-transition: all 0.15s ease;
-    -ms-transition: all 0.15s ease;
-    -o-transition: all 0.15s ease;
-    transition: all 0.15s ease;
-    color: #282828;
-}
-
-ul {
-    margin: 0;
-    padding: 0;
+  text-decoration: underline;
 }
 
 li {
     list-style-position: outside;
-    /* text-indent: -1.5em; */
     margin-left: 1.5em;
 }
 
@@ -296,11 +144,11 @@ ul>li {
 
 
 /* Line Height */
-
 #post-body, p {
     margin-top: 10px;
     line-height: 1.7em;
 }
+
 #post-body p > a {
   word-break: break-word;
   white-space: pre-wrap;
@@ -314,45 +162,24 @@ em, i {
     font-style: italic;
 }
 
-
 .home h1 {
-    font-size: 30px;
-    letter-spacing: -1px;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-.post h1 {
-    margin-top: 0px;
-    margin-bottom: 10px;
-    color: #FF4538;
-}
-
-.post h2 {
-    margin-top: 0px;
     margin-bottom: 10px;
 }
 
-.post h2.headline {
+.post .date-line {
     margin: -5px 0 0 0;
     display: inline-block;
     font-size: 16px;
     font-weight: normal;
+    color: #FF4538;
 }
 
-p.small {
+p.copyright {
     font-size: 14px;
     line-height: 1.5;
     display: block;
     text-align: center;
     margin-top: 20px;
-}
-
-hr {
-    display: block;
-    border: none;
-    height: 1px;
-    margin: 40px auto;
-    background: #eee;
 }
 
 table {
@@ -361,12 +188,6 @@ table {
     border-collapse: collapse;
     font-size: 13px;
     line-height: 1.5em;
-}
-
-th, td {
-    text-align: left;
-    padding-right: 20px;
-    vertical-align: top;
 }
 
 table td, td {
@@ -390,7 +211,6 @@ thead th, th {
     height: 20px;
     font-size: 13px;
     font-weight: bold;
-    color: #444;
     border-bottom: 1px solid #282828;
     cursor: default;
     white-space: nowrap;
@@ -401,7 +221,6 @@ img {
     margin-left: calc(-20px);
     margin-right: calc(-20px);
 }
-
 
 #footer {
   margin-top: 20px;
@@ -436,9 +255,9 @@ img {
     h1 {
         font-size: 26px;
     }
-    .post h2.headline {
+    .post .date-line {
         font-size: 13px;
-    }
+     }
     .post h1 {
         font-size: 24px;
     }
@@ -450,7 +269,6 @@ img {
 /* Background */ .chroma {
   background: #fbfbfb;
   font-size: 13px;
-  /*font-weight: 100;*/
   padding: 16px;
   border: none;
   box-shadow: inset 0 0 0 1px #E4EBF2;
