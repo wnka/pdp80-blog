@@ -131,6 +131,7 @@ nav.main-nav a {
 a, #title, #post-list a:hover, #title:hover {
   color: #282828;
   text-decoration: underline;
+  text-decoration-color: #FF4538;
 }
 
 li {
