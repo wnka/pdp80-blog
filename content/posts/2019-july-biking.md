@@ -18,3 +18,5 @@ There are always new classes and committing to live classes helps me plan my wor
 ![](/images/peloton.jpg)
 
 First ride! Got pretty sweaty! Also, this motivated a much needed garage cleanup and many trips to Goodwill.
+
+Follow me on Peloton! My username is **pdp80**.
