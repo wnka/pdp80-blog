@@ -37,8 +37,7 @@ table {
 
 html, body {
   height: 100%;
-  background: #F1F1F5;
-  color: #525467;
+  background: #FFFFFF;
 }
 
 body {
@@ -50,11 +49,11 @@ body {
 h1 {
     font-size: 30px;
     font-weight: bold;
-    color: #D3283C;
+    color: #FF4538;
 }
 
 h2, h3 {
-  color: #D3283C;
+  color: #FF4538;
   font-size: 20px;
   font-weight: bold;
 }
@@ -130,9 +129,9 @@ nav.main-nav a {
 /*Accent color*/
 
 a, #title, #post-list a:hover, #title:hover {
-  color: #4570A2;
+  color: #282828;
   text-decoration: underline;
-  text-decoration-color: #4570A2;
+  text-decoration-color: #FF4538;
 }
 
 li {
@@ -173,7 +172,7 @@ em, i {
     display: inline-block;
     font-size: 16px;
     font-weight: normal;
-    color: #D3283C;
+    color: #FF4538;
 }
 
 p.copyright {
