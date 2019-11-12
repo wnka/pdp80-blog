@@ -3,7 +3,6 @@
 	{{ if not .IsHome }}
 	<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
-	<a href='{{ .Site.BaseURL }}now'>Now</a>
 	<a href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}categories'>{{ with .Site.Params.categories }}{{ . }}{{ else }}Tags{{ end }}</a>
 </nav>
