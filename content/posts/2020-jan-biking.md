@@ -10,6 +10,7 @@ In January I biked **309 miles** which is pretty great. My paternity leave ended
 Consistency is super important to my schedule these days since with a kiddo at home I need to plan out my day a lot more than I used to. I’ve been working pretty fixed hours and ensuring that I’m home at a certain time to help out my wife with the baby. 
 
 Weather has been really rainy, even for Seattle. I use two [paniers/saddlebags](https://www.amazon.com/Ortlieb-Back-Roller-Panniers-Various-Patterns/dp/B0063879QQ) to transport my stuff, which includes a change of clothes since I shower at work. Things that have really helped with riding comfortably in the rain:
+
 1. [Waterproof shoes](https://www.amazon.com/Fizik-X5-Artica-Shoe-Black/dp/B077H5QVVJ)
 1. [Waterproof gloves](https://www.amazon.com/Pearl-Izumi-AMFIB-Lobster-Gloves/dp/B00SOMS8AK)
 1. [Wool socks](https://www.amazon.com/gp/product/B000TA73Z6)
