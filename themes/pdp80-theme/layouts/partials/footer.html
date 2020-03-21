@@ -1,8 +1,6 @@
 <footer id="footer">
-    {{ if not .IsHome }}
-    <a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
-    {{ end }}
-    <p class="copyright">
-    © Copyright {{ now.Format "2006"}} - {{ .Site.Params.Author }}
-    </p>
+  <p class="copyright">
+
+    © {{ .Site.Params.Author }}
+  </p>
 </footer>
