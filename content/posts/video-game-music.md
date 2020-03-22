@@ -36,7 +36,7 @@ I like listening to instrumental music that's repetitive when I'm working so I l
 
 I keep this script in the folder with all my music files, it will continually pick a random `.m3u` playlist.
 
-```bash
+{{<highlight bash>}}
 while true; do
     vgmplay "`find . -name "*.m3u" | gshuf -n 1`"
     echo "Press Q to exit, any other key to reshuffle:\c"
@@ -47,7 +47,7 @@ while true; do
         echo "on to the next one"
     fi
 done
-```
+{{</highlight>}}
 
 ## Diggin' in the Carts
 
