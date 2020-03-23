@@ -3,9 +3,9 @@ title: "Video Game Music"
 date: 2020-03-21T10:55:16-07:00
 Categories: ["music"]
 ---
-I like listening to instrumental music that's repetitive when I'm working so I listen to a lot of video game music. It's designed to be looped over and over, plus there's a lot of great video game music! I figured I'd share how I listen and some of my favorites.
+I like listening to repetitive instrumental music when I'm working so I listen to a lot of video game music. It's designed to be looped over and over, plus there's a lot of great tunes! I figured I'd share how I listen as well as some of my favorites.
 
-[VGMPlay](https://github.com/vgmrips/vgmplay) is a nice command line player that emulates sound chips used by consoles and different arcade hardware. There are some sites where you can get songs in `.vgz` format with an `.m3u` playlist, which you feed into VGMPlay and the jams start pumpin'. It isn't terribly well documented, but you can find the default `.ini` file [here](https://github.com/vgmrips/vgmplay/blob/master/VGMPlay/VGMPlay.ini) which you copy into the same directory as `vgmplay` and alter to your taste. To increase the number of loops per song, change `MaxLoops` in the `.ini` to some hexadecimal value, it defaults to `0x02` (or two loops), I pump that up to 4, so `0x04` which causes each song to loop more times.
+[VGMPlay](https://github.com/vgmrips/vgmplay) is a nice command line player that emulates sound chips used by consoles and different arcade hardware. There are some sites where you can get songs in `.vgz` format with an `.m3u` playlist, which you feed into VGMPlay and the jams start pumpin'. It isn't terribly well documented, but you can find the default `.ini` file [here](https://github.com/vgmrips/vgmplay/blob/master/VGMPlay/VGMPlay.ini) which you copy into the same directory as `vgmplay` and alter to your taste. To increase the number of loops per song, change `MaxLoops` in the `.ini` to some hexadecimal value, it defaults to `0x02` (or two loops), I pump that up to 4, so `0x04` which causes the desired amount of repetition.
 
 ## Places to get music files
 
