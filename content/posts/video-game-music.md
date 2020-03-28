@@ -19,7 +19,7 @@ I like listening to repetitive instrumental music when I'm working so I listen t
 1. Cave Story - PC/Various - [YouTube](https://www.youtube.com/watch?v=HFbr3kjReok)
 1. Cho Ren Sha 68k - Sharp x68000/PC - [YouTube](https://www.youtube.com/playlist?list=PLA7E90B6A7F3A3750)
 1. Darius - Arcade - [YouTube](https://www.youtube.com/watch?v=d-cIbTQfog4) / [vgmplay](https://vgmrips.net/packs/pack/darius-arcade)
-1. Fantasy Zone II - Arcade - [YouTube](https://www.youtube.com/watch?v=1BK5ACIbJRI ) / [vgmplay](https://vgmrips.net/packs/pack/fantasy-zone-ii-dx-sega-system-16c)
+1. Fantasy Zone II - Arcade - [YouTube](https://www.youtube.com/watch?v=s5hCOsYQhZ4) / [vgmplay](https://vgmrips.net/packs/pack/fantasy-zone-ii-dx-sega-system-16c)
 1. Gimmick! - NES/Famicom - [YouTube](https://www.youtube.com/watch?v=aU0GEcU63qw) / [vgmplay](https://vgmrips.net/packs/pack/gimmick-family-computer)
 1. Lagrange Point - NES/Famicom - [YouTube](https://www.youtube.com/watch?v=drwX7MbB_IE) / [vgmplay](https://vgmrips.net/packs/pack/lagrange-point-family-computer)
 1. M.U.S.H.A. - Genesis/Mega Drive - [YouTube](https://www.youtube.com/watch?v=HmkXl2u4Zuc) / [vgmplay](https://project2612.org/details.php?id=320)
