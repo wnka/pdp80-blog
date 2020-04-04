@@ -1,5 +1,5 @@
 ---
-title: "Biking March 2020, WFH, Covid-19"
+title: "Biking March 2020, WFH, COVID-19"
 date: 2020-04-03T17:44:45-07:00
 draft: false
 Categories: ["biking"]
