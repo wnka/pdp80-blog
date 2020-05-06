@@ -58,14 +58,17 @@ I keep this script in the Dropbox folder with all my music files, it will
 continually pick a random `.m3u` playlist.
 
 {{<highlight bash>}}
-while true; do
-    vgmplay "`find . -name "*.m3u" | gshuf -n 1`"
-    echo "Press Q to exit, any other key to reshuffle:\c"
-    read input
+#!/bin/bash
+OIFS="$IFS"
+IFS=$'\n'
+for i in `find . -name "*.m3u" | gshuf`; do
+    vgmplay $i
+    echo "Press q to exit or any key to continue"
+    # Timeout after 3 seconds to keep the party rolling
+    read -n 1 -t 3 input
     if [[ $input = "q" ]] || [[ $input = "Q" ]]
         then exit 1
-    else
-        echo "on to the next one"
     fi
 done
+IFS="$OIFS"
 {{</highlight>}}
