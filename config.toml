@@ -13,3 +13,5 @@ title = "Phil Piwonka"
 	subtitle404 = ""
 	title404 = ""
 	twitter = "wnka"
+[markup.goldmark.renderer]
+    unsafe= true

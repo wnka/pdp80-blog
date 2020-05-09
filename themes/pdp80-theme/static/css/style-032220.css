@@ -39,12 +39,11 @@ table {
 html, body {
   font-size: 1rem;
   height: 100%;
-  background: #FFFFFF;
+  background: #F2EEF0;
 }
 
 body {
-  /*    font-family: Menlo,Monaco,"Droid Sans","Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier New",monospace,serif; */
-  font-family: monospace,Courier;
+    font-family: monospace,Courier;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
@@ -133,6 +132,7 @@ a, #title, #post-list a:hover, #title:hover {
   color: #282828;
   text-decoration: underline;
   text-decoration-color: #282828;
+  font-weight: bold;
 }
 
 li {
@@ -148,7 +148,7 @@ ul>li {
 /* Line Height */
 #post-body, p {
     margin-top: 10px;
-    line-height: 1.3em;
+    line-height: 1.2em;
 }
 
 #post-body p > a {
