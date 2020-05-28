@@ -51,36 +51,39 @@ Not really related to getting a new machine but I thought I'd share this here. I
 
 I put entries in my `/etc/hosts` like this for sites I want to block:
 
-```bash
+{{<highlight bash>}}
 # 0.0.0.0    www.thehardtimes.net #PDPFUN
-```
+{{</highlight>}}
+
 
 When it's time to work, I run `worktime`, which makes sure that my overrides are in effect:
 
-```bash
+{{<highlight bash>}}
 #!/usr/bin/env bash
 
 sudo sed -i.bak "s/^# \(.*\)#PDPFUN/\1#PDPWORK/g" /etc/hosts
 cat /etc/hosts
 sudo dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
-```
+{{</highlight>}}
+
 
 This enables those override entries in `/etc/hosts`:
 
-```bash
+{{<highlight bash>}}
 0.0.0.0    www.thehardtimes.net #PDPWORK
-```
+
+{{</highlight>}}
 
 When I want to take a break, I run `funtime`, which comments out my overrides so I can access all those fun sites:
 
-```bash
+{{<highlight bash>}}
 #!/usr/bin/env bash
 
 sudo sed -i.bak "s/^\(.*\)#PDPWORK/# \1#PDPFUN/g" /etc/hosts
 cat /etc/hosts
 sudo dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
-```
+{{</highlight>}}
 
 Perhaps there's a better way to do this, but this has been pretty effective at keeping me from drifting off while compiling or whatever.
