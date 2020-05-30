@@ -19,7 +19,7 @@ The thing that has surprised me is the volume of lookups that get blocked. It’
 
 See also: the [Pi-hole subreddit](https://www.reddit.com/r/pihole/).
 ## Arcade Input Display
-[I created this program](https://github.com/wnka/arcadebuttons-node-pi) that will listen to the inputs (joystick, buttons) on my arcade cabinet though GPIO and displays them on a webpage using Node.js and WebSockets. It was really fun to build and was a good introduction to WebSockets!
+[I created this program](https://github.com/wnka/arcadebuttons-node-pi) that will listen to the inputs (joystick, buttons) on my arcade cabinet though GPIO and displays them on a webpage using Node.js and WebSockets. It was really fun to build and was a good introduction to WebSockets! I wrote about it [here](/posts/jamma-input-display/) when I created it and [here](/posts/pretty-input-display/) when I made it look prettier.
 
 This physically runs on the same Pi as my Pi-hole instance.
 ## WireGuard 
