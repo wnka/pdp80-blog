@@ -27,12 +27,12 @@ I've been watching a lot of action movies lately and I made this list of tips an
 1. If you jump out of a moving car, be sure to roll along the ground. It’ll make it not hurt at all. 
 1. Jump into a taxi and say "follow that car!"
 1. Jump from a bridge onto a moving train below.
-1. Extract a bullet from my shoulder (just a flesh wound) myself using some metal scissor thing to pull the bullet out, look at it, and then drop it into a metal dish to hear a satisfying "ping!"
-1. Shout at the passenger in my car to "take the wheel!"
+1. Extract a bullet from your shoulder (just a flesh wound) yourself using some metal scissor thing to pull the bullet out, look at it, and then drop it into a metal dish to hear a satisfying "ping!"
+1. Shout at the passenger in your car to "take the wheel!"
 1. Clip the correct wire on a bomb that had an LED timer when the timer has one second remaining.
 1. Spin kick a gun or knife out of someone’s hand. 
 1. Punctuate a sentence with a shotgun cock.
-1. Throw down a smoke bomb and when the smoke clears I’m gone
+1. Throw down a smoke bomb and when the smoke clears you're gone
 1. Lose more than 4 hub caps from your car during a high speed chase. 
 1. Look at a foot print on the ground, touch it with your hand and say "they went this way"
 1. Act like you're going to kick someone in the face but stop short and just stand there for an extended period of time with your leg up
@@ -54,7 +54,7 @@ I've been watching a lot of action movies lately and I made this list of tips an
 1. Ask someone "why me?" and they respond "because we needed the BEST!"
 1. While driving, shift more times than your car has gears. You can always go faster. 
 1. Blow something up by pushing down on one of those old timey plungers.
-1. Get a cut on my face, then touch the cut, look at the blood on your fingers, then lick the blood off your fingers while you look menacing at my foe.
+1. Get a cut on your face, then touch the cut, look at the blood on your fingers, then lick the blood off your fingers while you look menacing at your foe.
 1. Shoot a shotgun one handed and somehow magically have it not recoil into your face. 
 1. Save a civilian and let bad guys get away first. It’ll show you’re a good person and worth rooting for. 
 1. Kick someone (or get kicked) into a giant pile of cardboard boxes. 
