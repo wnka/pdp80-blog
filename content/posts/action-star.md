@@ -1,5 +1,5 @@
 ---
-title: "So You Want to be an Action Star?"
+title: "Action Star TODO List"
 date: 2020-06-02T18:58:13-07:00
 draft: true
 ---
@@ -13,7 +13,7 @@ I've been watching a lot of action movies lately and I made this list of tips an
 1. Shoot out a tire on a car.
 1. Cock a lever-action shotgun like Arnold in Terminator 2.
 1. Thinking a foe is defeated, let your guard down, only to have the foe muster up the energy for one last attack. Your partner, who up until now has been anti-violence, will save you.
-1. Shooting a gun and blowing something up while not even looking in the direction you're shooting
+1. Shooting a gun and blowing something up while not even looking in the direction you're shooting.
 1. Light a stick of dynamite with a cigar.
 1. Make a car drive off a cliff, then shoot it so it explodes midair. 
 1. Act like you're going to punch someone in the face but stop short and not actually him them, then have them faint.

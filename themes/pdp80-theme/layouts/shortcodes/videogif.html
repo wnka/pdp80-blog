@@ -1,0 +1,16 @@
+{{/*
+
+Inspired by: https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/
+Example Usage:
+
+{{% videogif "/videos/sample.mp4" %}}
+
+On my Mac, to convert a video I had to do:
+
+ffmpeg -i input_display.gif -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" input_display.mp4
+
+*/}}
+<video autoplay loop muted playsinline>
+  <source src="{{ .Get 0 }}" type="video/mp4">
+  <p>Your browser doesn't support this embedded video.</p>
+</video>
