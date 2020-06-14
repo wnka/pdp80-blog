@@ -1,7 +1,7 @@
 ---
 title: "Arcade Capture Setup"
 date: 2020-06-13T20:01:26-07:00
-draft: true
+draft: false
 mermaid: true
 ---
 
