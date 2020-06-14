@@ -246,6 +246,11 @@ video {
       margin-bottom: 10px;
 }
 
+svg {
+    width: 100%;
+    height: auto;
+}
+
 /* Post Navigation */
 
 /* Media Queries */
