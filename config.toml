@@ -1,4 +1,4 @@
-baseURL = "https://pdp80.com/"
+baseURL = "https://pdp.dev/"
 languageCode = "en-us"
 publishDir = "public"
 pygmentsUseClasses = true
