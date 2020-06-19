@@ -5,11 +5,7 @@ date = "2018-01-29T18:53:54-08:00"
 
 {{<img src="/images/about3.jpg">}}
 
-Hi, my name is Phil Piwonka and I live in Seattle, WA with my [wife](https://kristawelch.com), daughter, and two cats.
-
-Why **pdp80**? It's my initials (**PDP**) plus the year I was born (19**80**). Pretty creative. Plus it sounds like the [PDP-8/e minicomputer](https://en.wikipedia.org/wiki/PDP-8/E), which is fairly [stylish](/images/pdp8e.jpg). I'm not old enough to have ever used one of those though.
-
-On other social media / sites I use the handle **wnka**, which is my last name transformed into [four letter radio station call letters](https://www.primermagazine.com/2010/field-manual/know-it-all-w’s-and-k’s-the-history-of-radio-and-television-call-letters).
+Hi, my name is Phil Piwonka and I live in Seattle, WA with my [wife](https://kristawelch.com), daughter, and two cats. I'm currently an engineer on the [AWS Lambda](https://aws.amazon.com/lambda/) team.
 
 Links:
 
