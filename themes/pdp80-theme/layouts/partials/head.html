@@ -8,11 +8,12 @@
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
     <title>{{ .Title }}</title>
+    <link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
     <link rel="me" href="https://micro.blog/pdp80"/>
     <link rel="me" href="https://twitter.com/wnka"/>
     <link rel="me" href="https://github.com/wnka"/>
-    <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style-20200614.css">
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico"/>
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style-20200630.css"/>
 
     {{ if .Site.Params.enableRSS }}
     <link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
@@ -20,6 +21,6 @@
 
     {{ if (.Params.mermaid) }}
     <!-- MermaidJS support -->
-    <script async src="https://unpkg.com/mermaid@8.5.2/dist/mermaid.min.js"></script>
+    <script src="https://unpkg.com/mermaid@8.5.2/dist/mermaid.min.js"></script>
     {{ end }}
   </head>
