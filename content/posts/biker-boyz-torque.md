@@ -1,7 +1,7 @@
 ---
 title: "Biker Boyz vs. Torque"
-date: 2020-05-31T09:37:24-07:00
-draft: true
+date: 2020-07-05T20:37:24-07:00
+draft: false
 ---
 These silly motorcycle movies came out around the same time and tried to ride the wave of The Fast and the Furious, which BTW is an amazing movie franchise that I love (no joke). Sadly, there was no sequels to either of these movies, no Biker 2oyz or 2orque. But let’s compare. 
 
