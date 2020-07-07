@@ -3,6 +3,7 @@ date = "2006-05-23"
 slug = "intel-and-ppc-argument-evaluation"
 title = "Intel and PPC Argument Evaluation"
 Categories = ["Cocoa", "objective-c"]
+code = true
 +++
 
 In Cocoa, take the following class:

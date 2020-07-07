@@ -3,6 +3,7 @@ title: "Arcade Capture Setup"
 date: 2020-06-13T20:01:26-07:00
 draft: false
 mermaid: true
+code: true
 ---
 
 I recently discovered [MermaidJS](https://mermaid-js.github.io/mermaid/#/) for drawing diagrams for work and found it to be really useful. I figured I'd use it to diagram how I can capture/record/stream from my arcade cabinets.

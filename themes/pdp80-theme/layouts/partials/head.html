@@ -8,9 +8,19 @@
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
     <title>{{ .Title }}</title>
-    {{ $css := resources.Get "/css/pdp.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $css.Permalink }}">
-    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+    <style>
+        {{ $css := resources.Get "/css/pdp.css" | minify }}
+        {{ $css.Content | safeCSS }}
+    </style>
+
+    <!-- Code CSS if 'code: true' is specified on the post -->
+    {{ if (.Params.code) }}
+    <style>
+        {{ $css := resources.Get "/css/code.css" | minify }}
+        {{ $css.Content | safeCSS }}
+    </style>
+    {{ end }}
+
     <link rel="me" href="https://micro.blog/pdp80"/>
     <link rel="me" href="https://twitter.com/wnka"/>
     <link rel="me" href="https://github.com/wnka"/>

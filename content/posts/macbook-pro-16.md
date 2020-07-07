@@ -2,6 +2,7 @@
 title: "MacBook Pro 16\""
 date: 2020-05-27T12:03:47-07:00
 draft: false
+code: true
 ---
 I got a new MacBook Pro 16" laptop in mid-February, right before everything locked down for COVID. I wanted a better machine for work as the standard issue 13-inch was too cramped on the go for my tastes. 
 

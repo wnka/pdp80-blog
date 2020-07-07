@@ -2,6 +2,7 @@
 title: "Video Tag"
 date: 2020-06-13T12:40:42-07:00
 draft: false
+code: true
 ---
 
 I read [this article](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) about serving up videos instead of GIFs to save on bandwidth costs so I wanted to give it a shot. Here's a nice video of my [JAMMA input display](/posts/jamma-input-display/) that I originally captured as a GIF.

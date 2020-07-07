@@ -2,6 +2,7 @@
 title: "Video Game Music"
 date: 2020-03-21T10:55:16-07:00
 Categories: ["music"]
+code: true
 ---
 When I'm working, I like listening to repetitive instrumental music to minimize
 distraction.  Video game music works really well for this since it's designed to
