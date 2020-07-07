@@ -8,7 +8,8 @@
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
     <title>{{ .Title }}</title>
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style-20200630.css"/>
+    {{ $css := resources.Get "/css/pdp.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.Permalink }}">
     <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
     <link rel="me" href="https://micro.blog/pdp80"/>
     <link rel="me" href="https://twitter.com/wnka"/>
