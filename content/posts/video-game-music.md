@@ -57,7 +57,7 @@ soundtrack.
 I keep this script in the Dropbox folder with all my music files, it will
 continually pick a random `.m3u` playlist.
 
-{{<highlight bash>}}
+```bash
 #!/bin/bash
 OIFS="$IFS"
 IFS=$'\n'
@@ -71,4 +71,4 @@ for i in `find . -name "*.m3u" | gshuf`; do
     fi
 done
 IFS="$OIFS"
-{{</highlight>}}
+```
