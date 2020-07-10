@@ -1,7 +1,7 @@
 ---
 title: "Action Star TODO List"
-date: 2020-06-02T18:58:13-07:00
-draft: true
+date: 2020-07-10T07:30:13-07:00
+draft: false
 ---
 I've been watching a lot of action movies lately and I made this list of tips and cool things you could/should cross off your TODO list if you wanted to be a really awesome action movie star! 
 
@@ -32,10 +32,10 @@ I've been watching a lot of action movies lately and I made this list of tips an
 1. Clip the correct wire on a bomb that had an LED timer when the timer has one second remaining.
 1. Spin kick a gun or knife out of someone’s hand. 
 1. Punctuate a sentence with a shotgun cock.
-1. Throw down a smoke bomb and when the smoke clears you're gone
+1. Throw down a smoke bomb and when the smoke clears you're gone.
 1. Lose more than 4 hub caps from your car during a high speed chase. 
-1. Look at a foot print on the ground, touch it with your hand and say "they went this way"
-1. Act like you're going to kick someone in the face but stop short and just stand there for an extended period of time with your leg up
+1. Look at a foot print on the ground, touch it with your hand and say "they went this way."
+1. Act like you're going to kick someone in the face but stop short and just stand there for an extended period of time with your leg up.
 1. If you’re in a standard police car, be sure to go in reverse with the doors open so they rip off and you can shoot better. 
 1. Shoot a six shot revolver more than six times without reloading. 
 1. Yell "don’t let him get away!"
