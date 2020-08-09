@@ -64,3 +64,4 @@ I've been watching a lot of action movies lately and I made this list of tips an
 1. Emerge from a body of water with a machine gun. 
 1. Ghost ride your car into a bad guys lair, they pump the car full of lead, then open the door to discover you’re not there. 
 1. Be interviewed by a reporter, and use that opportunity to talk shit into the camera directly to the lead bad guy about how you’re coming for them. The lead bad guy is of course tuned in and has an outburst.
+1. Use a bad guy as a human shield.
