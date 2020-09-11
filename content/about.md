@@ -7,6 +7,8 @@ date = "2018-01-29T18:53:54-08:00"
 
 Hi, my name is Phil Piwonka and I live in Seattle, WA with my [wife](https://kristawelch.com), daughter, and two cats. I'm currently an engineer on the [AWS Lambda](https://aws.amazon.com/lambda/) team.
 
+<a href="mailto:hello@pdp.dev?subject=Hello!">E-mail me and say hello!</a>
+
 Links:
 
 * [Arcade PCB Collection](/pcb)

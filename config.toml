@@ -6,6 +6,7 @@ theme = "pdp80-theme"
 title = "Phil Piwonka"
 [params]
 	author = "Phil Piwonka"
+	email = "hello@pdp.dev"
 	bio = ""
 	description = "yea hi"
 	enableRSS = true
