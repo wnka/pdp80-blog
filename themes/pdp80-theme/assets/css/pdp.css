@@ -95,6 +95,10 @@ html, body {
 }
 
 @media (prefers-color-scheme: dark) {
+  svg {
+    background: #b0b0b0;
+  }
+
   html, body {
     background: #282828;
     color: #e0e0e0;
