@@ -37,7 +37,7 @@ table {
 /* Base */
 
 html, body {
-  font-size: 18px;
+  font-size: 16px;
   height: 100%;
 }
 
@@ -203,7 +203,7 @@ ul>li {
 /* Line Height */
 #post-body, p {
     margin-top: 10px;
-    line-height: 1.2em;
+    line-height: 22px;
 }
 
 #post-body p > a {
