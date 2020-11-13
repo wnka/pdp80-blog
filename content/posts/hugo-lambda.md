@@ -17,14 +17,14 @@ The first step is use GitHub [Webhooks](https://developer.github.com/webhooks/) 
 The request that the GitHub Webhook sends must complete in 10 seconds or less, so I actually wrote two Lambda functions that separate *accepting work from GitHub* and *doing the work*:
 
 1. **API Lambda** - this function sits behind the API Gateway endpoint. It:
- 1. Receives and parses the GitHub Webhook request.
- 1. Does validation that the request actually came from GitHub by checking the defined secret.
- 1. Asynchronously calls the **Builder Lambda** that does the heavy lifting.
+   1. Receives and parses the GitHub Webhook request.
+   1. Does validation that the request actually came from GitHub by checking the defined secret.
+   1. Asynchronously calls the **Builder Lambda** that does the heavy lifting.
 1. **Builder Lambda** - this function does the generation of the site. It:
- 1. Clones the most recent code out of the GitHub repository.
- 1. Uses the copy of `hugo` bundled with the Lambda function to generate the static HTML that makes up the site. One reason why I love Hugo is that it's just one big executable so incorporating it into a Lambda function was super easy. No crazy dependencies or toolchains to pull in, just bundle the executable into your .zip.
- 1. Syncs the static HTML from the Hugo output directory to the defined S3 bucket.
- 1. Submits an invalidation to CloudFront.
+   1. Clones the most recent code out of the GitHub repository.
+   1. Uses the copy of `hugo` bundled with the Lambda function to generate the static HTML that makes up the site. One reason why I love Hugo is that it's just one big executable so incorporating it into a Lambda function was super easy. No crazy dependencies or toolchains to pull in, just bundle the executable into your .zip.
+   1. Syncs the static HTML from the Hugo output directory to the defined S3 bucket.
+   1. Submits an invalidation to CloudFront.
 
 Here's a diagram of the overall flow I whipped up using [draw.io](https://draw.io):
 
