@@ -33,13 +33,18 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Had lunch at 7-11. 7-11 is nice in Japan. Food was good! Soft boiled egg, rice ball, and Coke Zero. 
 - Went to [HEY](https://www.youtube.com/watch?v=dDyRnrWH1xQ), the arcade. Super cool place, rows of STG cabs, was super cool to be in a place I'd read about and seen pictures of for years. Played the [Ketsui](https://en.wikipedia.org/wiki/Ketsui:_Kizuna_Jigoku_Tachi) PS4 port, got to stage 4 boss then blew it. This was pretty special, as that port doesn't come out until Nov 29th but [M2](https://m2stg.com/en/) were just happening to do a location test while we were in town. My favorite thing about HEY was just watching all the good players play games. Saw someone with an A score in [Garegga](https://en.wikipedia.org/wiki/Battle_Garegga), someone on the 2nd Ketsui loop, someone at Hibachi in [DOJ](https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou). Such pros! A guy double played the Ketsui PS4 cab. Oh and if folks made it to the second loop on the Ketsui PS4 cab, they’d just suicide and end their game. Courtesy? If they made Ura loop would they have done that? So many questions. Went to another Sega arcade but it was all newer stuff. There was a basement floor that seemed to have nude cartoon ladies. Didn’t go, but we walked past some dudes headed that way!
 
-{{< instagram BoFYpYGg-aK >}}
+![Hey](/images/hey1.jpg)
+![Hey](/images/hey2.jpg)
+![Hey](/images/hey3.jpg)
+![Hey](/images/hey4.jpg)
+![Hey](/images/hey5.jpg)
+![Hey](/images/hey6.jpg)
 
 - Walked around some more. The maids / maid cafe thing is weird, and the erotic shit is surprisingly in the open. Giant poster of a naked chick with super thin ‘caution’ tape covering her privates, right next to a KFC. Weird stuff man. There was a guy with a camera carefully taking a photo of that poster. 
 - Headed south to Odaiba to go to the [art light thing](https://borderless.teamlab.art) Krista got tickets to. That place is like the mall district. Lots of malls! Giant Ferris wheel. Walked by the [Fuji TV building](https://architecturetokyo.wordpress.com/2017/05/21/1996-fuji-television-kenzo-tange/) which had a giant long staircase that was really impressive. 
 - Got lost and ended up walking a lot. Found [the art thing](https://borderless.teamlab.art). Went through it, it was really cool but pretty crowded. Lots of people taking photos, us included. 
 
-{{< instagram BoFX6j8APC2 >}}
+![Tokyo Art thing](/images/tokyo_art.jpg)
 
 - Walked through one of the malls. Where the hell do people sit? There are like no benches anywhere. Saw a boy band performing a song. The name of the group was [RAINZ](https://www.youtube.com/watch?v=ECkZ2eKGyck). It was super funny but girls were losing their shit. I couldn’t understand any words but there was a bad boy in the group who started rapping at one point.
 - The mall had a train station attached, so we got on the train and headed home. It was pretty packed! More standing. Trains here are awesome and we super quickly got comfortable getting around. 
@@ -56,7 +61,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Just going through traffic and riding a bus on the freeways was really cool. Got to see the city from a different perspective, go through some tunnels, over some bridges, etc. 
 - Second stop was the [Ghibli Museum](http://www.ghibli-museum.jp/en/) which was amazing. No photography inside because you’re supposed to be present and enjoy yourself.
 
-{{< instagram BoG9IvzgtAB >}}
+![Ghibli](/images/ghibli.jpg)
 
 - Tons of cool stuff to see, got to see a short movie that is only shown at the museum, it was a Totoro sidestory called “Mei and the Kittenbus.”  No subtitles but it was pretty clear what was going on. Cute story!
 - [The 3D zoetrope](https://www.youtube.com/watch?v=zVX_cSXIXig) was probably my favorite thing there. The building architecture was also really neat. 
@@ -73,7 +78,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Checked out at noon, rode the train to the [next hotel](https://www.marunouchi-hotel.co.jp/en/). Started raining pretty hard but we got umbrellas. Stopped at the JR station to activate our JR Rail passes and reserve a seat on the Shinkansen to Kyoto.
 - [Next hotel](https://www.marunouchi-hotel.co.jp/en/) is right next to Tokyo Station and you can get to it through tunnels at the station. We didn’t know that at first so we walked in the rain. 
 
-{{< instagram BoIrdP9gSee >}}
+![Tokyo Station](/images/tokyo_station.jpg)
 
 - Took train to Harajuku which was pretty wild. Fashion! There was a Carhartt store, I coulda picked up some new pocket tees (since this is what I wear everyday of my life).
 - Lots of stores that no longer exist in the US are still in Japan. Tully’s coffee is popular here. Tower Records is still a thing. We walked by an X-girl shop, which I thought went away in the 90s. 
@@ -126,7 +131,13 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Had conveyor belt sushi again. Sat next to a 96 year old Japanese man. That was fun. He told us his favorite temple but I forgot the name. 
 - Came back to the hotel. Had some drinks. Went to bed. Lots mosquito bites. I also got sunburned. 
 
-{{< instagram BoSk4xTgATQ >}}
+![Kyoto](/images/kyoto1.jpg)
+![Kyoto](/images/kyoto2.jpg)
+![Kyoto](/images/kyoto3.jpg)
+![Kyoto](/images/kyoto4.jpg)
+![Kyoto](/images/kyoto5.jpg)
+![Kyoto](/images/kyoto6.jpg)
+![Kyoto](/images/kyoto7.jpg)
 
 ### Day 8 - Sept 29th
 
@@ -135,7 +146,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Walked around that area a lot, went through a park that actually wasn’t crowded which was nice. It was raining pretty hard at times, but nothing we couldn’t manage.
 - Went through an Owl cafe. It’s not a cafe at all! I guess for health reasons that’s for the best. They were cute, but it was kinda sad. They’re chained to a branch during the day, then they supposedly let them loose at night. Krista was really bothered by it.
 
-{{< instagram BoS_gw3gozI >}}
+{{<video poster="/images/owly_preview.jpg" src="/videos/owly.mp4">}}
 
 - We tried to find ramen, but didn’t have any luck. Everything we walked by was dessert, so we had some fancy cotton candy. 
 - Rode the train back to Kyoto Station. Found a ramen place, it was real real good. There's kind of a mall attached to Kyoto Station that like 10 floors, there was a whole floor dedicated to ramen restaurants.
@@ -191,9 +202,6 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Last day. Sad!
 - Woke up early and rode the train to Shibuya to see [Shibuya Crossing](https://www.lonelyplanet.com/japan/tokyo/attractions/shibuya-crossing/a/poi-sig/396831/356817). It was ok, I mean it's just a big crosswalk with a bunch of people. There was a group of dudes that were hip-hop dudes and they would go out into the crossing when the walk signal was on and film themselves doing super generic hip-hop gestures, maybe for a video or something? I kind of wish I had asked them.
 - Went to a [cat cafe](https://www.yelp.com/biz/猫カフェmocha-渋谷店-渋谷区-3). Cute cats, but there weren't really super social. Not like our cat Champion who will jump all over you and smell you. They were kind of bratty snobs. We got to see them get fed though which was pretty hilarious.
-
-{{< instagram BoftIgNgvms >}}
-
 - Checked out of our hotel and had them hang onto our bags for the 1.5 hours until we caught the bus to the airport.
 - Went to Taco Bell. It was roughly Taco Bell quality, although my grilled burrito had pork that looked like real pork. The portion sizes were laughably small to this American. Also, nachos were called 'cheesy chips'.
 - Went to Tower Records. People still buy CDs apparently, and holy shit they're expensive, like $25.
@@ -204,4 +212,4 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 
 ### FIN!
 
-{{<instagram Bodv1Abg5qu>}}
+![MMP Clear at Hey](/images/mmp_clear_at_hey.jpg)
