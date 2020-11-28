@@ -21,12 +21,7 @@ Some games will crash and show “coin error” if they detect goofy/fraudulent 
 
 I didn’t want to stop there, I wanted to be able to trigger this from my phone and Apple Watch. The input display just uses [Socket.IO](https://socket.io) for the input handling, and there’s a [Swift client library for Socket.IO](https://github.com/socketio/socket.io-client-swift). It was easy to create an app that was one button that said INSERT COIN that will send a message over the socket and trigger the switch.
 
-<video controls
-    preload=none
-    playsinline=true
-    poster="/images/insert_coin_remote_preview.jpg" 
-    src="/videos/insert_coin_remote.mp4">
-</video>
+{{<video poster="/images/insert_coin_remote_preview.jpg" src="/videos/insert_coin_remote.mp4">}}
 
 Quick aside, library handling in Xcode is weird and hard. I used [Carthage](https://github.com/Carthage/Carthage) which worked ok but still required a bunch of manual setup in the build targets.
 
