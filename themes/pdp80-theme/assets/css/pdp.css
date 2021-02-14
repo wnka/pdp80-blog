@@ -15,6 +15,11 @@ body {
   line-height: 1
 }
 
+blockquote {
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
+
 table {
     border-collapse: collapse;
     border-spacing: 0
