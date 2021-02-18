@@ -16,7 +16,6 @@ Links:
 * [Strava](https://www.strava.com/athletes/6632067)
 * <a href="https://twitter.com/wnka" rel="me">Twitter</a>
 * <a href="https://github.com/wnka" rel="me">GitHub</a>
-* [Twitch Stream](https://twitch.tv/pdp80)
 * [Resume](https://philpiwonka.com)
 
 This blog is built on [Hugo](http://www.gohugo.io/) with a theme based on the [Cactus Plus theme](https://github.com/nodejh/hugo-theme-cactus-plus) with heavy modifications. It is hosted on [S3](https://aws.amazon.com/s3/) and [CloudFront](https://aws.amazon.com/cloudfront/). The source code for this blog is available [here](https://github.com/wnka/pdp80-blog).
