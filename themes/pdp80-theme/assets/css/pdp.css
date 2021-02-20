@@ -224,8 +224,12 @@ ol li, ul li {
 }
 
 ul {
-  list-style:none;
+  list-style: none;
   margin-left: 20px;
+}
+
+ul li:before {
+  counter-increment: none;
 }
 
 ul li:not(:empty)::before {
