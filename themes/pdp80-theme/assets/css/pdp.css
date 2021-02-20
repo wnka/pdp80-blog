@@ -11,13 +11,13 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   font-family:Fira Code;
   font-style:normal;
   font-weight:400;
-  src:url(/assets/FiraCode-Regular.woff)format("woff")
+  src:url(/fonts/FiraCode-Regular.woff)format("woff")
 }
 @font-face {
   font-family:Fira Code;
   font-style:normal;
   font-weight:800;
-  src:url(/assets/FiraCode-Bold.woff)format("woff")
+  src:url(/fonts/FiraCode-Bold.woff)format("woff")
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
