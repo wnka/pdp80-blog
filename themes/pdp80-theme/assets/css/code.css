@@ -196,7 +196,7 @@ div.code-toolbar > .toolbar span:hover {
 .token.url,
 code.language-css,
 code.language-scss {
-    color: #ffa86a;
+    color: #ff6266;
 }
 .token.atrule-id,
 .token.attr-name,
@@ -205,8 +205,8 @@ code.language-scss {
 .token.tag-id,
 .token.unit,
 .token.variable {
-    color: rgba(255, 168, 106, 0.7);
-    color: rgba(255, 168, 106, 0.7);
+    color: rgba(255, 98, 102, 0.7);
+    color: rgba(255, 98, 102, 0.7);
 }
 .command-line-prompt > span:before,
 .token.deleted,
@@ -310,14 +310,14 @@ pre[data-line] {
 }
 .collapsable-code__title {
     flex: 1;
-    color: #ffa86a;
+    color: #ff6266;
     padding: 3px 10px;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
 }
 .collapsable-code__language {
-    color: #ffa86a;
+    color: #ff6266;
     border: 1px solid hsla(0, 0%, 100%, 0.1);
     border: 1px solid var(--border-color);
     border-bottom: none;
@@ -325,7 +325,7 @@ pre[data-line] {
     padding: 3px 10px;
 }
 .collapsable-code__toggle {
-    color: #ffa86a;
+    color: #ff6266;
     font-size: 16px;
     padding: 3px 10px;
 }
@@ -342,7 +342,7 @@ pre[data-line] {
     margin: 0;
 }
 .terms h1 {
-    color: #ffa86a;
+    color: #ff6266;
 }
 .terms h3 {
     font-size: medium;
