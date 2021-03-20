@@ -1,6 +1,6 @@
 ---
 title: "Farewell Fry's Electronics"
-date: 2021-03-20T14:34:40-08:00
+date: 2021-03-20T10:34:40-08:00
 draft: false
 ---
 
