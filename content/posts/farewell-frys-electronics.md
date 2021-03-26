@@ -21,6 +21,7 @@ Some Memories:
 - Seeing Amiga demos like the [Walker](https://www.youtube.com/watch?v=eaMDyHc6438) and [Walker 2](https://www.youtube.com/watch?v=-ar0hMGA5KM) demos.
 - Commodore CDTV and the [Psygnosis Planetside demo](https://www.youtube.com/watch?v=-jlFe-VBK1M)
 - [Some Sony GPS device](http://retro-gps.info/Sony/Sony-Pyxis-IPS-360/index.html) that was like $900 and was huge and told you Lat, Lon and Alt.
+- Wanting Sony portables like the [Discman D-555](https://walkmancentral.com/products/d-z555), the first [MiniDisc player](https://www.minidisc.org/part_Sony_MZ-1.html), the [Video Walkman](https://www.radiomuseum.org/r/sony_video_walkman_video_tv_r.html).
 - Buying Wing Commander 2 at the Sunnyvale store (the second Sunnyvale store) while having a really bad sore throat.
 - Getting [Michael Jordan In Flight](https://en.wikipedia.org/wiki/Michael_Jordan_in_Flight) and we had to upgrade the vram on our video card from 256k to 512k. We bought the loose vram chips at Fry's and installed them on [the card](http://www.vgamuseum.info/index.php/cards/item/498-video-seven-l1a4199).
 - [ReelMagic card](https://en.wikipedia.org/wiki/RealMagic) running Dragon's Lair.
