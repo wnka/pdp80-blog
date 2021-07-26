@@ -278,6 +278,25 @@ img {
   margin-right: calc(-20px);
 }
 
+figure {
+  display: table;
+  max-width: 100%;
+  margin: 25px 0;
+}
+
+figcaption {
+    font-size: 14px;
+    padding: 5px 10px;
+    margin-top: -6px;
+    background: #ff6266;
+    color: #222129;
+    width: calc(100% + 40px);
+    margin-left: calc(-20px);
+    margin-right: calc(-20px);
+    /* opacity: .8; */
+    text-align: center;
+  }
+
 #footer {
   margin-top: 20px;
 }
