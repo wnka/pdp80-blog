@@ -97,7 +97,6 @@ body {
   font-family: Fira Code,monospace,Courier;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-feature-settings: "liga","tnum","case","calt","zero","ss01","locl","calt";
 }
 
 h1 {
