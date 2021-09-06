@@ -1,7 +1,7 @@
-+++
-title = "About"
-date = "2018-01-29T18:53:54-08:00"
-+++
+---
+title: "About"
+date: 2018-01-29T18:53:54-08:00
+---
 
 {{<img src="/images/about4.jpeg">}}
 
