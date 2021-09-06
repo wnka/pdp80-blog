@@ -217,7 +217,6 @@ mark {
 /* Line Height */
 #post-body, p {
   margin-top: 10px;
-  line-height: 22px;
 }
 
 #post-body p > a {
