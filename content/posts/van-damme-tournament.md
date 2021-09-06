@@ -1,6 +1,6 @@
 ---
 title: "Tournament of Van Damme Tournament movies"
-date: 2021-09-06T21:45:10-07:00
+date: 2021-09-06T09:45:10-07:00
 draft: false
 ---
 
