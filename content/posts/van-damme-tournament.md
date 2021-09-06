@@ -1,6 +1,6 @@
 ---
 title: "Tournament of Van Damme Tournament movies"
-date: 2021-08-15T21:45:10-07:00
+date: 2021-09-06T21:45:10-07:00
 draft: false
 ---
 
@@ -12,11 +12,11 @@ So let's have a tournament of these tournament movies to determine the winner.
 
 ## Bloodsport
 
-I saw this movie as a kid at a neighbors birthday party. First VD movie I ever saw. It's great, the fights are cool, and VD does many spinkicks. It supposedly based on the real life story of Frank Dux, who is a supreme bullshitter. [His Wikipedia page is entertaining](https://en.wikipedia.org/wiki/Frank_Dux). FD, played by VD, runs from the military to fight in a Kumite, a secret tournament. Ogre from Revenge of the Nerds is there and they quickly become friends over a game of [Karate Champ](https://en.wikipedia.org/wiki/Karate_Champ). The big bad guy is Chong Li, played by Bolo Yeung which is awesome, and Chong Li beats up Ogre which angers VD and motivated VD even more than he was already motivated. This is a common theme, VD builds up a shallow relationship with someone and let's them into his heart, that someone gets hurt, and VD must fight to win even though that's what he wanted all along. Chong Li fights dirty, but FD/VD uses his ancient technique of fighting blind to win anyway. The military guys who were trying to bring him back eventually relax their mission so they can watch the fight, and VD wins them over with his big heart.
+I saw this movie as a kid at a neighbors birthday party. First VD movie I ever saw. It's great, the fights are cool, and VD does many spinkicks. It supposedly based on the real life story of Frank Dux, who is a supreme bullshitter. [His Wikipedia page is entertaining](https://en.wikipedia.org/wiki/Frank_Dux). FD, played by VD, runs from the military to fight in a Kumite, a secret tournament. Ogre from Revenge of the Nerds is there and they quickly become friends over a game of [Karate Champ](https://en.wikipedia.org/wiki/Karate_Champ). The big bad guy is Chong Li, played by Bolo Yeung which is awesome, and Chong Li beats up Ogre which angers VD and motivated VD even more than he was already motivated. This is a common theme, VD builds up a shallow relationship with someone and lets them into his heart, that someone gets hurt, and VD must fight to win even though that's what he wanted all along. Chong Li fights dirty, but FD/VD uses his ancient technique of fighting blind to win anyway. The military guys who were trying to bring him back eventually relax their mission so they can watch the fight, and VD wins them over with his big heart.
 
 ## Kickboxer
 
-Very very similar to Bloodsport, however VD's brother is the one who gets hurt. VD is subjected to intense training montages so that he can avenge his brother. The training stuff is great and hilarous. He has to kick down a tree, and his master also takes him out and gets him drunk, makes him dance, and then fight dudes. The big bad guy is Tong Po, who only has one hilarious line in the whole movie. He avenges his brother and gets called "Mitt soo cow" or something which means "White Warrior", as in he's only just recently learned how to kickbox but now he's the BEST.
+Very very similar to Bloodsport, however VD's brother is the one who gets hurt. VD is subjected to intense training montages so that he can avenge his brother. The training stuff is great and hilarous. He has to kick down a tree, and his master also takes him out and gets him drunk, makes him dance, and then fight dudes. The big bad guy is Tong Po, who only has one hilarious line in the whole movie. The final fight has them fighting with glass glued onto their hands, aka "the ancient way" which is a cool gimmick. VD avenges his brother and gets called "Mitt soo cow" or something which means "White Warrior", as in he's only just recently learned how to kickbox but now he's the BEST.
 
 ## Lionheart
 
