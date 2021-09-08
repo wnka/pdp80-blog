@@ -158,7 +158,7 @@ a, #title, #post-list a:hover, #title:hover {
 
 ol {
   list-style:none;
-  margin-left: 20px;
+  margin-left: 27px;
 }
 
 ol li {
@@ -173,13 +173,9 @@ ol {
 
 ol li:before {
   counter-increment: item;
-  content: counter(item);
-  /**/
-  /* If you want trailing periods */
-  /* content: counter(item) ".";
-   */
+  content: counter(item) ".";
   position:absolute;
-  right:calc(100% + 10px);
+  right:calc(100% + 7px);
   color:#ff6266;
   display:inline-block;
   text-align:right;
