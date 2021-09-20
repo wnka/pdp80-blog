@@ -7,23 +7,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   padding: 0
 }
 
-@font-face {
-  font-family:Fira Code;
-  font-style:normal;
-  font-weight:400;
-  src:url(/fonts/FiraCode-Regular.woff2) format("woff2"),
-      url(/fonts/FiraCode-Regular.woff) format("woff");
-  font-display: optional;
-}
-@font-face {
-  font-family:Fira Code;
-  font-style:normal;
-  font-weight:800;
-  src:url(/fonts/FiraCode-Bold.woff2) format("woff2"),
-      url(/fonts/FiraCode-Bold.woff) format("woff");
-  font-display: optional;
-}
-
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block
 }
@@ -42,7 +25,7 @@ blockquote {
 }
 
 code, kbd {
-  font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+  font-family: monospace;
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
   background: rgba(255,168,106,.2);
@@ -74,7 +57,7 @@ table {
 /* Base */
 
 html, body {
-  font-size: 16px;
+  font-size: 14px;
   height: 100%;
   background: #222129;
   color: #fff;
@@ -94,14 +77,14 @@ a, #title, #post-list a:hover, #title:hover {
 }
 
 body {
-  font-family: Fira Code,monospace,Courier;
+  font-family: monospace;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 h2, h3 {
@@ -230,8 +213,8 @@ em, i {
 
 .post .date-line {
   display: inline-block;
-  font-size: 15px;
-  font-weight: normal;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 p.copyright {
@@ -334,6 +317,6 @@ svg {
     margin: 40px 0;
   }
   .post .date-line {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
