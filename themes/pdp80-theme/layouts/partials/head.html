@@ -8,8 +8,6 @@
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
     <title>{{ .Title }}</title>
-    <link rel="preload" href="/fonts/FiraCode-Regular.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="/fonts/FiraCode-Bold.woff2" as="font" type="font/woff2" crossorigin>
     <style>
         {{ $css := resources.Get "/css/pdp.css" | minify }}
         {{ $css.Content | safeCSS }}
