@@ -7,7 +7,7 @@ code: true
 
 I use [Route 53](https://aws.amazon.com/route53/) for my DNS and have an A record that points to home for [Wireguard](https://www.wireguard.com/) access. Here's a handy script that I run in cron to keep that record updated.
 
-{{< code language="bash" >}}
+```bash
 #!/bin/sh
 
 ### Things you need to set
@@ -46,11 +46,11 @@ EOF
 aws --profile ${PROFILE_NAME} route53 change-resource-record-sets \
     --hosted-zone-id "/hostedzone/${ZONE_NAME}" \
     --change-batch "file://${TMP_FILE}"
-{{< /code >}}
+```
 
 Then I run it in `cron` every 20 minutes, which you set using `crontab -e`.
 
-{{< code language="bash" >}}
+```bash
 # m h  dom mon dow   command
 */20   *    *   *   *   bash /path/to/script/ddns.sh >> /path/to/output/ddns.out
-{{< /code >}}
+```

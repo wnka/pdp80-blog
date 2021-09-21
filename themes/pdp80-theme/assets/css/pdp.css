@@ -28,11 +28,6 @@ code, kbd {
   font-family: monospace;
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
-  background: rgba(255,168,106,.2);
-  background: rgba(255,168,106,.2);
-  color: #ff6266;
-  padding: 1px 6px;
-  margin: 0 2px;
   font-size: .95rem;
 }
 
@@ -319,4 +314,14 @@ svg {
   .post .date-line {
     font-size: 14px;
   }
+}
+
+.highlight {
+  width: calc(100% + 40px);
+  margin-left: calc(-20px);
+  margin-right: calc(-20px);
+  background-color: #282a36;
+  padding: 20px 20px 10px 20px;
+  white-space: pre;
+  overflow-y: auto;
 }

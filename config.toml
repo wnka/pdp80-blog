@@ -2,6 +2,7 @@ baseURL = "https://pdp.dev/"
 languageCode = "en-us"
 publishDir = "public"
 pygmentsUseClasses = true
+pygmentsCodefences = true
 theme = "pdp80-theme"
 title = "Phil Piwonka"
 [params]
