@@ -54,8 +54,8 @@ table {
 html, body {
   font-size: 14px;
   height: 100%;
-  background: #222129;
-  color: #fff;
+  background: #fff;
+  color: #222129;
 }
 
 h1,h2,h3 {
@@ -63,8 +63,8 @@ h1,h2,h3 {
 }
 
 a, #title, #post-list a:hover, #title:hover {
-  color: #fff;
-  text-decoration-color: #fff;
+  color: #222129;
+  text-decoration-color: #222129;
 }
 
 .post .date-line {
@@ -185,7 +185,7 @@ ul li:not(:empty)::before {
 
 mark {
   background: #ff6266;
-  color: #222129;
+  color: #fff;
 }
 
 /* Line Height */
@@ -261,7 +261,7 @@ figcaption {
     padding: 5px 10px;
     margin-top: -6px;
     background: #ff6266;
-    color: #222129;
+    color: #fff;
     width: calc(100% + 40px);
     margin-left: calc(-20px);
     margin-right: calc(-20px);
@@ -294,7 +294,6 @@ video {
 svg {
   width: 100%;
   height: auto;
-  background: #777;
 }
 
 /* Post Navigation */
