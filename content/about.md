@@ -11,8 +11,8 @@ Hi, my name is Phil Piwonka and I live in Seattle, WA with my [wife](https://kri
 
 Links:
 
-* [Arcade PCB Collection](/pcb)
-* [Vinyl Collection](/vinyl)
+* [Arcade PCB Collection](/pcb/)
+* [Vinyl Collection](/vinyl/)
 * [Strava](https://www.strava.com/athletes/6632067)
 * <a href="https://twitter.com/wnka" rel="me">Twitter</a>
 * <a href="https://github.com/wnka" rel="me">GitHub</a>
