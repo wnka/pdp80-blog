@@ -14,6 +14,6 @@ I used AWS for my "temporary server on the internet needs". **Disclaimer:** I wo
 
 I used [AWS CDK](https://aws.amazon.com/cdk/) to make it super easy to deploy the infrastructure needed for Neko. [The code for that is available here.](https://github.com/wnka/neko-cdk-infrastructure) The instructions should be pretty straightforward for anyone familiar with the CDK, but basically it creates some Launch Templates, some Auto Scaling Groups, and you just dial up the Auto Scaling Group from 0 instances to 1 instance. When you're done, set it back to 0 instances. It also creates a user that has the absolute minimal permissions needed to fiddle with those Auto Scaling Groups and find the IP you should share with your friends.
 
-Give it a shot and have a movie night with friends, or just a night of watching goofy YouTube videos. If you find the CDK stuff helpful or want to make changes to it, go for it! Fork it, send me a pull request, steal it and claim you created it, that's all fine with me!
+Give it a shot and have a movie night with friends, or just a night of watching goofy YouTube videos. If you find the CDK stuff helpful or want to make changes to it, go for it! Fork it, change it, send me a pull request or don't, that's all fine with me!
 
 Huge thanks to [nurdism](https://github.com/nurdism/neko) for initially creating Neko and [m1k1o](https://github.com/m1k1o/neko) for maintaining and continuing to improve it!
