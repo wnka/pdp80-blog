@@ -1,3 +1,7 @@
+/* Undo some stuff that pdp.css messes up */
+.chroma code { color: #f8f8f2; background-color: #282a36 }
+.chroma code::before, .chroma kbd::before, .chroma code::after, .chroma kbd::after { content: '' }
+
 /* Background */ .chroma { color: #f8f8f2; background-color: #282a36 }
 /* Other */ .chroma .x {  }
 /* Error */ .chroma .err {  }

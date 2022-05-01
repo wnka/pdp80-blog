@@ -28,7 +28,15 @@ code, kbd {
   font-family: monospace;
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
-  font-size: .95rem;
+  color: #ff6266;
+  border-radius: 5px;
+  background-color: #f0e5f5;
+}
+
+/* I dig putting the backticks around the code tags */
+/* Stolen from https://christine.website */
+code::before, kbd::before, code::after, kbd::after {
+  content: '`'
 }
 
 table {
