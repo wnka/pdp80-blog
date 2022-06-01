@@ -29,7 +29,7 @@ code, kbd {
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
   color: #ff6266;
-  border-radius: 5px;
+  border-radius: 2px;
   background-color: #f0e5f5;
 }
 
@@ -62,7 +62,7 @@ table {
 html, body {
   font-size: 14px;
   height: 100%;
-  background: #e4e5f5;
+  background: #fff;
   color: #222129;
 }
 
