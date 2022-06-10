@@ -89,6 +89,7 @@ nav.main-nav a {
   text-decoration: underline;
   box-shadow: none;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 @media (max-width: 700px) {
