@@ -12,10 +12,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 body {
-  line-height: 1;
   font-size: 1rem;
   line-height: 1.54;
-  letter-spacing: -.02em;
 }
 
 blockquote {
@@ -28,15 +26,8 @@ code, kbd {
   font-family: monospace;
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
-  color: #ff6266;
-  border-radius: 2px;
-  background-color: #f0e5f5;
-}
-
-/* I dig putting the backticks around the code tags */
-/* Stolen from https://christine.website */
-code::before, kbd::before, code::after, kbd::after {
-  content: '`'
+  background-color: #eee;
+  font-size: 16px;
 }
 
 table {
@@ -66,32 +57,21 @@ html, body {
   color: #222129;
 }
 
-h1,h2,h3 {
-  color: #ff6266;
-}
-
-a, #title, #post-list a:hover, #title:hover {
-  color: #222129;
-  text-decoration-color: #222129;
-}
-
-.post .date-line {
-  color: #ff6266;
-}
-
 body {
-  font-family: monospace;
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  font-size: 18px;
 }
 
 h1 {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 30px;
 }
 
-h2, h3 {
+h2,h3 {
   font-weight: bold;
+  font-size: 24px;
 }
 
 nav.main-nav {
@@ -106,10 +86,9 @@ nav.main-nav a {
   right: 6px;
   padding: 8px 12px;
   line-height: 1.35;
-  border-radius: 3px;
-  text-transform: uppercase;
-  font-weight: bold;
   text-decoration: underline;
+  box-shadow: none;
+  font-weight: bold;
 }
 
 @media (max-width: 700px) {
@@ -118,14 +97,6 @@ nav.main-nav a {
     margin: 0 auto;
     text-align: right;
     z-index: 100;
-  }
-  nav.main-nav a {
-    top: 8px;
-    right: 6px;
-    padding: 8px 8px;
-    line-height: 1.35;
-    border-radius: 3px;
-    text-decoration: underline;
   }
 }
 
@@ -136,59 +107,14 @@ nav.main-nav a {
 }
 
 /*Accent color*/
-
 a, #title, #post-list a:hover, #title:hover {
+  color: #222129;
+  text-decoration-color: #222129;
   text-decoration: underline;
-  font-weight: bold;
 }
 
-ol {
-  list-style:none;
+ol, ul {
   margin-left: 27px;
-}
-
-ol li {
-  counter-increment: list;
-  list-style-type: none;
-  position: relative;
-}
-
-ol {
-  counter-reset: item;
-}
-
-ol li:before {
-  counter-increment: item;
-  content: counter(item) ".";
-  position:absolute;
-  right:calc(100% + 7px);
-  color:#ff6266;
-  display:inline-block;
-  text-align:right;
-}
-
-ol ol {
-  list-style-type:lower-alpha;
-}
-
-ol li, ul li {
-  position: relative;
-}
-
-ul {
-  list-style: none;
-  margin-left: 20px;
-}
-
-ul li:before {
-  counter-increment: none;
-}
-
-ul li:not(:empty)::before {
-  content: "-";
-  position: absolute;
-  left: -20px;
-  color: #ff6266;
 }
 
 mark {
@@ -216,7 +142,7 @@ em, i {
 
 .post .date-line {
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
 }
 
@@ -229,7 +155,7 @@ p.copyright {
 }
 
 table, td, th {
-  border: 1px dashed #ff6266;
+  border: 1px dashed;
   padding: 10px;
 }
 
@@ -248,7 +174,6 @@ table {
 
 th {
   font-weight:800;
-  color: #ff6266;
   text-align: left;
 }
 
@@ -267,14 +192,12 @@ figcaption {
     font-size: 14px;
     padding: 5px 10px;
     margin-top: -6px;
-    background: #ff6266;
-    color: #000;
+    background: #000;
+    color: #fff;
     width: calc(100% + 40px);
     margin-left: calc(-20px);
     margin-right: calc(-20px);
-    /* opacity: .8; */
     text-align: center;
-    border-top: 1px solid #e4e5f5;
   }
 
 #footer {
@@ -282,7 +205,6 @@ figcaption {
 }
 
 /* Post Page */
-
 #wrapper.post {
   max-width: 800px;
 }
@@ -317,9 +239,6 @@ svg {
   }
   .post {
     margin: 40px 0;
-  }
-  .post .date-line {
-    font-size: 14px;
   }
 }
 

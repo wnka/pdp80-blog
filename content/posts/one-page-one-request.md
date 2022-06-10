@@ -37,14 +37,14 @@ It's just a donut emoji! I don't fully understand the `viewBox` and `text` offse
 I still write CSS in a separate file as part of my site theme and use a feature of [Hugo](https://gohugo.io/) to inline it when the site is generated. In my theme's `<head>` Hugo template:
 
 ```html
-    <style>
-        {{ $css := resources.Get "/css/pdp.css" | minify }}
-        {{ $css.Content | safeCSS }}
-    </style>
-    <style>
-        {{ $css := resources.Get "/css/code.css" | minify }}
-        {{ $css.Content | safeCSS }}
-    </style>
+<style>
+    {{ $css := resources.Get "/css/pdp.css" | minify }}
+    {{ $css.Content | safeCSS }}
+</style>
+<style>
+    {{ $css := resources.Get "/css/code.css" | minify }}
+    {{ $css.Content | safeCSS }}
+</style>
 ```
 
 Easy! Convenient! I use one `.css` file for my site styling and one for code block styling. If I really wanted to go nuts, I could not include the code CSS unless there was code on the page.
