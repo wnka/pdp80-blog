@@ -74,37 +74,42 @@ h2,h3 {
   font-size: 24px;
 }
 
-nav.main-nav {
-  padding: 20px 20px 0;
+p.main-nav {
+  max-width: 800px;
+  padding: 10px;
   margin: 0 auto;
   text-align: right;
   z-index: 100;
+  color: #fff;
 }
 
-nav.main-nav a {
+nav {
+  background: #ff6266;
+}
+
+p.main-nav a {
   top: 8px;
   right: 6px;
   padding: 8px 12px;
   line-height: 1.35;
   text-decoration: underline;
+  text-decoration-color: #fff;
   box-shadow: none;
   font-weight: bold;
   text-transform: uppercase;
+  color: #fff;
 }
 
 @media (max-width: 700px) {
   nav.main-nav {
     padding: 20px 10px 0 0;
-    margin: 0 auto;
-    text-align: right;
-    z-index: 100;
   }
 }
 
 #wrapper {
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px 20px 20px 20px;
+  padding: 10px 20px 20px 20px;
 }
 
 /*Accent color*/
@@ -233,7 +238,7 @@ svg {
 
 @media screen and (max-width: 540px) {
   #wrapper {
-    padding: 20px 20px 20px 20px;
+    padding: 10px 20px 20px 20px;
   }
   #header {
     margin-bottom: 60px;

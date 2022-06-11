@@ -1,7 +1,8 @@
-<nav class="main-nav">
-	{{ $url := replace .Permalink .Site.BaseURL "" }}
+<nav>
+	<p class="main-nav">
 	{{ if not .IsHome }}
 	<a href='{{ .Site.BaseURL }}'>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
 	<a href='{{ .Site.BaseURL }}about/'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
+	</p>
 </nav>
