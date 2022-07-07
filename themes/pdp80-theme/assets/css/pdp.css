@@ -266,3 +266,21 @@ svg {
   border-top: 1px solid rgba(255, 255, 255,0.5);
   border-bottom: 1px solid rgba(255, 255, 255,0.5);
 }
+
+@media (prefers-color-scheme: dark) {
+  html, body {
+    color: #fff;
+    background: #222129;
+  }
+  a, #title, #post-list a:hover, #title:hover {
+    color: #fff;
+    text-decoration-color: #fff;
+  }
+  code, kbd {
+    color: #fff;
+    background: #444129;
+  }
+  svg {
+    background: #555;
+  }
+}
