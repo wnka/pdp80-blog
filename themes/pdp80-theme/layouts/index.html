@@ -10,7 +10,7 @@
         {{ range .Pages }}
         {{ if eq .Type "posts" }}
         <tr>
-          <td style="width:1px;white-space:nowrap;padding-right:10px;font-weight:bold;">{{ .Date.Format "Jan 02" }}</td>
+          <td class="idate">{{ .Date.Format "Jan 02" }}</td>
           <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
         </tr>
         {{ end }}

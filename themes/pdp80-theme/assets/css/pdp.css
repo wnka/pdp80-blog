@@ -165,6 +165,13 @@ table, td, th {
   padding: 10px;
 }
 
+.archive .idate {
+  width:1px;
+  white-space:nowrap;
+  padding-right:10px;
+  font-weight:bold;
+}
+
 .archive table, .archive td, .archive th {
   padding: 3px 0;
   border: none;

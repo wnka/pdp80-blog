@@ -2,6 +2,7 @@
 title: "One Page, One Request"
 date: 2022-04-30T09:25:15-07:00
 draft: false
+code: true
 ---
 
 I have a weird obsession with my website: I want a page load to be a single HTTP request.

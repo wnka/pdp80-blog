@@ -13,10 +13,12 @@
         {{ $css.Content | safeCSS }}
     </style>
 
+    {{ if (.Params.code) }}
     <style>
         {{ $css := resources.Get "/css/code.css" | minify }}
         {{ $css.Content | safeCSS }}
     </style>
+    {{ end  }}
 
     <link rel="me" href="https://micro.blog/pdp"/>
     <link rel="me" href="https://twitter.com/wnka"/>
