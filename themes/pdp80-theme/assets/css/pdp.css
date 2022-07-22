@@ -18,7 +18,7 @@ body {
 
 blockquote {
   padding-left: 15px;
-  border-left: 2px solid #ff6266;
+  border-left: 2px solid #222129;
   margin: 20px 0;
 }
 
@@ -84,7 +84,7 @@ p.main-nav {
 }
 
 nav {
-  background: #ff6266;
+  background: #222129;
 }
 
 p.main-nav a {
@@ -124,7 +124,7 @@ ol, ul {
 }
 
 mark {
-  background: #ff6266;
+  background: #222129;
   color: #fff;
 }
 
@@ -272,6 +272,9 @@ svg {
     color: #fff;
     background: #222129;
   }
+  blockquote {
+    border-left: 2px solid #fff;
+  }
   a, #title, #post-list a:hover, #title:hover {
     color: #fff;
     text-decoration-color: #fff;
@@ -282,5 +285,9 @@ svg {
   }
   svg {
     background: #555;
+  }
+  mark {
+    color: #222129;
+    background: #fff;
   }
 }
