@@ -1,10 +1,10 @@
 ---
-title: "RIP Uncle Dennis"
-date: 2022-07-31T15:29:55-05:00
-draft: true
+title: "Uncle Dennis"
+date: 2022-08-15T12:29:55-07:00
+draft: false
 ---
 
-My uncle Dennis passed away unexpectedly. Here's [his obituary](https://callawayjones.com/obits/dennis-francis-piwonka/):
+My uncle Dennis passed away unexpectedly in July. [His obituary](https://callawayjones.com/obits/dennis-francis-piwonka/):
 
 > Dennis Piwonka died at his home in College Station, from cardiac arrest, at the age of 70.  A Celebration of Life for Dennis will be held Saturday, July 30, 2022 from 10:00 am to 12:00 pm with a time of sharing at 11:00 am at Callaway-Jones Funeral & Cremation Center in Bryan.
 > 
@@ -24,4 +24,14 @@ My uncle Dennis passed away unexpectedly. Here's [his obituary](https://callaway
 > 
 > In lieu of flowers, Dennis’ family requests that donations be made to DonorsChoose.org, in support of public education, or to a charity of your choosing.
 
-{{< figure src="/images/Piwonka-Dennis.jpg" alt="Uncle Dennis" caption="Dennis Piwonka" >}}
+I flew to TX for his service and got to see a lot of family I hadn't seen in many years. It was a sad occasion but it was nice to see everyone, catch up and chat, and remember Dennis.
+
+Dennis was a lot of fun to be around. He's the uncle I spent the most time with since he lived with my grandma for a while and when we'd go visit her I'd get to spend days with him. He taught me how to fart properly, which is by lifting one leg up and pumping your fist downward. We spent a lot of time playing [rummy dummy](https://en.wikipedia.org/wiki/Dummy_rummy) with my grandma. He was also into computers, knew how to build and fix stuff, and I learned a lot from him. He was a calm, quiet guy, but funny as hell and would always punctuate someone's long winded story with a one liner that would just crack everyone up. Last time I saw him was in May of 2019, right before Ramona was born. I'm sad that she'll never get the opportunity to meet her great uncle Dennis. He was great indeed...
+
+{{< figure src="/images/dennis/senior.jpg" alt="Senior Photo" caption="Senior Photo" >}}
+{{< figure src="/images/dennis/football.jpg" alt="High School Football Team Photo" caption="High School Football Team Photo" >}}
+{{< figure src="/images/dennis/1.jpg" alt="Uncle Dennis and Grandma Elizabeth" caption="Uncle Dennis and Grandma Elizabeth" >}}
+{{< figure src="/images/dennis/dad_dennis.jpg" alt="My dad and Dennis" caption="My dad and Dennis" >}}
+{{< figure src="/images/dennis/europe.jpg" alt="On a trip in Europe about 2 weeks before he passed" caption="On a trip in Europe about 2 weeks before he passed" >}}
+{{< figure src="/images/dennis/img_8501.jpg" alt="Caldwell TX a long time ago, I'm the little kid in the front." caption="Caldwell TX a long time ago, I'm the little kid in the front." >}}
+{{< figure src="/images/dennis/me_dennis.jpg" alt="Me and Dennis in 2019, the last time I saw him" caption="Me and Dennis in 2019, the last time I saw him" >}}
