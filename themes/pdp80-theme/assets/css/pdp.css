@@ -27,7 +27,7 @@ code, kbd {
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
   background-color: #eee;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 table {
@@ -51,7 +51,7 @@ table {
 /* Base */
 
 html, body {
-  font-size: 14px;
+  font-size: 18px;
   height: 100%;
   background: #fff;
   color: #222129;

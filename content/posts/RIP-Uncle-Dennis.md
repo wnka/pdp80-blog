@@ -23,3 +23,5 @@ My uncle Dennis passed away unexpectedly. Here's [his obituary](https://callaway
 > Now we are only left with memories.  Thankfully we have many memories of Dennis.  Many wonderful memories, and a few tears.
 > 
 > In lieu of flowers, Dennis’ family requests that donations be made to DonorsChoose.org, in support of public education, or to a charity of your choosing.
+
+{{< figure src="/images/Piwonka-Dennis.jpg" alt="Uncle Dennis" caption="Dennis Piwonka" >}}
