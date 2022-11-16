@@ -14,7 +14,7 @@ Links:
 * [Arcade PCB Collection](/pcb/)
 * [Vinyl Collection](/vinyl/)
 * [Strava](https://www.strava.com/athletes/6632067)
-* <a href="https://twitter.com/wnka" rel="me">Twitter</a>
+* <a href="https://hachyderm.io/@pdp" rel="me">Mastodon</a>
 * <a href="https://github.com/wnka" rel="me">GitHub</a>
 * [Resume](https://philpiwonka.com)
 
