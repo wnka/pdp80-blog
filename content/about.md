@@ -18,4 +18,4 @@ Links:
 * <a href="https://github.com/wnka" rel="me">GitHub</a>
 * [Resume](https://philpiwonka.com)
 
-This blog is built on [Hugo](http://www.gohugo.io/) with a theme based on the [Terminal theme](https://github.com/panr/hugo-theme-terminal) with heavy modifications. It is hosted on [S3](https://aws.amazon.com/s3/) and [CloudFront](https://aws.amazon.com/cloudfront/). The source code is available [here](https://github.com/wnka/pdp80-blog).
+This blog is built on [Hugo](http://www.gohugo.io/) with a theme based on the [Terminal theme](https://github.com/panr/hugo-theme-terminal) with heavy modifications. It is hosted on [AWS Amplify](https://aws.amazon.com/amplify/). The source code is available [here](https://github.com/wnka/pdp80-blog).
