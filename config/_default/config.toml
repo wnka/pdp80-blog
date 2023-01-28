@@ -12,6 +12,6 @@ title = "Phil Piwonka"
 	enableRSS = true
 	subtitle404 = ""
 	title404 = ""
-	ogtitle = "https://pdp.dev/images/hey-arcade.jpg"
+	ogtitle = "https://pdp.dev/images/hey-arcade.jpeg"
 [markup.goldmark.renderer]
     unsafe= true
