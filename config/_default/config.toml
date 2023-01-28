@@ -9,10 +9,9 @@ title = "Phil Piwonka"
 	author = "Phil Piwonka"
 	email = "hello@pdp.dev"
 	bio = ""
-	description = "yea hi"
 	enableRSS = true
-	facebook = "phil.piwonka"
 	subtitle404 = ""
 	title404 = ""
+	ogtitle = "https://pdp.dev/images/hey-arcade.jpg"
 [markup.goldmark.renderer]
     unsafe= true

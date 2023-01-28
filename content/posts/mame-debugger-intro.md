@@ -3,6 +3,7 @@ title: "MAME Debugger Intro"
 date: 2023-01-17T19:48:30-08:00
 draft: false
 code: true
+ogimage: https://pdp.dev/images/mmpork-debug.jpg
 ---
 
 [MAME](https://www.mamedev.org), the arcade machine emulator, has a debugger that allows you to poke around memory and manipulate values. I've always wanted to play around with it but didn't really know what to do or how to do it.
