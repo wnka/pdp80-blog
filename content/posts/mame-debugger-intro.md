@@ -7,7 +7,7 @@ code: true
 
 MAME, the arcade machine emulator, has a debugger that allows you to poke around memory and manipulate values. I've always wanted to play around with it but didn't really know what to do or how to do it.
 
-Let's take a toy problem and try to solve it with the MAME debugger. Muchi Muchi Pork is one of my favorite shmups. I have the Xbox 360 port and the actual arcade PCB. I dig it because the scoring system is simple but fun, the bosses have a bunch of phases you have to pick apart, and you can easily switch back and forth between trying to survive and trying to score well based on how you manage your resources.
+I'm going to take a toy problem and try to solve it with the MAME debugger. I'll use Muchi Muchi Pork since it's one of my favorite shmups. You can see me clear the game in one credit [here](/posts/mmp-pb-135-mil/) and I write more about it in general [here](/posts/muchi-muchi-pork-pcb/).
 
 ## Cheats
 
@@ -33,9 +33,9 @@ When you insert a coin in Muchi Muchi Pork, there's timer that ticks down from 2
 
 Let's start MAME with the debugger. This is super easy, just run `./mame mmpork -debug`. You'll be greeted with a console where you can run commands. You can also open windows to examine memory (on Mac this is ⌘-D). The game will start with an initial breakpoint, so type `go` in the console to run the game. You'll see different machine register states, the program counter, etc. 
 
-{{< figure src="/images/mmpork-debug.jpg" alt="The MAME Debugger" caption="The Muchi Muchi Pork title screen in the MAME debugger. Note the timer sitting at 19:29." >}}
-
 Let the game boot up and insert a coin to get to the countdown screen.
+
+{{< figure src="/images/mmpork-debug.jpg" alt="The MAME Debugger" caption="The Muchi Muchi Pork title screen in the MAME debugger. Note the timer under 'PRESS START' says 19:29." >}}
 
 Then in the debugger:
 1. Run `cheatinit uw` which initializes the cheat search to look for **u**nsigned **w**ords (that's the `uw`) because I assume that timer is stored in a word, or 16-bits. Since that timer ticks hundredths of a second, it wouldn't fit in a byte.
@@ -130,6 +130,6 @@ Ok! So I inserted a coin and the timer gets initialized to `0x04B0`, since again
 
 Well well well, now it's counting UP for every frame. Probably some sort of in-game frame counter? What if I game over and get to the continue screen? It stops ticking! If I continue, it continues ticking. If I don't continue, it doesn't reset until a coin gets inserted again or if you let the demo start playing..
 
-But wait a minute, if it's an in-game frame counter, and it's 16-bit, it can only count up to 65,536 frames? That can't be right. Game runs at 60FPS, that's about 18 minutes. My 1cc run through the game takes about 30 minutes, and if you get into the second loop a full run would take about an hour, so this value has to be bigger than 16-bit.
+But wait a minute, if it's an in-game frame counter, and it's 16-bit, it can only count up to 65,536 frames? That can't be right. Game runs at 60FPS, that's about 18 minutes. My 1cc run through the game takes about 30 minutes, and if you get into the second loop a full run would take about an hour, so this value has to be bigger than 16-bit. (NOTE ABOUT WHAT THE WATCH POINT CAUGHT!)
 
 That'll have to be a mystery for another day, but this serves as an intro to the MAME debugger, poking around memory and creating cheats. This will be part of a series, because there's a project that caused me start down this rabbit hole...
