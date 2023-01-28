@@ -37,8 +37,10 @@
 
     {{ if isset $.Params "ogimage" }}
     <meta property="og:image" content="{{ .Params.ogimage }}">
+    <meta property="twitter:image" content="{{ .Params.ogimage }}">
     {{ else }}
     <meta property="og:image" content="{{ .Site.Params.ogtitle }}">
+    <meta property="twitter:image" content="{{ .Site.Params.ogtitle }}">
     {{ end }}
 
     {{ if .Site.Params.enableRSS }}
