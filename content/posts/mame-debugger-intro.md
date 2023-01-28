@@ -5,7 +5,7 @@ draft: false
 code: true
 ---
 
-MAME, the arcade machine emulator, has a debugger that allows you to poke around memory and manipulate values. I've always wanted to play around with it but didn't really know what to do or how to do it.
+[MAME](https://www.mamedev.org), the arcade machine emulator, has a debugger that allows you to poke around memory and manipulate values. I've always wanted to play around with it but didn't really know what to do or how to do it.
 
 I'm going to take a toy problem and try to solve it with the MAME debugger. I'll use Muchi Muchi Pork since it's one of my favorite shmups. You can see me clear the game in one credit [here](/posts/mmp-pb-135-mil/) and I write more about it in general [here](/posts/muchi-muchi-pork-pcb/).
 
@@ -115,7 +115,7 @@ But strangely, this value being stuck to whatever the cheat pinned it to causes 
 
 So what does this value do during the game if you don't manipulate it? Well let's find out!
 
-Fire up the game with the debugger again, and open a memory viewer window (on Mac that's ⌘-D). You can search for location `0x0C4857C6` and see what the value is as the game boots. It's `0x0000`. When does it first get set? We can find that out by setting a watchpoint! In the console type `wp 0x0C4857C6:maincpu,2,w`. So, watch that location in the `maincpu` memory space, it's 2 bytes wide, and tell me when it's written to (that's the last `w`, you can also do `r` and `rw`).
+Fire up the game with the debugger again, and open a memory viewer window (on Mac that's ⌘-D). You can search for location `0x0C4857C6` and see what the value is as the game boots. It's `0x0000`. When does it first get set? We can find that out by setting a watchpoint! In the console type `wp 0x0C4857C6:maincpu,1,w`. So, watch that location in the `maincpu` memory space, watch only that address (width `1`), and tell me when it's written to (that's the last `w`, you can also do `r` and `rw`).
 
 ``` text
 MAME debugger version 0.246 (mame0246)
@@ -130,6 +130,8 @@ Ok! So I inserted a coin and the timer gets initialized to `0x04B0`, since again
 
 Well well well, now it's counting UP for every frame. Probably some sort of in-game frame counter? What if I game over and get to the continue screen? It stops ticking! If I continue, it continues ticking. If I don't continue, it doesn't reset until a coin gets inserted again or if you let the demo start playing..
 
-But wait a minute, if it's an in-game frame counter, and it's 16-bit, it can only count up to 65,536 frames? That can't be right. Game runs at 60FPS, that's about 18 minutes. My 1cc run through the game takes about 30 minutes, and if you get into the second loop a full run would take about an hour, so this value has to be bigger than 16-bit. (NOTE ABOUT WHAT THE WATCH POINT CAUGHT!)
+But wait a minute, if it's an in-game frame counter, and it's 16-bit, it can only count up to 65,536 frames? That can't be right. Game runs at 60FPS, that's about 18 minutes. My 1cc run through the game takes about 30 minutes, and if you get into the second loop a full run would take about an hour, so this value has to be bigger than 16-bit. Looking at the watchpoint output, this becomes obvious! `Stopped at watchpoint 1 writing 000004B0 to 0C4857C4` means it's writing a 32-bit value to `0xC4857C4`. Since I assumed it was a 16-bit value, I ran `cheatinit uw` which only caught the changes made to the lower 16-bit half of the 32-bit value. 
 
-That'll have to be a mystery for another day, but this serves as an intro to the MAME debugger, poking around memory and creating cheats. This will be part of a series, because there's a project that caused me start down this rabbit hole...
+If you want to learn more about the MAME debugger, the manual is [here](https://docs.mamedev.org/debugger/index.html).
+
+That's all for this post. This will be part of a series, because there's a project that caused me to start down this rabbit hole...
