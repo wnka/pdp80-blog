@@ -31,7 +31,11 @@ You find these memory locations using the MAME debugger. I'm going to walk throu
 
 When you insert a coin in Muchi Muchi Pork, there's timer that ticks down from 20 seconds that will automatically start your game. These timers are to prevent screen burn in since the image displayed on "press start" screen is static. Arcade operators also want any credits left in the machine to drain off so people will have to pay when they walk up.
 
-Let's start MAME with the debugger. This is super easy, just run `./mame mmpork -debug`. You'll be greeted with a console where you can run commands. You can also open windows to examine memory (on Mac this is ⌘-D). The game will start with an initial breakpoint, so type `go` in the console to run the game. You'll see different machine register states, the program counter, etc. Let the game boot up. Insert a coin to get to the countdown screen.
+Let's start MAME with the debugger. This is super easy, just run `./mame mmpork -debug`. You'll be greeted with a console where you can run commands. You can also open windows to examine memory (on Mac this is ⌘-D). The game will start with an initial breakpoint, so type `go` in the console to run the game. You'll see different machine register states, the program counter, etc. 
+
+{{< figure src="/images/mmpork-debug.jpg" alt="The MAME Debugger" caption="The Muchi Muchi Pork title screen in the MAME debugger. Note the timer sitting at 19:29." >}}
+
+Let the game boot up and insert a coin to get to the countdown screen.
 
 Then in the debugger:
 1. Run `cheatinit uw` which initializes the cheat search to look for **u**nsigned **w**ords (that's the `uw`) because I assume that timer is stored in a word, or 16-bits. Since that timer ticks hundredths of a second, it wouldn't fit in a byte.
