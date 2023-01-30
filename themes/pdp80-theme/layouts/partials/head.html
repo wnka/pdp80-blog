@@ -34,7 +34,9 @@
           media="(prefers-color-scheme: dark)">
 
     <meta property="og:title" content="{{ .Title }}">
+    <meta name="twitter:title" content="{{ .Title }}">
 
+    <meta name="twitter:card" content="summary_large_image">
     {{ if isset $.Params "ogimage" }}
     <meta property="og:image" content="{{ .Params.ogimage }}">
     <meta property="twitter:image" content="{{ .Params.ogimage }}">
