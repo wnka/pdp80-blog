@@ -10,7 +10,7 @@ On my Mac, to convert a video I had to do:
 ffmpeg -i input_display.gif -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" input_display.mp4
 
 */}}
-<video autoplay loop muted playsinline>
-  <source src="{{ .Get 0 }}" type="video/mp4">
+<video autoplay loop muted playsinline {{ if .Get "width" }}width="{{ index .Params "width" }}"{{end}} {{ if .Get "height" }}height="{{ index .Params "height" }}"{{end}}>
+  <source src="{{ .Get "src" }}" type="video/mp4">
   <p>Your browser doesn't support this embedded video.</p>
 </video>

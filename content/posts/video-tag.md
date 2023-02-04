@@ -7,7 +7,7 @@ code: true
 
 I read [this article](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) about serving up videos instead of GIFs to save on bandwidth costs so I wanted to give it a shot. Here's a nice video of my [JAMMA input display](/posts/jamma-input-display/) that I originally captured as a GIF.
 
-{{< videogif "/videos/input_display.mp4">}}
+{{< videogif src="/videos/input_display.mp4">}}
 
 The original GIF of the above is **1.1MB**. The mp4 is **27KB**, or **97%** smaller! That's amazing!
 
@@ -27,7 +27,7 @@ To easily put these videos into blog posts, I created a [Hugo Shortcode](https:/
 
 ```html
 <video autoplay loop muted playsinline>
-  <source src="{{ .Get 0 }}" type="video/mp4">
+  <source src="{{ .Get "src" }}" type="video/mp4">
   <p>Your browser doesn't support this embedded video.</p>
 </video>
 ```
@@ -35,5 +35,5 @@ To easily put these videos into blog posts, I created a [Hugo Shortcode](https:/
 To insert these into a blog post, all I need to do is:
 
 ```text
-{{</* videogif "/videos/input_display.mp4" */>}}
+{{</* videogif src="/videos/input_display.mp4" */>}}
 ```
