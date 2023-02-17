@@ -9,6 +9,7 @@ Better late than never. Short one.
 # Music
 
 - [So Wassup? Episode 49 | Gang Starr - "You Know My Steez"](https://www.youtube.com/watch?v=hVjMgFP1hB8) - This series from DJ Premier is excellent. He covers and breaks down songs he produced and adds background and stories. For example, I didn't know he and Guru were so close with [Branford Marsalis](https://www.youtube.com/watch?v=Zy8JE8xVwVc), or that I completely missed out on [Group Home](https://www.youtube.com/watch?v=nLsu7hpB8IY). The video for "You Know My Steez" is inspired by THX 1138? Wild!
+- RIP to Trugoy the Dove from De La Soul. "Trugoy" is "yogurt" spelled backwards...
 
 # Arcade/Shmups
 
