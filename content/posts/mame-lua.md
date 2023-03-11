@@ -13,7 +13,7 @@ In Muchi Muchi Pork, you build up your *medal value* by blowing up enemies with 
 
 The medal values are shown on the medals themselves, but if there aren't any on-screen then you don't know what your medal value is. There are many cases where I've thought 'oh shit I dropped medals' and it turns out I didn't, or I did drop and didn't know it. What if we could always show the value on screen?
 
-Well... you can! Using the [debugger](/posts/mame-debugger-intro/) I found the medal value to live in a byte at `0xC53F4A7`.
+Well... you can! Using the [debugger](/posts/mame-debugger-intro/) I found the medal value to live in a byte at `0xC53F4A7`. Here's a LUA script that will always show the value on screen:
 
 ```lua
 cpu = manager.machine.devices[":maincpu"]
@@ -42,7 +42,7 @@ end
 emu.register_frame_done(draw_hud, "frame")
 ```
 
-Save that to file, for example `mmpork.medals.lua` and then start MAME like this:
+Save that to a file, for example `mmpork.medals.lua` and then start MAME like this:
 
 ```text
 ./mame mmpork -autoboot_script mmpork.medals.lua
