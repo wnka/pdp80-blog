@@ -1,6 +1,6 @@
 ---
 title: "MAME LUA Scripting"
-date: 2023-03-06T14:29:16-08:00
+date: 2023-03-10T15:29:16-08:00
 draft: false
 code: true
 ---
@@ -9,9 +9,9 @@ I previously wrote a post about the [MAME Debugger](/posts/mame-debugger-intro/)
 
 MAME also has a [LUA Scripting Engine](https://docs.mamedev.org/techspecs/luaengine.html) that you can use to display memory values onscreen and do all kinds of cool stuff. I'll again use Muchi Muchi Pork as an example.
 
-In Muchi Muchi Pork, you build up your *medal value* by blowing up enemies with your lard shot. Each time you collect medals of a certain value, the value increases. It starts at `100` and increases by hundreds up to `1000`, then it increases by thousands up to `10000`. So the progression is: `100`, `200`, ..., `900`, `1000`, `2000`, ..., `10000`. Building up your medal value is critical to scoring well in the game. If you let medals drop off the screen without collecting them, your medal value goes down by a factor of `10`. Medal value of `10000` and you drop, medals are now worth `1000`. Drop again and you're all the way back to `100`.
+In Muchi Muchi Pork, you build up your *medal value* by blowing up enemies with your lard shot. Each time you collect medals of a certain value, the value increases. It starts at `100` and increases by hundreds up to `1000`, then it increases by thousands up to a maximum of `10000`. So the progression is: `100`, `200`, ..., `900`, `1000`, `2000`, ..., `10000`. Building up your medal value is critical to scoring well in the game. If you let medals drop off the screen without collecting them, your medal value goes down by a factor of `10`. Medal value of `10000` and you drop, medals are now worth `1000`. Drop again and you're all the way back to `100`.
 
-The medal values are shows on the medals themselves, but outside of that you don't know what your medal value is. There are many cases where I've thought 'oh shit I dropped medals' and it turns out I didn't, or I did drop and didn't know it. What if we could always show the value on screen?
+The medal values are shown on the medals themselves, but if there aren't any on-screen then you don't know what your medal value is. There are many cases where I've thought 'oh shit I dropped medals' and it turns out I didn't, or I did drop and didn't know it. What if we could always show the value on screen?
 
 Well... you can!
 
