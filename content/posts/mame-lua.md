@@ -1,13 +1,14 @@
 ---
-title: "MAME LUA Scripting"
+title: "MAME Lua Scripting"
 date: 2023-03-10T15:29:16-08:00
 draft: false
 code: true
+ogimage: https://pdp.dev/images/mmpork.medals.jpg
 ---
 
 I previously wrote a post about the [MAME Debugger](/posts/mame-debugger-intro/) which showed how to find where certain values are stored in a game's memory.
 
-MAME also has a [LUA Scripting Engine](https://docs.mamedev.org/techspecs/luaengine.html) that you can use to display memory values onscreen and do all kinds of cool stuff. I'll again use Muchi Muchi Pork as an example.
+MAME also has a [Lua Scripting Engine](https://docs.mamedev.org/techspecs/luaengine.html) that you can use to display memory values onscreen and do all kinds of cool stuff. I'll again use Muchi Muchi Pork as an example.
 
 In Muchi Muchi Pork, you build up your *medal value* by blowing up enemies with your lard shot. Each time you collect medals of a certain value, the value increases. It starts at `100` and increases by hundreds up to `1000`, then it increases by thousands up to a maximum of `10000`. So the progression is: `100`, `200`, ..., `900`, `1000`, `2000`, ..., `10000`. Building up your medal value is critical to scoring well in the game. If you let medals drop off the screen without collecting them, your medal value goes down by a factor of `10`. Medal value of `10000` and you drop, medals are now worth `1000`. Drop again and you're all the way back to `100`.
 
