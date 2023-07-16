@@ -1,5 +1,5 @@
 ---
-title: "Alien^3 Alternate Script"
+title: "Book: Alien^3 - The Unproduced Screenplay by William Gibson"
 date: 2023-06-10T12:52:54-07:00
 ---
 
