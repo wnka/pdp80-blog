@@ -23,12 +23,12 @@ from [DigiKey](http://digikey.com).
 - [Female Pins](http://www.digikey.com/product-detail/en/175149-2/A107105TR-ND/1149437)
 - [Female Connector](http://www.digikey.com/product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=A106914-ND&x=0&y=0&formaction=on)
 
-{{<img src="/images/rpibuttons.jpg" caption="Raspberry Pi with control panel extension">}}
+{{<figure src="/images/rpibuttons.jpg" caption="Raspberry Pi with control panel extension">}}
 
 With Node up and running on the Raspberry Pi, you can just point a web browser at the server and see
 the inputs reflected there.
 
-{{<img src="/images/buttonslocal.jpg" caption="Button display">}}
+{{<figure src="/images/buttonslocal.jpg" caption="Button display">}}
 
 For streaming I just added the region of the desktop where the browser was being shown so that it
 would be shown in the stream.

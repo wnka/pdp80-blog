@@ -8,7 +8,7 @@ Near the end of 2014 I bought a [Side Arms](http://en.wikipedia.org/wiki/Hyper_D
 
 So while 8 year old me thought highly of this game, current me who has decent shmup skills 1CC'd it the first time I played it seriously. **FOR REAL!** I played 2 credits just to make sure the PCB worked ok so I could give the seller positive feedback, then I let it sit for a few days. On the first credit I sat down and played with real effort, I 1CC'd the game. I double checked the DIP switches to make sure the difficulty wasn't set super low, but they were set to defaults.
 
-![Side Arms 1CC](/images/sidearms.jpg)
+{{< figure src="/images/sidearms.jpg" >}}
 
 The left/right shooting mechanic is neat, but all in all the game isn't anything that special. The [music](http://youtube.com/watch?v=rE3-37iqWaQ) is rad and it has that classic Capcom feel, but I don't think this is a PCB worth keeping.
 

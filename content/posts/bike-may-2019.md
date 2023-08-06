@@ -11,12 +11,12 @@ I super enjoyed this route. The trail around the east side of Lake Sammamish was
 
 ### BelRedSamMerSea Route/Stats
 
-![strava](/images/IMG_1020.JPG)
+{{< figure src="/images/IMG_1020.JPG" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/2412727330)
 
 ### Pictures from along the way:
 
-![strava](/images/IMG_1016.jpg)
-![strava](/images/IMG_1017.jpg)
-![strava](/images/IMG_1019.JPG)
+{{< figure src="/images/IMG_1016.jpg" >}}
+{{< figure src="/images/IMG_1017.jpg" >}}
+{{< figure src="/images/IMG_1019.JPG" >}}

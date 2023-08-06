@@ -11,6 +11,6 @@ Basically all this little box does is take the amplified signal going to the spe
 
 Here's the box stashed underneath my control panel. 
 
-![High to low converter](/images/20120521-204346.jpg)
+{{< figure src="/images/20120521-204346.jpg" >}}
 
 All I did was wire up the L and R channels from the box to a 4-pin AMP-UP connector that plugs into the speaker connector under the control panel. + on the right, - on the left. You don't have to pay attention to which is L and which is R since JAMMA games are mono. I can easily swap back to using the cabinet speakers by just swapping that 4-pin connector. I don't like permanently modding my cab, so this solution is easy to revert if I ever need to just use the stock speakers.

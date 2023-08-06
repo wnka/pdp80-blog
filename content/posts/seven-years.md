@@ -6,4 +6,4 @@ title = "Seven Years"
 
 Seven years ago today on January 22nd 2005, I met my awesome wife. 
 
-![Wedding day pic](/images/kp084.jpg)
+{{< figure src="/images/kp084.jpg" >}}

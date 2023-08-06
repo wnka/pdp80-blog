@@ -5,6 +5,6 @@ title = "Happy Holidays from Astro City"
 Categories = ["hardware"]
 +++
 
-![Xmas astro](/images/xmas_astro.jpg)
+{{< figure src="/images/xmas_astro.jpg" >}}
 
 Happy Holidays everybody!

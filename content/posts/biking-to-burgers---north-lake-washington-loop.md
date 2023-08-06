@@ -9,7 +9,7 @@ Today I rode around the north half of Lake Washington\. I rode the Burke\-Gilman
 
 Total distance: **35\.7 miles**
 ### Route/Stats:
-![route](/images/IMG_1949.JPG)
+{{< figure src="/images/IMG_1949.JPG" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1828471767)
 

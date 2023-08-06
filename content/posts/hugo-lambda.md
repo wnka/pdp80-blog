@@ -28,7 +28,7 @@ The request that the GitHub Webhook sends must complete in 10 seconds or less, s
 
 Here's a diagram of the overall flow I whipped up using [draw.io](https://draw.io):
 
-![HugoLambda](/images/HugoLambda.png)
+{{< figure src="/images/HugoLambda.png" >}}
 
 This works quite well and takes about 30 seconds from GitHub repository push to the change being live on my blog.
 

@@ -10,22 +10,22 @@ A coworker told me that biking around Mercer Island is a nice ride, so I figured
 I was starting to get worried about finding a bathroom, but thankfully someone put some portapotties at a pull off spot. You do share the road with cars the whole way around, but people seemed to know how to deal with cyclists so I never felt unsafe.
 
 ### Route/Stats:
-![route](/images/IMG_1991.jpeg)
+{{< figure src="/images/IMG_1991.jpeg" >}}
 
 Total distance: **28.3 miles.** Full Strava activity [here.](https://www.strava.com/activities/1846484671)
 
 ### Pictures:
 
-![image](/images/IMG_1971.jpeg)
-![image](/images/IMG_1974.jpeg)
-![image](/images/IMG_1975.jpeg)
-![image](/images/IMG_1979.jpeg)
-![image](/images/IMG_1981.jpeg)
-![image](/images/IMG_1984.jpeg)
-![image](/images/IMG_1985.jpeg)
-![image](/images/IMG_1986.jpeg)
-![image](/images/IMG_1989.jpeg)
-![image](/images/IMG_1990.jpeg)
+{{< figure src="/images/IMG_1971.jpeg" >}}
+{{< figure src="/images/IMG_1974.jpeg" >}}
+{{< figure src="/images/IMG_1975.jpeg" >}}
+{{< figure src="/images/IMG_1979.jpeg" >}}
+{{< figure src="/images/IMG_1981.jpeg" >}}
+{{< figure src="/images/IMG_1984.jpeg" >}}
+{{< figure src="/images/IMG_1985.jpeg" >}}
+{{< figure src="/images/IMG_1986.jpeg" >}}
+{{< figure src="/images/IMG_1989.jpeg" >}}
+{{< figure src="/images/IMG_1990.jpeg" >}}
 
 ### Soundtrack for the ride:
 

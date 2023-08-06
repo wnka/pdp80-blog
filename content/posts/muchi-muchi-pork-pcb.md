@@ -21,7 +21,7 @@ That meet was pretty epic, the lineup was
 [Progear](http://www.hardcoregaming101.net/progear/progear.htm), and
 [Muchi Muchi Pork](http://www.hardcoregaming101.net/muchimuchipork/muchimuchipork.htm).
 
-{{<img src="/images/shmupmeet.11.2010.jpg" caption="Seattle Shmupmeet November 2010">}}
+{{<figure src="/images/shmupmeet.11.2010.jpg" caption="Seattle Shmupmeet November 2010">}}
 
 You can see Muchi Muchi Pork on the cab at the end, which is actually the Astro City I ended up buying
 from that operator! [I fixed the marquee lamp...]({{< ref "marquee-light-replacement.md">}})
@@ -57,6 +57,6 @@ best!
 
 {{< youtube djHPdlHX2X0  >}}
 
-{{<img src="/images/mmp.jpg" caption="MMP on my Astro City">}}
+{{<figure src="/images/mmp.jpg" caption="MMP on my Astro City">}}
 
 One of my shmup goals for 2014: 1-ALL Muchi Muchi Pork!

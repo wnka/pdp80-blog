@@ -10,7 +10,7 @@ The problem though is that the WiFi reception in our backyard sucks, so I needed
 
 The backyard was covered but was spotty, if I video chatted with someone the signal would drop, I couldn't stream video, ping times were all over the place. With UniFi the answer is easy: add another access point! They have an [outdoor model](https://store.ui.com/collections/unifi-network-access-points/products/unifi-flexhd) that can be mounted in a variety of ways, so I ran a cable out of the basement into the backyard (which included some gross crawlspace crawling), up the side of the house, and mounted the access point under the awning. 
 
-![Installed](/images/IMG_2356.jpg)
+{{< figure src="/images/IMG_2356.jpg" >}}
 
 One great thing about these access points is that they use [Power over Ethernet](https://en.wikipedia.org/wiki/Power_over_Ethernet) or *PoE* which makes it so you just have to run an Ethernet cable and data and power are provided. I have two of these [UniFi switches](https://store.ui.com/collections/unifi-network-routing-switching/products/unifi-switch-8-60w) that provide PoE for the access points.
 

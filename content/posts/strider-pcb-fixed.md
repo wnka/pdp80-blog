@@ -15,11 +15,11 @@ The SFII board I have has a different "B" board layout with different/incompatib
 
 The Final Fight arrived and I verified that it worked, then I swapped the Strider roms and "C" board onto the FF "B" board. 
 
-![Look Ma, no lines!](/images/20120528-213257.jpg)
+{{< figure src="/images/20120528-213257.jpg" >}}
 
 I swapped the Final Fight roms onto the Strider "B" board. Lines!
 
-![Lines!](/images/20120528-213148.jpg)
+{{< figure src="/images/20120528-213148.jpg" >}}
 
 At some point I'll look more into what is wrong with the Strider "B" board, but at least now I have a fully working CPS board set.
 

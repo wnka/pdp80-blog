@@ -13,10 +13,10 @@ So now I needed a new bike, and ever since becoming a dad I haven't really had t
 
 I got a [bike seat](https://www.amazon.com/Thule-Yepp-mount-child-seat-Orange/dp/B004PYEB0M) that so that I could take Ramona with me on rides. She **loves** it! 
 
-![Vanmoof and Mona](/images/IMG_5071.jpeg)
+{{< figure src="/images/IMG_5071.jpeg" >}}
 
 I convinced my wife to get in on the action and she got a [big cargo e-bike](https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike) that she really likes. We're doing family bike rides now!
 
-![Biking family](/images/IMG_5600.jpeg)
+{{< figure src="/images/IMG_5600.jpeg" >}}
 
 Basically, I don't use biking for fitness anymore. For fitness I use the Peloton which is a better workout anyway. I would like to eventually get back into biking long distances without electronic assistance, but that's going to require buying (yet) another bike!

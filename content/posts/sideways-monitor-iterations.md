@@ -9,7 +9,7 @@ Before I got an arcade cabinet, I had done many things to approximate one while 
 
 * Mark I
 
-![Dotronix VGA monitor](/images/IMG_1212.jpg)
+{{< figure src="/images/IMG_1212.jpg" >}}
   
 
 Dotronix monitor I got on craigslist for $10.
@@ -18,7 +18,7 @@ This is just a big VGA monitor running at 640x480.  It looked pretty good for wh
 
 * Mark II
 
-![Amiga monitor](/images/IMG_1357.jpg)
+{{< figure src="/images/IMG_1357.jpg" >}}
 
 Ultracade UVC with my old Amiga Monitor.
   
@@ -26,7 +26,7 @@ Scanlines!  This looked totally awesome.  Unfortunately, the blue pin (that's pi
 
 * Mark III
 
-![PVM](/images/IMG_0752.jpg)
+{{< figure src="/images/IMG_0752.jpg" >}}
 
 Ultracade UVC with Sony PVM.
   

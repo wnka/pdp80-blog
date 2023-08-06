@@ -14,7 +14,7 @@ From there I rode up and over Juanita Hill down into Kirkland and through Bellev
 
 All in all, 50.6 miles. Not too bad.
 
-![image](/images/IMG_1149.JPG)
+{{< figure src="/images/IMG_1149.JPG" >}}
 
 I also did 4 commutes to work by bike this week, so I rode a total of 102.2 miles!
 

@@ -11,7 +11,7 @@ Last night, after almost 2 years of playing the game off and on, I finally did i
 
 Yep, I got a phone call in the middle of stage 4, which cut off my video. It's a bummer, but here's what I was able to capture.
 
-![Final score: 72,325,552](/images/IMG_2101.jpg)
+{{< figure src="/images/IMG_2101.jpg" >}}
 
 Not my best score, but I bombed a lot and played it safe.
 

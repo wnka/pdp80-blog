@@ -13,4 +13,4 @@ Thankfully, my parents were sane and didn't listen to my wishes. If they had, I 
 
 My desires were soon replaced with something else, and the world moved on. But… Neo Geo is still cool, and I've always kind of wanted one. Since the home console Neo Geo (or AES) was so expensive and not a huge success, it is still fairly rare and expensive. However, the arcade hardware (or MVS) was a huge success and is really common. Since these days I like arcade hardware, I bought a Neo Geo MVS motherboard and some games. It's awesome!
 
-![Neo Geo](/images/IMG_2160.jpg)
+{{< figure src="/images/IMG_2160.jpg" >}}

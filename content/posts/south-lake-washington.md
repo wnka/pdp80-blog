@@ -17,22 +17,22 @@ Total mileage for the week so far: **89.4 miles**
 
 ### Route / Stats:
 
-![route](/images/IMG_1851.jpg)
+{{< figure src="/images/IMG_1851.jpg" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1806235335)
 
 ### Pictures from along the way:
 
-![520 lillies](/images/IMG_1821.JPG)
-![520 east](/images/IMG_1822.JPG)
-![medina looking to mercer islang](/images/IMG_1827.JPG)
-![eastside rail corridor trail](/images/IMG_1830.JPG)
-![welcome to renton](/images/IMG_1832.JPG)
-![beachfront park](/images/IMG_1836.JPG)
-![trail ends](/images/IMG_1838.JPG)
-![coulon beach park](/images/IMG_1840.JPG)
-![seward park](/images/IMG_1844.JPG)
-![seward park ducks](/images/IMG_1847.JPG)
+{{< figure src="/images/IMG_1821.JPG" >}}
+{{< figure src="/images/IMG_1822.JPG" >}}
+{{< figure src="/images/IMG_1827.JPG" >}}
+{{< figure src="/images/IMG_1830.JPG" >}}
+{{< figure src="/images/IMG_1832.JPG" >}}
+{{< figure src="/images/IMG_1836.JPG" >}}
+{{< figure src="/images/IMG_1838.JPG" >}}
+{{< figure src="/images/IMG_1840.JPG" >}}
+{{< figure src="/images/IMG_1844.JPG" >}}
+{{< figure src="/images/IMG_1847.JPG" >}}
 
 ### Soundtrack for the ride:
 

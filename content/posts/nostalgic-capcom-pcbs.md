@@ -16,9 +16,9 @@ I totally love the graphical style and music from these games. Clearly this is b
 One cool thing about owning the real hardware is how gigantic the games are. The Commando board set is **three** boards connected via ribbon cable, making it the largest game I own and most awkward to handle. Gun.Smoke, despite being the same hardware, is only two boards. This makes for an interesting storage challenge, but it's cool to see all the different chips that were needed to make a game back in 1985. It makes me wonder which board in the set is doing what, and I'm tempted to take Commando and just start unplugging things to see what happens.
 
 Commando PCB:
-![Commando PCB](/images/commando_pcb.jpg)
+{{< figure src="/images/commando_pcb.jpg" >}}
 
 Gun.Smoke PCB:
-![Gunsmoke PCB](/images/gunsmoke_pcb.jpg)
+{{< figure src="/images/gunsmoke_pcb.jpg" >}}
 
 So while I'm glad to add these two games to my collection, I'll probably never play either of them seriously. I'll definitely get some mileage out of Gun.Smoke just because it's more my cup of tea than Commando.

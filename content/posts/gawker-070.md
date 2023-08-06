@@ -5,7 +5,7 @@ title = "Gawker 0.7.0"
 Categories = ["Cocoa", "Gawker"]
 +++
 
-![4-way image capture](/images/4waylarge.jpg)
+{{< figure src="/images/4waylarge.jpg" >}}
 
 I’ve always gotten a lot of requests to add support for non-iSight cameras, so I sat down and figured out a good way to do it.  Hopefully it works for most folks.... Gawker will now list all your available grabbers and you can enable, record, and share them independently.  Version 0.7.0 also has some other new features, like desktop capturing, combining of up to 4 cameras, and a countdown until the next frame is recorded.
 

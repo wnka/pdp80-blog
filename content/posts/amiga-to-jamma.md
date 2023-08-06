@@ -11,7 +11,7 @@ Originally launched in 1985, the [Commodore Amiga](http://en.wikipedia.org/wiki/
 
 That Amiga 2000 from my youth eventually broke, so one day when feeling nostalgic I found an [Amiga 1000](http://en.wikipedia.org/wiki/Amiga_1000) on craigslist so that I could still play all those great games and have a reason to keep all those 3.5" 880k floppies. Recently however, the monitor for the Amiga stopped showing blue on its RGB input, leaving only red and green and making everything yellow. However, an Amiga monitor is basically an arcade monitor, which means I can hook it up to my cabinet or [supergun](/posts/playing-arcade-games-with-no-cabinet/)!
 
-![Wired up](/images/IMG_2046.jpg)
+{{< figure src="/images/IMG_2046.jpg" >}}
 
 Since the Amiga has its own power supply and sound output, all I needed to wire up was the video output and the controls to the JAMMA edge.  Here are the pinouts for the Amiga side of things:
 
@@ -21,4 +21,4 @@ Since the Amiga has its own power supply and sound output, all I needed to wire 
 
 It works great and I can basically treat my Amiga like another arcade board!  Just plug it into the JAMMA harness and play.
 
-![Works!](/images/IMG_2089.jpg)
+{{< figure src="/images/IMG_2089.jpg" >}}

@@ -12,7 +12,7 @@ I upgraded from an old Retina 13-inch (2015?), pre USB-C with the MagSafe power.
 
 This is my desk/WFH set up:
 
-![My Desk](/images/IMG_1960.jpeg)
+{{< figure src="/images/IMG_1960.jpeg" >}}
 
 ## Keyboard
 Nothing to write about which is good. My home laptop is a MacBook that has the controversial butterfly keyboard and yea, it’s different but I can type on it just fine. I definitely prefer this keyboard though, my biggest complaint about the butterfly keyboard mechanism is that it's loud. This one is nice and quiet, I can aggressively take notes on a conference call and no one will hear a thing.

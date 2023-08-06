@@ -9,17 +9,17 @@ I was hitting my vacation limit at work so I took this week off. [My wife](https
 
 ### Route / Stats:
 
-![route](/images/sea-red-loop.jpg)
+{{< figure src="/images/sea-red-loop.jpg" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1801745205)
 
 ### Pictures from along the way:
 
-![wood bridge in Woodinville](/images/woodbridge.jpg)
-![405 underpass](/images/405underpass.jpg)
-![woodinville](/images/woodinville.jpg)
-![520 east](/images/520east.jpg)
-![520 bridge back to Seattle](/images/520bridge.jpg)
+{{< figure src="/images/woodbridge.jpg" >}}
+{{< figure src="/images/405underpass.jpg" >}}
+{{< figure src="/images/woodinville.jpg" >}}
+{{< figure src="/images/520east.jpg" >}}
+{{< figure src="/images/520bridge.jpg" >}}
 
 ### Soundtrack for the ride: 
 

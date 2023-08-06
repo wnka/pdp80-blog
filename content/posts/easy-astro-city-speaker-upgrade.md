@@ -11,13 +11,13 @@ To summarize that forum thread, find a pair of Cambridge Soundworks SBS52 PC spe
 
 Once you get the speakers, you need to disassemble them. I wrestled with this since there is a hidden screw on the front of each speaker under the speaker grill holding the enclosure together. Thankfully getting the grill off is easy, just jam a flatblade screwdriver between the grill and the plastic and wiggle it outward, then remove the screw.  Once you get all the screws out, open the enclosure and you'll see this:
 
-![Speakers in their enclosure](/images/speaker11.jpg)
+{{< figure src="/images/speaker11.jpg" >}}
 
 Next, use your soldering iron to desolder the two wires that are going to the driver. Make sure that you remove the existing solder from the posts on the driver, otherwise the quick disconnects for the speakers on the Astro City will not fit due to the excess solder. Then unscrew the driver from the housing and replace the one already in your cabinet. Repeat for the other speaker and you're in business!
 
 Here is a new and old speaker side by side:
 
-![Speaker comparison](/images/speaker2.jpg)
+{{< figure src="/images/speaker2.jpg" >}}
 
 The old speaker is the one on the right with the Sega logo. 
 

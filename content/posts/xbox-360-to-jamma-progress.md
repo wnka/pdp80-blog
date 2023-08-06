@@ -17,11 +17,11 @@ Finally, sound.  I needed an amp since with JAMMA the game board is responsible 
 
 Champion the cat approves!
 
-![Champers](/images/IMG_1258.jpg)
+{{< figure src="/images/IMG_1258.jpg" >}}
 
 So while it all works, it ain't pretty:
 
-![Needs organizing](/images/360jamma.jpg)
+{{< figure src="/images/360jamma.jpg" >}}
 
 I need to figure out how to contain this mess....
 

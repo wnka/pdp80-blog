@@ -15,7 +15,7 @@ My long rides are good efforts, but they're pretty meandering and low intensity.
 
 There are always new classes and committing to live classes helps me plan my workouts. I did a class every day from July 17th to July 31st except for one day, so I'm off to a good start.
 
-![](/images/peloton.jpg)
+{{< figure src="/images/peloton.jpg" >}}
 
 First ride! Got pretty sweaty! Also, this motivated a much needed garage cleanup and many trips to Goodwill.
 

@@ -15,7 +15,7 @@ Ever since I got the game I have been very slowly chipping away at a 1CC of Orig
 
 Today, Friday May 20th 2011, I 1CC'd Mushihimesama Futari on Original Mode!
 
-![Mushi 1CC](/images/mushi1cc.jpg)
+{{< figure src="/images/mushi1cc.jpg" >}}
 
 This 1CC was Ver. 1.5 Original Mode using Palm with Abnormal Shot type.  Final score: 189,352,383.
 

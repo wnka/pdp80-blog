@@ -10,13 +10,13 @@ First up, after yesterday's long bike ride I went for a short ride today, but wa
 Mileage for the week: **42.4 miles.**
 
 ### Route / Stats:
-![route](/images/vacation-08-2018-day2.jpg)
+{{< figure src="/images/vacation-08-2018-day2.jpg" >}}
 
 ### Pictures from along the way:
 
-![interlocken](/images/interlocken.jpg)
-![garden](/images/garden.jpg)
-![shelby](/images/shelby.jpg)
+{{< figure src="/images/interlocken.jpg" >}}
+{{< figure src="/images/garden.jpg" >}}
+{{< figure src="/images/shelby.jpg" >}}
 
 ### Soundtrack for the ride: 
 
@@ -26,10 +26,10 @@ Mileage for the week: **42.4 miles.**
 
 The other thing I did today was finally get [some shelving](https://www.ikea.com/us/en/catalog/products/50192822/) that will nicely store my arcade PCBs and free up closet space in the basement, something that has driven my wife nuts for years. PCBs come in all different shapes and sizes, making them kind of weird to buy shelves for, plus I had mounted them to wood to keep them from flexing too much but this made them even more cumbersome. I mean, look at the PCB for the [1985 Capcom game Commando](https://en.wikipedia.org/wiki/Commando_\(video_game\)). It's 3 boards stacked and is hella large:
 
-![commando PCB](/images/commandoPCB.jpg)
+{{< figure src="/images/commandoPCB.jpg" >}}
 
 For the larger games, I measured their dimensions without the wood and went to Ikea and found something with drawers that would fit even the largest game. For smaller games (Cave SH3 / PGM) the drawers are big enough for me to keep the wood. Now everything is stored nicely and out of sight.
 
-![PCB drawers](/images/PCBdrawers.jpg)
+{{< figure src="/images/PCBdrawers.jpg" >}}
 
 This is not the final resting place for this cabinet, it'll go into that closet to the right there, but we gotta make some Goodwill trips first.

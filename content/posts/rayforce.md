@@ -21,11 +21,11 @@ Recently I was chatting with a coworker about something and we got to talking so
 
 Now, I was in the process of burning the Rayforce ROMs and had everything burned except for the background graphics ROMs, but that one sound ROM that I hadn't replaced before (D66-01) was in place so I fired up the game.
 
-{{<img src="/images/IMG_0617.jpg" caption="Working with missing background ROMs">}}
+{{<figure src="/images/IMG_0617.jpg" caption="Working with missing background ROMs">}}
 
 IT WORKED! WOW! As you can see, the backgrounds are missing because those ROMs are missing. I finished up burning those and installed them.
 
-{{<img src="/images/IMG_0623.jpg" caption="Background ROMs installed">}}
+{{<figure src="/images/IMG_0623.jpg" caption="Background ROMs installed">}}
 
 Clearly that "sound ROM" also serves some other important function since the game wouldn't even boot without it. I mean, I figured I would just get messed up sounds from Arkanoid Returns.
 
@@ -35,7 +35,7 @@ I now had a perfectly working Rayforce F3 cartridge. I've been playing it some t
 
 I've played a few credits and I can get to Area 4 pretty consistently. My current best score is 1,174,100 in Area 4:
 
-{{<img src="/images/IMG_0631.jpg" caption="Goal #1 met: beat default high score">}}
+{{<figure src="/images/IMG_0631.jpg" caption="Goal #1 met: beat default high score">}}
 
 I think this is what I'm going to try and 1CC next. It has a very different feel from other shmups I play in that there aren't tons of bullets on the screen, but it's so well put together and tons of fun. To survive, it's pretty clear that you need to lock on to things before they reach the main play field, otherwise things get hairy pretty fast. That means memorizing enemy placements and destroying enemies as fast as you can.
 

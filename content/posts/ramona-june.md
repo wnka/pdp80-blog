@@ -20,9 +20,9 @@ Ramona was born one day early on October 24th. Labor was long and hard on my wif
 
 I am on parental leave until January 2020 to bond as a family. It’s been going well so far, the days are pretty unpredictable and getting just one thing accomplished is a feat, but we’re getting in lots of snuggles and naps. 
 
-![](/images/IMG_0252.jpg)
-![](/images/IMG_0243_2.jpg)
-![](/images/IMG_0308.jpg)
+{{< figure src="/images/IMG_0252.jpg" >}}
+{{< figure src="/images/IMG_0243_2.jpg" >}}
+{{< figure src="/images/IMG_0308.jpg" >}}
 
 Love to all!
 

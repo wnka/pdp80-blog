@@ -17,14 +17,14 @@ Great way to spend a beautiful day in Seattle.
 
 ### Route / Stats:
 
-![route](/images/IMG_1129.JPG)
-![route](/images/IMG_1128.JPG)
+{{< figure src="/images/IMG_1129.JPG" >}}
+{{< figure src="/images/IMG_1128.JPG" >}}
 
 Full Strava activity [here](https://www.strava.com/activities/2472295942) and [here.](https://www.strava.com/activities/2472364063)
 
 ### Pictures from along the way:
 
-![pic](/images/IMG_1109.jpg)
-![pic](/images/IMG_1111.jpg)
-![pic](/images/IMG_1114.jpg)
-![pic](/images/IMG_1117.jpg)
+{{< figure src="/images/IMG_1109.jpg" >}}
+{{< figure src="/images/IMG_1111.jpg" >}}
+{{< figure src="/images/IMG_1114.jpg" >}}
+{{< figure src="/images/IMG_1117.jpg" >}}

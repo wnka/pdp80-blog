@@ -11,9 +11,9 @@ The really cool news is that you can play it on an actual PCB!  I had been think
 
 This is my first programmed EPROM, a 27C160 which is what Ketsui uses to store its game logic.
 
-![M27C160 installed](/images/20120531-221032.jpg)
+{{< figure src="/images/20120531-221032.jpg" >}}
 
-![Success!](/images/20120531-221047.jpg)
+{{< figure src="/images/20120531-221047.jpg" >}}
 
 I haven't played it much yet, but it is really well done and is a neat take on the original game.  Basically, you hold down A+C to jack up the rank (a la [Dodonpachi Daifukkatsu Black Label](http://en.wikipedia.org/wiki/Do-Don-Pachi_Dai-Fukkatsu#Dodonpachi_Daifukkatsu_Black_Label_.28Xbox_360.29)) and then you get bombarded with the bullet patterns from the more difficult 2nd loop of the game.  You can let go of A+C to drop the rank down and make things easier, but of course you get more points by making things hard for yourself.
 

@@ -13,15 +13,15 @@ The original fixture required a starter bulb, which was missing when I got the c
 
 First thing I did was remove the monitor shroud. Remove the metal panel on the back of the cabinet that covers the speakers and lamp, then underneath the control panel unhook the speaker AMP-UP connector (in green) and three screws (in red) as shown below.
 
-![Remove Monitor Shroud](/images/IMG_18791.jpg)
+{{< figure src="/images/IMG_18791.jpg" >}}
 
 With the shroud removed, we now have easy access to the fluorescent fixture and can remove it.
 
-![Existing Fixture](/images/IMG_18621.jpg)
+{{< figure src="/images/IMG_18621.jpg" >}}
 
 You can see there are two wires running out of the fixture, one pink and one gray.  Follow these down to a connector inside the cabinet that should be reachable through the service door (where you put PCBs) if you lay on your back and look up inside the cab.  Once you unhook that connector, you can unscrew the four screws for the fixture and set it aside.  With the fixture removed, now would be a good opportunity to do some cleaning around the mounting brackets.
 
-![Fluorescent mounting posts](/images/IMG_1869.jpg)
+{{< figure src="/images/IMG_1869.jpg" >}}
 
 Now we're ready to wire up the new fixture. I bought a [24-inch direct wire fixture off Amazon](http://www.amazon.com/16687-24-Inch-Premium-Fluorescent-Fixture/dp/B001ET6DC0/ref=sr_1_3?ie=UTF8&qid=1325466902&sr=8-3), however here in the US things are 120V while the power coming off the power supply inside the cab is 100V since this is a Japanese cabinet. I plug my cabinet into step-down converter to convert 120V to 100V, so before I went through all the trouble of wiring up the light only to find it not work, I figured I would see what happens with the fixture I bought when it's fed 100V. 
 
@@ -31,12 +31,12 @@ The direct wire fixture has three wires: white (neutral), black (hot), and green
 
 Now we're ready to wire the new fixture into where the old one connected to the power supply. I cut the pink and gray wires off the old fixture so that I could reuse the connector and wire. From the fixture, wire the pink wire to the black wire and the gray wire to the white wire. What about ground? The old fixture has no ground wire, but the new one does. Thankfully there are quite a few ground points within the cab, so you can just wire it to one of those.  I crimped a ring terminal connector to the ground wire and hooked it to a post just inside the service door by the front left leg.  The ground wire for the light is the red one:
 
-![Lamp Ground](/images/IMG_1880_2.jpg)
+{{< figure src="/images/IMG_1880_2.jpg" >}}
 
 Next, the new fixture didn't have any mounting holes, so I need to drill some. I just held it up to the bracket and marked where the holes needed to go, then used a punch on those spots to help guide the bit. With those drilled, the new fixture can now be mounted and things can be reassembled. Viola!
 
-![New Fixture](/images/IMG_1875_2.jpg)
+{{< figure src="/images/IMG_1875_2.jpg" >}}
 
-![Result](/images/IMG_1878.jpg)
+{{< figure src="/images/IMG_1878.jpg" >}}
 
 I can't believe I went for so long without a working light! The cab now really ties the room together.

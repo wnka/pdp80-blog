@@ -15,40 +15,40 @@ Total distance: **24.8 miles**
 
 ### To West Seattle Route/Stats 
 
-![to Alki](/images/IMG_B14D53374D36-1.jpeg)
+{{< figure src="/images/IMG_B14D53374D36-1.jpeg" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1817071635)
 
 ### Pictures heading to West Seattle:
 
-![images](/images/IMG_1875.jpg)
-![images](/images/IMG_1877.JPG)
-![images](/images/IMG_1880.jpg)
-![images](/images/IMG_1881.JPG)
-![images](/images/IMG_1882.JPG)
-![images](/images/IMG_1884.JPG)
-![images](/images/IMG_1885.JPG)
-![images](/images/IMG_1886.JPG)
-![images](/images/IMG_1887.JPG)
-![images](/images/IMG_1888.JPG)
+{{< figure src="/images/IMG_1875.jpg" >}}
+{{< figure src="/images/IMG_1877.JPG" >}}
+{{< figure src="/images/IMG_1880.jpg" >}}
+{{< figure src="/images/IMG_1881.JPG" >}}
+{{< figure src="/images/IMG_1882.JPG" >}}
+{{< figure src="/images/IMG_1884.JPG" >}}
+{{< figure src="/images/IMG_1885.JPG" >}}
+{{< figure src="/images/IMG_1886.JPG" >}}
+{{< figure src="/images/IMG_1887.JPG" >}}
+{{< figure src="/images/IMG_1888.JPG" >}}
 
 ### From West Seattle to Home Route/Stats:
 
-![from Alki](/images/IMG_1A0172138DBC-1.jpeg)
+{{< figure src="/images/IMG_1A0172138DBC-1.jpeg" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1817451082)
 
 ### Pictures heading home:
 
-![images](/images/IMG_1895.JPG)
-![images](/images/IMG_1897.JPG)
-![images](/images/IMG_1898.JPG)
-![images](/images/IMG_1900.JPG)
-![images](/images/IMG_1903.JPG)
-![images](/images/IMG_1904.JPG)
-![images](/images/IMG_1905.JPG)
-![images](/images/IMG_1908.JPG)
-![images](/images/IMG_1910.JPG)
+{{< figure src="/images/IMG_1895.JPG" >}}
+{{< figure src="/images/IMG_1897.JPG" >}}
+{{< figure src="/images/IMG_1898.JPG" >}}
+{{< figure src="/images/IMG_1900.JPG" >}}
+{{< figure src="/images/IMG_1903.JPG" >}}
+{{< figure src="/images/IMG_1904.JPG" >}}
+{{< figure src="/images/IMG_1905.JPG" >}}
+{{< figure src="/images/IMG_1908.JPG" >}}
+{{< figure src="/images/IMG_1910.JPG" >}}
 
 ### Soundtrack for the ride:
 * Rezzett - Rezzett - [iTunes](https://itunes.apple.com/ee/album/rezzett/1344927144) / [Spotify](https://open.spotify.com/album/5N91OjEKm2kLaPuXhlFpkx)

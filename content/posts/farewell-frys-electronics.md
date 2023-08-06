@@ -6,7 +6,7 @@ draft: false
 
 Fry's Electronics has closed and is no more.
 
-![Receipt for Amiga 2000](/images/amiga-frys.jpg)
+{{< figure src="/images/amiga-frys.jpg" >}}
 
 This is the receipt for our Amiga 2000, dated June 10 1989. My dad kept everything and when he passed away there was a lot of stuff to go through, but it was really cool to find this. Growing up in the Bay Area in the 80s/early 90s, I spent **a lot** of time in Fry's. It was a huge influence on my computer nerdery and my dad took me almost every weekend so I could go look at all the cool new things. 
 

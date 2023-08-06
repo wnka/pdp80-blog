@@ -7,7 +7,7 @@ Categories = ["cave", "mushihimesama", "1cc"]
 
 After my 1CC of Version 1.5 Original mode, I figured that I'd also be able to 1CC of Black Label Original mode. It took a few tries but I was able to pull it off!
 
-![Black Label Original mode 1CC](/images/FutariBL.jpg)
+{{< figure src="/images/FutariBL.jpg" >}}
 
 **Character:** Palm **Final score:** 293,899,502
 

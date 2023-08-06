@@ -7,7 +7,7 @@ Categories = ["arcade", "hardware"]
 
 Yesterday, I got this:
 
-![ASTRO](/images/IMG_1241.jpg)
+{{< figure src="/images/IMG_1241.jpg" >}}
 
 This is a Sega Astro City cabinet and it is **in my house**.
 

@@ -7,7 +7,7 @@ Categories = ["1cc", "cave", "mushihimesama"]
 
 Happy Thanksgiving! Before heading out to Thanksgiving dinner with friends, I put some time into [Mushihimesama Futari Black Label](http://en.wikipedia.org/wiki/Mushihime-sama_Futari) and managed to finally get a Maniac mode 1cc!
 
-{{<img src="/images/f129ddc034f611e2baac22000a1fbda6_7.jpg" caption="Maniac with Palm: 309,969,291">}}
+{{<figure src="/images/f129ddc034f611e2baac22000a1fbda6_7.jpg" caption="Maniac with Palm: 309,969,291">}}
 
 I had gotten really close a couple of times, like "4px of life left on the final boss" close, so I'm glad to have finally done it. The last boss was a bit of a bomb fest, but oh well, got the 1cc!
 
