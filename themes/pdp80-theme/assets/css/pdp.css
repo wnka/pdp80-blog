@@ -180,6 +180,7 @@ th {
 
 img {
   width: calc(100% + 40px);
+  height: auto;
   margin-left: calc(-20px);
   margin-right: calc(-20px);
 }
