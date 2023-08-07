@@ -17,6 +17,6 @@ I had a pretty hilarious death right at the start of the last boss. Here's a nic
 
 {{< youtube ManpTjjUmak  >}}
 
-{{<img src="/images/Ketsui1CCFT.jpg" caption="Final score: 82,520,034">}}
+{{<figure src="/images/Ketsui1CCFT.jpg" caption="Final score: 82,520,034">}}
 
 Beat my previous 1CC score by about 10 million!

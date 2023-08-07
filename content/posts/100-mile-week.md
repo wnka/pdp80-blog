@@ -6,7 +6,7 @@ Categories = ["biking"]
 +++
 This week, I biked 111.2 miles.
 
-{{<img src="/images/IMG_3034.JPG" caption="Milage">}}
+{{<figure src="/images/IMG_3034.JPG" caption="Milage">}}
 
 For a while, I was thinking about what it would take to pull off a 100 mile week. Turned out the biggest thing I needed to do was to just do it.
 

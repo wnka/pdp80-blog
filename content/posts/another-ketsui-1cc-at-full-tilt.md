@@ -11,6 +11,6 @@ I 1CC'd [Ketsui](http://en.wikipedia.org/wiki/Ketsui:_Kizuna_Jigoku_Tachi) again
 
 I was at Full Tilt with my wife and she recorded the end of the run... I didn't even have to ask, she knows what's up!
 
-{{<img src="/images/IMG_0851.jpg" caption="'Final score: 88,755,366'">}}
+{{<figure src="/images/IMG_0851.jpg" caption="'Final score: 88,755,366'">}}
 
 That's my best 1cc score evar! I'm going to be playing more with that shot type and aim for getting to the second loop. I think with a little practice I could reach the easier 2nd loop...

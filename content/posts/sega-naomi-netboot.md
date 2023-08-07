@@ -36,7 +36,7 @@ around and hooked up to play games, but thankfully you can now use a
 to build a self-contained unit to send the games!  This is what pushed me over the edge and made me
 finally want to get a Naomi.
 
-{{<img src="/images/piforce.jpg" caption="Raspberry Pi running piforcetools">}}
+{{<figure src="/images/piforce.jpg" caption="Raspberry Pi running piforcetools">}}
 
 You use the buttons to select which game, then hit select to send it to the Naomi. The project for
 driving the LCD and menus is called [piforcetools](https://github.com/capane-us/piforcetools). It
@@ -73,13 +73,13 @@ switch on the power supply and it fired right up, then I used my multimeter to d
 lines I wired up to go to the Naomi as it's always good to check that before plugging it in and
 frying something.
 
-{{<img src="/images/naomipower.jpg" caption="Hacked up power connector">}}
+{{<figure src="/images/naomipower.jpg" caption="Hacked up power connector">}}
 
 Now for the moment of truth, will the ATX power supply drive the NetDIMM? *YEP!* I went into the
 service menu to set the IP address of the NetDIMM and checked that the Raspberry Pi could ping the
 NetDIMM IP address, then I tried to send it a game and it worked! 
 
-{{<img src="/images/naomitest.jpg" caption="Naomi running on test bench">}}
+{{<figure src="/images/naomitest.jpg" caption="Naomi running on test bench">}}
 
 *Rant:* why do some service menus make you navigate them using only the TEST and SERVICE buttons!?
 You have a joystick right there! My test bench doesn't have buttons wired up for those, which I need
@@ -95,4 +95,4 @@ Time to play some [Under Defeat](http://en.wikipedia.org/wiki/Under_Defeat)! Or 
 [Cosmic Smash](http://en.wikipedia.org/wiki/Cosmic_Smash)! Or
 [Zero Gunner 2](http://en.wikipedia.org/wiki/Zero_Gunner_2)! Or... *TOO MANY GOOD GAMES!*
 
-{{<img src="/images/underdefeat.jpg" caption="Under Defeat">}}
+{{<figure src="/images/underdefeat.jpg" caption="Under Defeat">}}

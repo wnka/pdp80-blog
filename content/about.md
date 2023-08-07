@@ -3,7 +3,7 @@ title: "About"
 date: 2018-01-29T18:53:54-08:00
 ---
 
-{{<img src="/images/about4.jpeg">}}
+{{<figure src="/images/about4.jpeg">}}
 
 Hi, my name is Phil Piwonka and I live in Seattle, WA with my [wife](https://kristawelch.com), daughter, and two cats. I'm currently an engineer on the [AWS Lambda](https://aws.amazon.com/lambda/) team.
 

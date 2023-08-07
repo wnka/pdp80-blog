@@ -9,10 +9,10 @@ After I 1CC'd [Mushihimesama](http://en.wikipedia.org/wiki/Mushihime-sama) Mania
 
 I was able to greatly improve my Original mode score by beating the game with more lives in stock.
 
-{{<img src="/images/IMG_0237.jpg" caption="Original with S-Power: 29,313,539">}}
+{{<figure src="/images/IMG_0237.jpg" caption="Original with S-Power: 29,313,539">}}
 
 My Maniac mode score isn't my best 1CC score, but doing it on location was pretty satisfying.
 
-{{<img src="/images/IMG_0243.jpg" caption="Maniac with W-Power: 80,701,141">}}
+{{<figure src="/images/IMG_0243.jpg" caption="Maniac with W-Power: 80,701,141">}}
 
 On to [Gunbird 2](http://en.wikipedia.org/wiki/Gunbird_2)!

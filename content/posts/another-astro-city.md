@@ -15,12 +15,12 @@ It's a [New Astro City](http://wiki.arcadeotaku.com/w/Sega_New_Astro_City) which
 
 As I commented [before](/posts/moving-an-astro-city/), separating the two halves of the body on these cabinets is a huge pain. Thankfully in order to get it into his apartment he already had to disassemble it, so all the screws were loose which made it easy to take apart. We had it broken down and loaded into a U-Haul van in about 30 minutes. 
 
-{{<img src="/images/IMG_0435.jpg" caption="Monitor and Bezel in U-Haul">}}
+{{<figure src="/images/IMG_0435.jpg" caption="Monitor and Bezel in U-Haul">}}
 
-{{<img src="/images/IMG_0436.jpg" caption="Back Half and Control Panel in U-Haul">}}
+{{<figure src="/images/IMG_0436.jpg" caption="Back Half and Control Panel in U-Haul">}}
 
 We got it into my house, reassembled, and working in no time. Piece of cake!
 
 My existing Astro City has been for shmups so I've kept the monitor vertical. I've always wanted another cabinet so that I could play horizontal games, and these two look great side-by-side!
 
-{{<img src="/images/IMG_0445.jpg" caption="Two Cabs!">}}
+{{<figure src="/images/IMG_0445.jpg" caption="Two Cabs!">}}
