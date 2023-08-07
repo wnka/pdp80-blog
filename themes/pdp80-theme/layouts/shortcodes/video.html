@@ -17,6 +17,9 @@ ffmpeg -i input_display.gif -movflags faststart -pix_fmt yuv420p -vf "scale=trun
        preload=none
        playsinline=true
        poster={{ $image.RelPermalink }}
-       src={{ .Get "src" }}>
+       src={{ .Get "src" }}
+       width={{ $image.Width }}
+       height={{ $image.Height }}
+       >
   <p>Your browser doesn't support this embedded video.</p>
 </video>
