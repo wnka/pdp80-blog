@@ -1,7 +1,7 @@
 {{ if .Get "src" }}
   {{ $path := .Get "src" }}
   {{ $image := resources.Get $path }}
-  {{ $image := $image.Fit "768x1024 q75" }}
+  {{ $image := $image.Fit "768x1024 q75 Lanczos" }}
   <figure class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" >
     <img src="{{ $image.RelPermalink }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} width="{{ $image.Width }}" height="{{ $image.Height }}" />
     {{ if .Get "caption" }}
