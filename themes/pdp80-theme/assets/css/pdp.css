@@ -14,7 +14,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 blockquote {
   padding-left: 15px;
   border-left: 2px solid #222129;
-  margin: 20px 0;
+  margin: 20px -20px;
+  background-color: #eee;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 16px;
 }
 
 code, kbd {
@@ -262,7 +266,8 @@ svg {
     background: #222129;
   }
   blockquote {
-    border-left: 2px solid #fff;
+    border-left: 4px solid #fff;
+    background-color: #33323a;
   }
   a, #title, #post-list a:hover, #title:hover {
     color: #fff;
