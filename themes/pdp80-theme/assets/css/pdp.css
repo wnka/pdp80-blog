@@ -12,13 +12,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 blockquote {
-  padding-left: 15px;
   border-left: 2px solid #222129;
   margin: 20px -20px;
   background-color: #eee;
   padding-top: 1px;
   padding-bottom: 1px;
-  padding-left: 16px;
+  padding-left: 18px;
+  padding-right: 20px;
 }
 
 code, kbd {
