@@ -197,9 +197,9 @@ figure {
 figcaption {
     font-size: 14px;
     padding: 5px 10px;
-    margin-top: -6px;
-    background: #000;
-    color: #fff;
+    margin-top: -8px;
+    background: #eee;
+    color: #222129;
     width: calc(100% + 40px);
     margin-left: calc(-20px);
     margin-right: calc(-20px);
@@ -269,6 +269,12 @@ svg {
     border-left: 4px solid #fff;
     background-color: #33323a;
   }
+
+  figcaption {
+    background: #33323a;
+    color: #fff;
+  }
+
   a, #title, #post-list a:hover, #title:hover {
     color: #fff;
     text-decoration-color: #fff;
