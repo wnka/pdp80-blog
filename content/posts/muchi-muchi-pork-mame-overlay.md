@@ -26,6 +26,12 @@ and you should be good to go. It even works on a Steam Deck!
 
 I also created a repo for some [LUA](/posts/mame-lua/) scripts that I wrote to help figure things out and dump out the enemy table. That's available [here](https://github.com/wnka/mame-lua-scripts).
 
+This post is part of a 3-part series:
+1. [MAME Debugger Intro](/posts/mame-debugger-intro)
+1. [MAME LUA Scripting](/posts/mame-lua)
+1. You are here: Muchi Muchi Pork MAME Overlay
+
+
 ### Appendix A: Boss logic
 
 Here's a comment from the [main file that contains the layout logic](https://github.com/wnka/muchi-muchi-pork-mame-overlay/blob/main/default.lay) that explains a little about how the boss logic works.

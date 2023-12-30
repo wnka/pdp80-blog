@@ -136,3 +136,8 @@ But wait a minute, if it's an in-game frame counter, and it's 16-bit, it can onl
 If you want to learn more about the MAME debugger, the manual is [here](https://docs.mamedev.org/debugger/index.html).
 
 That's all for this post. This will be part of a series, because there's a project that caused me to start down this rabbit hole...
+
+This post is part of a 3-part series:
+1. You are here: MAME Debugger Intro
+1. [MAME LUA Scripting](/posts/mame-lua)
+1. [Muchi Muchi Pork MAME Overlay](/posts/muchi-muchi-pork-mame-overlay)

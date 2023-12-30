@@ -54,3 +54,8 @@ Now you've got your medal values on-screen all the time!
 {{< figure src="/images/mmpork.medals.jpg" alt="Medal Value is now shown in the upper left!" caption="Medal Value is now shown in the upper left!" >}}
 
 This is helpful, but kinda ugly. There's also a bunch of other data that would be helpful, like boss HP. Well... stay tuned!
+
+This post is part of a 3-part series:
+1. [MAME Debugger Intro](/posts/mame-debugger-intro)
+1. You are here: MAME LUA Scripting
+1. [Muchi Muchi Pork MAME Overlay](/posts/muchi-muchi-pork-mame-overlay)
