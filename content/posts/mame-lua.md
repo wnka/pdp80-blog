@@ -57,5 +57,5 @@ This is helpful, but kinda ugly. There's also a bunch of other data that would b
 
 This post is part of a 3-part series:
 1. [MAME Debugger Intro](/posts/mame-debugger-intro)
-1. You are here: MAME LUA Scripting
+1. You are here: MAME Lua Scripting
 1. [Muchi Muchi Pork MAME Overlay](/posts/muchi-muchi-pork-mame-overlay)

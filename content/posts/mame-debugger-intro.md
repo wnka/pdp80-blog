@@ -139,5 +139,5 @@ That's all for this post. This will be part of a series, because there's a proje
 
 This post is part of a 3-part series:
 1. You are here: MAME Debugger Intro
-1. [MAME LUA Scripting](/posts/mame-lua)
+1. [MAME Lua Scripting](/posts/mame-lua)
 1. [Muchi Muchi Pork MAME Overlay](/posts/muchi-muchi-pork-mame-overlay)

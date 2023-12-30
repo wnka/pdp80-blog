@@ -28,7 +28,7 @@ I also created a repo for some [LUA](/posts/mame-lua/) scripts that I wrote to h
 
 This post is part of a 3-part series:
 1. [MAME Debugger Intro](/posts/mame-debugger-intro)
-1. [MAME LUA Scripting](/posts/mame-lua)
+1. [MAME Lua Scripting](/posts/mame-lua)
 1. You are here: Muchi Muchi Pork MAME Overlay
 
 
