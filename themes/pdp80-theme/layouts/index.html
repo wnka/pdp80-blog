@@ -6,16 +6,13 @@
     {{ range .Site.RegularPages.GroupByDate "2006" }}
     <div class="archive">
       <h1>{{ .Key }}</h1>
-      <table style="table-layout:auto">
+      <ul>
         {{ range .Pages }}
         {{ if eq .Type "posts" }}
-        <tr>
-          <td class="idate">{{ .Date.Format "Jan 02" }}</td>
-          <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-        </tr>
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
         {{ end }}
-      </table>
+      </ul>
     </div>
     {{ end }}
     {{ partial "footer.html" . }}
