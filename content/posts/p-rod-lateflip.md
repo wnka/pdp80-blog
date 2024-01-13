@@ -7,4 +7,4 @@ What would you even call this? Nollie Lateflip Nosegrind? Or maybe it's fakie? W
 
 {{< videogif src="/videos/p-rod-lateflip.mp4" width="512">}}
 
-From [Yeah Right!](https://www.youtube.com/watch?v=v9gyNajxuvQ), a 2003 skate video from Girl Skateboards.
+From [Me Myself and I](https://www.youtube.com/watch?v=ZGCujOAR-bQ), a 2010 skate video from Plan B Skateboards.
