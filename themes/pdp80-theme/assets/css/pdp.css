@@ -15,7 +15,7 @@ blockquote {
   border-left: 2px solid #222129;
   margin: 20px -20px;
   background-color: #eee;
-  padding-top: 1px;
+  padding-top: 10px;
   padding-bottom: 1px;
   padding-left: 18px;
   padding-right: 20px;
@@ -259,7 +259,7 @@ svg {
   width: calc(100% + 40px);
   margin-left: calc(-20px);
   margin-right: calc(-20px);
-  background-color: #2e3440;
+  background-color: rgb(26, 26, 45);
   padding: 20px 20px 10px 20px;
   white-space: pre;
   overflow-y: auto;
@@ -269,7 +269,7 @@ svg {
 @media (prefers-color-scheme: dark) {
   html, body {
     color: #fff;
-    background: rgba(24, 33, 60, 1);
+    background: rgb(24, 33, 60);
   }
 
   blockquote {
@@ -298,13 +298,13 @@ svg {
 
   code, kbd {
     color: #fff;
-    background: #2e3440;
+    background: rgb(26, 26, 45);
   }
   svg {
-    background: #555;
+    background: rgb(26, 26, 45);
   }
   mark {
-    color: #222129;
+    color: rgb(26, 26, 45);
     background: #fff;
   }
 }
