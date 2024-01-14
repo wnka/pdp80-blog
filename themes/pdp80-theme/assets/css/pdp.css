@@ -235,8 +235,10 @@ video {
 }
 
 svg {
-  width: 100%;
+  width: calc(100% + 40px);
   height: auto;
+  margin-left: calc(-20px);
+  margin-right: calc(-20px);
 }
 
 /* Post Navigation */
@@ -259,7 +261,7 @@ svg {
   width: calc(100% + 40px);
   margin-left: calc(-20px);
   margin-right: calc(-20px);
-  background-color: rgb(24, 33, 60);
+  background-color: rgb(37, 39, 57);
   padding: 20px 20px 10px 20px;
   white-space: pre;
   overflow-y: auto;
@@ -269,21 +271,21 @@ svg {
 @media (prefers-color-scheme: dark) {
   html, body {
     color: #fff;
-    background: rgb(26, 26, 45);
+    background: rgb(26, 27, 37);
   }
 
   blockquote {
     border-left: 4px solid #fff;
-    background-color: rgb(24, 33, 60);
+    background-color: rgb(37, 39, 57);
   }
 
   header {
-    background-color: rgb(24, 33, 60);
+    background-color: rgb(37, 39, 57);
     color: #fff;
   }
 
   figcaption {
-    background: rgb(24, 33, 60);
+    background: rgb(37, 39, 57);
     color: #fff;
   }
 
@@ -298,13 +300,13 @@ svg {
 
   code, kbd {
     color: #fff;
-    background: rgb(24, 33, 60);
+    background: rgb(37, 39, 57);
   }
   svg {
-    background: rgb(24, 33, 60);
+    background: rgb(37, 39, 57);
   }
   mark {
-    color: rgb(24, 33, 60);
+    color: rgb(37, 39, 57);
     background: #fff;
   }
 }
