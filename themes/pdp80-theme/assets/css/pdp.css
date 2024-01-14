@@ -269,20 +269,21 @@ svg {
 @media (prefers-color-scheme: dark) {
   html, body {
     color: #fff;
-    background: #222129;
+    background: rgba(24, 33, 60, 1);
   }
+
   blockquote {
     border-left: 4px solid #fff;
-    background-color: #33323a;
+    background-color: rgb(26, 26, 45);
   }
 
   header {
-    background-color: #33324f;
+    background-color: rgb(26, 26, 45);
     color: #fff;
   }
 
   figcaption {
-    background: #33323a;
+    background: rgb(26, 26, 45);
     color: #fff;
   }
 
