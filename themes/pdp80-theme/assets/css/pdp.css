@@ -116,6 +116,7 @@ a, #title, #post-list a:hover, #title:hover {
 
 ol, ul {
   margin-left: 27px;
+  margin-bottom: 10px;
 }
 
 mark {
