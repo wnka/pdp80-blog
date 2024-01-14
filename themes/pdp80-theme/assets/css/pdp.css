@@ -259,7 +259,7 @@ svg {
   width: calc(100% + 40px);
   margin-left: calc(-20px);
   margin-right: calc(-20px);
-  background-color: rgb(26, 26, 45);
+  background-color: rgb(24, 33, 60);
   padding: 20px 20px 10px 20px;
   white-space: pre;
   overflow-y: auto;
@@ -269,21 +269,21 @@ svg {
 @media (prefers-color-scheme: dark) {
   html, body {
     color: #fff;
-    background: rgb(24, 33, 60);
+    background: rgb(26, 26, 45);
   }
 
   blockquote {
     border-left: 4px solid #fff;
-    background-color: rgb(26, 26, 45);
+    background-color: rgb(24, 33, 60);
   }
 
   header {
-    background-color: rgb(26, 26, 45);
+    background-color: rgb(24, 33, 60);
     color: #fff;
   }
 
   figcaption {
-    background: rgb(26, 26, 45);
+    background: rgb(24, 33, 60);
     color: #fff;
   }
 
@@ -298,13 +298,13 @@ svg {
 
   code, kbd {
     color: #fff;
-    background: rgb(26, 26, 45);
+    background: rgb(24, 33, 60);
   }
   svg {
-    background: rgb(26, 26, 45);
+    background: rgb(24, 33, 60);
   }
   mark {
-    color: rgb(26, 26, 45);
+    color: rgb(24, 33, 60);
     background: #fff;
   }
 }
