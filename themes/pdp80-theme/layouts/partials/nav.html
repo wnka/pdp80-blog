@@ -1,8 +1,8 @@
-<nav>
-	<p class="main-nav">
-	{{ if not .IsHome }}
-	<a href='{{ .Site.BaseURL }}'>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
-	{{ end }}
-	<a href='{{ .Site.BaseURL }}about/'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
-	</p>
-</nav>
+<header>
+	<a href="{{ .Site.BaseURL}}">pdp.dev</a>
+	<nav>
+		<p class="main-nav">
+			<a href='{{ .Site.BaseURL }}about/'>{{ with .Site.Params.about }}{{ . }}{{ else }}about{{ end }}</a>
+		</p>
+	</nav>
+</header>

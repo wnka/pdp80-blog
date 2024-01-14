@@ -63,6 +63,8 @@ body {
   text-rendering: optimizeLegibility;
   font-size: 18px;
   line-height: 1.54;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 h1 {
@@ -76,9 +78,20 @@ h2,h3 {
   font-size: 24px;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px 0 20px;
+  margin: 5px auto 0 auto;
+  z-index: 100;
+  color: #fff;
+  background: #ffe8c7;
+  border-radius: 5px;
+}
+
 p.main-nav {
-  max-width: 800px;
-  padding: 10px;
+  padding: 10px 0;
   margin: 0 auto;
   text-align: right;
   z-index: 100;
@@ -98,7 +111,6 @@ p.main-nav a {
 }
 
 #wrapper {
-  max-width: 800px;
   margin: 0 auto;
   padding: 10px 20px 20px 20px;
 }
@@ -208,9 +220,6 @@ figcaption {
 }
 
 /* Post Page */
-#wrapper.post {
-  max-width: 800px;
-}
 .post {
   margin: auto;
 }
@@ -265,6 +274,11 @@ svg {
   blockquote {
     border-left: 4px solid #fff;
     background-color: #33323a;
+  }
+
+  header {
+    background-color: #33324f;
+    color: #fff;
   }
 
   figcaption {
