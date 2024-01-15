@@ -1,6 +1,13 @@
 <footer id="footer">
   <p class="copyright">
 
-    {{ .Site.Params.Author }} - <a href="mailto:{{.Site.Params.Email}}?subject=Hello!">Say hello!</a><br>All posts licensed <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0</a>.
+    By {{ .Site.Params.Author }} - <a href="mailto:{{.Site.Params.Email}}?subject=Hello!">Say hello!</a>
+    <br>
+    All posts licensed <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0</a>.
+    <br>
+    <a type="application/rss+xml"
+      href="{{.Site.BaseURL }}index.xml"
+      title="{{ .Site.Title }}">RSS Feed</a>
+
   </p>
 </footer>
