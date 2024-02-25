@@ -6,13 +6,17 @@
     {{ range .Site.RegularPages.GroupByDate "2006" }}
     <div class="archive">
       <h1>{{ .Key }}</h1>
-      <ul>
-        {{ range .Pages }}
-        {{ if eq .Type "posts" }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ range .Pages }}
+      {{ if eq .Type "posts" }}
+      <p><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ with .GetTerms "Categories" }}
+        {{ range . }}
+        <span class="tag"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
         {{ end }}
         {{ end }}
-      </ul>
+      </p>
+      {{ end }}
+      {{ end }}
     </div>
     {{ end }}
     {{ partial "footer.html" . }}
