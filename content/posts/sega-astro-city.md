@@ -2,7 +2,7 @@
 date = "2011-05-09"
 slug = "sega-astro-city"
 title = "Sega Astro City"
-Categories = ["arcade", "hardware"]
+Categories = ["gaming"]
 +++
 
 Yesterday, I got this:

@@ -2,7 +2,7 @@
 date = "2012-03-05"
 slug = "cps-2-suicide-batteries"
 title = "CPS-2 Suicide Batteries"
-Categories = ["capcom", "cps2"]
+Categories = ["gaming"]
 +++
 
 Today, I changed the suicide batteries on my [Capcom CPS-2 boards](http://en.wikipedia.org/wiki/CP_System_II).

@@ -2,7 +2,7 @@
 date = "2013-02-10"
 slug = "moving-an-astro-city"
 title = "Moving an Astro City"
-Categories = ["moving", "hardware"]
+Categories = ["gaming"]
 +++
 
 Last November my wife and I moved to a new place, so that meant that the ol' Astro City had to be moved.  Piece of cake right?

@@ -2,7 +2,7 @@
 title: "Dodonpachi easy cheezy 1-ALL"
 date: 2019-12-28T09:00:10-08:00
 draft: false
-Categories: ["1cc", "dodonpachi", "cave"]
+Categories: ["gaming"]
 ---
 
 [Dodonpachi](https://en.wikipedia.org/wiki/DoDonPachi) is a classic bullet hell STG that I played a lot in MAME when I got back into STGs in like 2007 / 2008. I never 1-ALL'd it, meaning I never beat the first loop of the game on one credit. I've cleared a lot of other games since so I figured my improved skills would make short work of getting that 1-ALL. It took about six hours of playing to pull it off, with baby Ramona as my trusty co-pilot who mostly slept by my side while I played.

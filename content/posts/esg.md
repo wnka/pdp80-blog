@@ -1,6 +1,7 @@
 ---
 title: "ESG - UFO"
 date: 2024-02-04T16:30:38-08:00
+Categories: ["music"]
 ---
 
 You've likely heard this song, it's been sampled by a lot of hip-hop tracks. The group is [ESG](https://en.wikipedia.org/wiki/ESG_(band)), and the song is [UFO from their first EP](https://en.wikipedia.org/wiki/ESG_(EP)).

@@ -2,7 +2,7 @@
 date = "2011-12-14"
 slug = "paewang-revolution"
 title = "Paewang Revolution"
-Categories = ["'360'", "hardware"]
+Categories = ["gaming"]
 +++
 
 In the past, I had padhacked a 360 controller so that I could wire it up to my Astro City cabinet.  This is a pain to do and I've had 2 of them die on me for no apparent reason.

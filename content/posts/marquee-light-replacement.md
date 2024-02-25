@@ -2,7 +2,7 @@
 date = "2012-01-02"
 slug = "marquee-light-replacement"
 title = "Marquee Light Replacement"
-Categories = ["hardware"]
+Categories = ["gaming"]
 +++
 
 Happy New Year everybody!

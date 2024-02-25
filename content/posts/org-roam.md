@@ -2,6 +2,7 @@
 title: "How I use Org-Roam for Notes"
 date: 2024-02-04T10:02:14-08:00
 code: true
+Categories: ["personal"]
 ---
 
 [Org-Roam](https://www.orgroam.com) is 'a plain-text personal knowledge management system' that I've been using since 2020. It's a layer on top of [Org-Mode](https://orgmode.org) files, so you can do all the cool stuff like have code snippets and TODOs and all that. If you're not familiar with Org-Mode, it's very similar to Markdown. I'm a long-time Emacs user and this is primarily what I use Emacs for these days.

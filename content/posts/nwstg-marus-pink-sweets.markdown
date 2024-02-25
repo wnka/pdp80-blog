@@ -1,7 +1,7 @@
 ---
 title: "Marus plays Pink Sweets [nwstg]"
 date: 2013-05-05T22:04:59Z
-Categories: ["pink sweets", "nwstg"]
+Categories: ["gaming", "nwstg"]
 ---
 
 {{< youtube 2KTaKWWnMOQ >}}

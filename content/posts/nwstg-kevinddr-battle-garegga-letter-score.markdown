@@ -1,7 +1,7 @@
 ---
 title: "KevinDDR Battle Garegga Letter Score [nwstg]"
 date: 2014-01-04 14:29:00
-Categories: ["battlegaregga", "nwstg"]
+Categories: ["gaming", "nwstg"]
 ---
 
 {{< youtube L75K9IiZLqY >}}

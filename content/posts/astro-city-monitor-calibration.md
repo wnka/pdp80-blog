@@ -2,7 +2,7 @@
 date = "2012-01-08"
 slug = "astro-city-monitor-calibration"
 title = "Astro City Monitor Calibration"
-Categories = ["hardware", "monitor"]
+Categories = ["gaming"]
 +++
 
 I had always noticed that the monitor on my Astro City was kind of dark and after watching videos of some of the games I had been playing and noticing details that weren't visible on my monitor, I knew I needed to recalibrate. I had fiddled with the adjustments under the control panel, but it didn't make much of a difference. 

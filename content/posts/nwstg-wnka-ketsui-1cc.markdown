@@ -1,7 +1,7 @@
 ---
 title: "wnka Ketsui 1CC [nwstg]"
 date: 2013-07-03 22:49:00
-Categories: ["Ketsui", "1cc" ,"nwstg"]
+Categories: ["gaming", "nwstg"]
 ---
 
 {{< youtube TxSGlth0Cco >}}

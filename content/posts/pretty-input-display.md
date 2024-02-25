@@ -2,7 +2,7 @@
 title: Input Display Style Improvements
 date: 2019-08-03
 draft: false
-Categories: ["arcade", "espgaluda", "1cc", "raspberrypi", "jamma"]
+Categories: ["gaming"]
 ---
 
 I made visual improvements to my arcade input display which can be found [here on GitHub](https://github.com/wnka/arcadebuttons-node-pi). The display is pure CSS and was heavily influenced by this [CSS Joystick project](https://github.com/davidvandusen/joystick).

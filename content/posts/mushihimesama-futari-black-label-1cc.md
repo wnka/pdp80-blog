@@ -2,7 +2,7 @@
 date = "2011-05-24"
 slug = "mushihimesama-futari-black-label-1cc"
 title = "Mushihimesama Futari Black Label 1CC"
-Categories = ["cave", "mushihimesama", "1cc"]
+Categories = ["gaming"]
 +++
 
 After my 1CC of Version 1.5 Original mode, I figured that I'd also be able to 1CC of Black Label Original mode. It took a few tries but I was able to pull it off!

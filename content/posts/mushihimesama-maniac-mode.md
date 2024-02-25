@@ -2,7 +2,7 @@
 date = "2012-01-18"
 slug = "mushihimesama-maniac-mode"
 title = "Mushihimesama Maniac Mode"
-Categories = ["cave", "mushihimesama"]
+Categories = ["gaming"]
 +++
 
 Lately I've been doing more cabinet maintenance and improvements than actually playing any games seriously. I've swapped all of my boards in and out to check how they looked after [recalibrating my monitor](/posts/astro-city-monitor-calibration/), and after playing a few credits of everything I have I've decided to leave Mushihimesama in the cab.

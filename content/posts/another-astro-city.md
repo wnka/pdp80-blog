@@ -2,7 +2,7 @@
 date = "2013-02-13"
 slug = "another-astro-city"
 title = "Another Astro City"
-Categories = ["hardware", "moving"]
+Categories = ["gaming"]
 +++
 
 I got another Astro City cabinet! A friend of mine found that he wasn't using his cab as much as he thought he would and wanted to sell it. With our recent move, we have more space, so I bought it.

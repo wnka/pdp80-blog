@@ -2,7 +2,7 @@
 title = "JAMMA Input Display"
 date = "2014-05-04"
 slug = "jamma-input-display"
-Categories = ["raspberrypi", "jamma"]
+Categories = ["gaming"]
 +++
 
 I built an input display for my arcade cabinets by reading the

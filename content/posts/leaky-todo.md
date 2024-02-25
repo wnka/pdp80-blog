@@ -2,6 +2,7 @@
 title: "A leaky TODO list"
 date: 2023-08-15T10:13:08-08:00
 code: true
+Categories: ["personal"]
 ---
 I've been an [org-mode](https://orgmode.org/) user off and on since around 2007. I've tried other different tools that are excellent ([OmniFocus](https://www.omnigroup.com/omnifocus), [Things](https://culturedcode.com/things/)), but I always drift back to org-mode due to it's flexibility and the ease of dealing with plain text. Over time I've tried all these different strategies for keeping todo lists, like dumping everything thought I have into the list, breaking things down by project, urgency and all that. My big problem with this is that it leads to long lists, and long lists make me feel sad. I am a master of feeling "I should be doing more" so when I see a long todo list it causes me much anxiety.
 

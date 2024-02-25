@@ -2,7 +2,7 @@
 title = "CPS-2 Fan Replacement"
 date = "2013-11-30"
 slug = "cps-2-fan-replacement"
-Categories = ["hardware", "capcom"]
+Categories = ["gaming"]
 +++
 
 CPS-2 Motherboard fans are super loud.  The fan noise isn't much of a problem when the PCB is inside

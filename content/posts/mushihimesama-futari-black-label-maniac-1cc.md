@@ -2,7 +2,7 @@
 date = "2012-11-23"
 slug = "mushihimesama-futari-black-label-maniac-1cc"
 title = "Mushihimesama Futari Black Label Maniac 1CC"
-Categories = ["1cc", "cave", "mushihimesama"]
+Categories = ["gaming"]
 +++
 
 Happy Thanksgiving! Before heading out to Thanksgiving dinner with friends, I put some time into [Mushihimesama Futari Black Label](http://en.wikipedia.org/wiki/Mushihime-sama_Futari) and managed to finally get a Maniac mode 1cc!

@@ -2,7 +2,7 @@
 date = "2012-02-11"
 slug = "mushihimesama-maniac-1cc"
 title = "Mushihimesama Maniac 1CC"
-Categories = ["1cc", "cave", "mushihimesama"]
+Categories = ["gaming"]
 +++
 
 YES!  I was able to pull off a 1CC of Mushihimesama Maniac mode!

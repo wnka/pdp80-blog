@@ -1,6 +1,7 @@
 ---
 title: "Cog Music Player"
 date: 2024-02-11T15:35:46-08:00
+Categories: ["music"]
 ---
 
 [I wrote before](/posts/video-game-music/) how I like to listen to video game music. I found a great app called [Cog in the Mac App Store](https://apps.apple.com/us/app/cog-kode54/id1630499622?mt=12) that handles that really well.

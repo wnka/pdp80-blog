@@ -2,7 +2,7 @@
 date = "2011-05-16"
 slug = "sideways-monitor-iterations"
 title = "Sideways Monitor Iterations"
-Categories = ["hardware"]
+Categories = ["gaming"]
 +++
 
 Before I got an arcade cabinet, I had done many things to approximate one while playing shooting games.  In remembrance of these setups, I thought I'd share them.

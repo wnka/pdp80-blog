@@ -1,6 +1,7 @@
 ---
 title: "3rd Grade Journal Entry"
 date: 2024-01-19T20:03:10-08:00
+Categories: ["personal"]
 ---
 
 In the 3rd grade, our teacher had us write a journal. My mom recently found it and I made a PDF out of it. This entry is now 35 years old:

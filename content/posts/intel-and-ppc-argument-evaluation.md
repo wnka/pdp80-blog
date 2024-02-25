@@ -2,7 +2,7 @@
 date = "2006-05-23"
 slug = "intel-and-ppc-argument-evaluation"
 title = "Intel and PPC Argument Evaluation"
-Categories = ["Cocoa", "objective-c"]
+Categories = ["computers"]
 code = true
 +++
 

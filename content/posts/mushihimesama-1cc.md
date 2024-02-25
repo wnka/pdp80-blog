@@ -2,7 +2,7 @@
 date = "2011-07-11"
 slug = "mushihimesama-1cc"
 title = "Mushihimesama 1CC"
-Categories = ["1cc", "cave", "mushihimesama"]
+Categories = ["gaming"]
 +++
 
 Even though I got [new PCBs in June](/posts/new-pcbs/), I previously had set a "1CC [Ketsui](http://en.wikipedia.org/wiki/Ketsui) in June" goal for myself so I didn't spend much time with them.  June is over, so did I meet my goal?  Unfortunately, no.  I got very close and I'll continue the chase soon, but I had to take a break.  I didn't touch shmups for about a week or so.  

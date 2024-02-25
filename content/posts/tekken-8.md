@@ -1,6 +1,7 @@
 ---
 title: "Tekken 8 - \"Story So Far\" with Brian Cox"
 date: 2024-01-20T10:31:01-08:00
+Categories: ["gaming"]
 ---
 
 This is so great and fun. [Brian Cox breaks down the storyline of Tekken](https://www.youtube.com/watch?v=wRIOVeirAa0).

@@ -2,7 +2,7 @@
 date = "2011-08-17"
 slug = "cave-pgm-boards"
 title = "Cave PGM Boards"
-Categories = ["cave", "espgaluda", "ketsui"]
+Categories = ["gaming"]
 +++
 
 My PCB collection continues to grow and I picked up two more Cave boards: [Ketsui](http://en.wikipedia.org/wiki/Ketsui:_Kizuna_Jigoku_Tachi) and [Espgaluda](http://en.wikipedia.org/wiki/Espgaluda)

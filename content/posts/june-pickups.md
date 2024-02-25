@@ -2,7 +2,7 @@
 date = "2012-07-02"
 slug = "june-pickups"
 title = "June Pickups"
-Categories = ["capcom", "taito"]
+Categories = ["gaming"]
 +++
 
 Some good pickups last month, starting with a better control panel for my [supergun](http://en.wikipedia.org/wiki/SuperGun) setup. A guy on the shmups forum was parting out some Astro City cabinets, so I grabbed the plastic part that the control panel attaches to so that I could use it with my spare two player control panel.  

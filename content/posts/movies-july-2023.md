@@ -1,6 +1,7 @@
 ---
 title: "Movies July 2023"
 date: 2023-07-30T06:21:48-07:00
+Categories: ["movies"]
 ---
 
 **The Skin I Live In** - What a movie. It's like a really fucked up weirdo fairy tale. Totally recommended.

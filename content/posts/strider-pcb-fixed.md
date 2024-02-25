@@ -2,7 +2,7 @@
 date = "2012-05-26"
 slug = "strider-pcb-fixed"
 title = "Strider PCB Fixed"
-Categories = ["capcom", "cps1", "strider"]
+Categories = ["gaming"]
 +++
 
 As I [mentioned previously](/posts/new-pcbs-2/), I picked up a [Strider](http://en.wikipedia.org/wiki/Strider_(arcade_game)) PCB that had some graphical issues. I did more futzing around and was able to fix the problem. It was the "B" board, just as I thought. I used my Street Fighter II board set to eliminate the "A" and "C" boards as the problem, which narrowed it down to either the "B" board itself or some of the graphics roms. 

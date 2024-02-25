@@ -1,6 +1,7 @@
 ---
 title: "Using Nix for dotfiles and stuff"
 date: 2023-07-15T10:58:27-07:00
+Categories: ["personal"]
 ---
 
 The other day at work my Cloud Desktop got terminated for some reason. It's an EC2 instance and these things are bound to happen so I'm super diligent about pushing any work onto a git share or working in a folder that is [Syncthing'd](https://syncthing.net) with my work laptop. Our Cloud Desktops sit in an AutoScaling group, so there was already a new fresh instance sitting there for me to use.

@@ -2,7 +2,7 @@
 date = "2011-05-31"
 slug = "dodonpachi-daifukkatsu-1-5-1cc"
 title = "Dodonpachi Daifukkatsu 1.5 1cc"
-Categories = ["1cc", "dodonpachi", "cave"]
+Categories = ["gaming"]
 +++
 
 (NOTE: This technically is not a 1CC, it's a 1-ALL since this game has multiple loops and I only cleared the first loop.  1-ALL means I cleared all the stages of the first loop.)

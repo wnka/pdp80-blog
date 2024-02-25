@@ -2,7 +2,7 @@
 date = "2012-01-29"
 slug = "new-arrivals"
 title = "New Arrivals"
-Categories = ["ibara", "volfied", "mars matrix", "giga wing"]
+Categories = ["gaming"]
 +++
 
 MORE GAMES! I won these on [Yahoo Auctions Japan](http://category.auctions.yahoo.co.jp/list/%E3%82%B2%E3%83%BC%E3%83%A0%E5%9F%BA%E6%9D%BF-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0-%E3%82%B2%E3%83%BC%E3%83%A0-%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83-%E3%82%B2%E3%83%BC%E3%83%A0/2084047782/?fr=auc-prop&tab_ex=commerce&p=%E3%82%B2%E3%83%BC%E3%83%A0%E5%9F%BA%E6%9D%BF) and used [Rinkya](http://rinkya.com/) for proxy bidding.

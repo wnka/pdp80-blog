@@ -2,7 +2,7 @@
 date = "2012-02-23"
 slug = "ketsui-1-all-1cc"
 title = "Ketsui 1-ALL 1cc"
-Categories = ["cave", "ketsui", "1cc"]
+Categories = ["gaming"]
 +++
 
 Clearing the first loop of [Ketsui](http://en.wikipedia.org/wiki/Ketsui) in one credit has been a goal of mine for a long time. I dedicated a whole month to trying to pull it off on the XBox 360 port, then I [got the PCB](/posts/cave-pgm-boards/) and put more time into it and came insanely close on the last boss. Then I gave up for a while.

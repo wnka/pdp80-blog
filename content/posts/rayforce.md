@@ -2,7 +2,7 @@
 date = "2013-03-02"
 slug = "rayforce"
 title = "Rayforce"
-Categories = ["taito", "rayforce", "hack"]
+Categories = ["gaming"]
 +++
 
 [Rayforce](http://en.wikipedia.org/wiki/RayForce) is a game I've wanted for quite a while now, however original PCBs are hard to find and are expensive when they do show up. 

@@ -2,7 +2,7 @@
 date = "2012-12-28"
 slug = "mushihimesama-1ccs-at-full-tilt"
 title = "Mushihimesama 1CCs at Full Tilt"
-Categories = ["1cc", "fulltilt", "cave", "mushihimesama"]
+Categories = ["gaming"]
 +++
 
 After I 1CC'd [Mushihimesama](http://en.wikipedia.org/wiki/Mushihime-sama) Maniac mode, I didn't play the game much. I let a friend borrow it for a while, then I let the operator at [Full Tilt Ice Cream in Ballard](http://www.yelp.com/biz/full-tilt-ice-cream-seattle-5) borrow it and put it on location. We recently took it out to install my [Gunbird 2](http://en.wikipedia.org/wiki/Gunbird_2) PCB, but before it left I spent a bunch of time and was able to 1CC both Original mode and Maniac mode on location.

@@ -2,7 +2,7 @@
 date = "2011-05-21"
 slug = "xbox-360-to-jamma-progress"
 title = "Xbox 360 to JAMMA Progress"
-Categories = ["'360'", "hardware"]
+Categories = ["gaming"]
 +++
 
 After a lot of soldering and tinkering, I've got my 360 hooked up to my Astro City. Oh man oh man oh man!

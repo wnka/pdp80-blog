@@ -2,7 +2,7 @@
 date: 2018-08-28T18:53:39-07:00
 title: Quick Bike Ride, Arcade PCB Storage
 slug: quick-bike-ride-arcade-pcb-storage
-Categories: ["arcade", "pcb", "biking"]
+Categories: ["biking", "gaming"]
 draft: false
 ---
 First up, after yesterday's long bike ride I went for a short ride today, but was able to hit some decent hills in my neighborhood. First big hill was going up into [Interlaken Park](https://www.seattle.gov/parks/find/parks/interlaken-park), which is crazy beautiful and it always blows my mind that something so wooded and peaceful is so close to two freeways. The second hill was going up E Lynn St which then turns into Delmar Dr E and hits [Roanoke Park](https://www.seattle.gov/parks/find/parks/roanoke-park)... that hill always looks scary from the bottom but it doesn't stay that steep for long.

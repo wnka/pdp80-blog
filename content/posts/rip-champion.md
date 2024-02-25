@@ -2,6 +2,7 @@
 title: "RIP Champion the Cat"
 date: 2023-07-29T12:04:48-07:00
 ogimage: https://pdp.dev/images/champ-1.jpg
+Categories: ["personal"]
 ---
 
 Our cat Champion passed away on July 20th 2023. She was 15 years old.

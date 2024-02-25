@@ -2,7 +2,7 @@
 title = "Sega Naomi Netboot"
 date = "2014-03-29"
 slug = "sega-naomi-netboot"
-Categories = ["sega", "naomi", "raspberrypi"]
+Categories = ["gaming"]
 +++
 
 I bought a [Sega Naomi](http://system16.com/hardware.php?id=721) with NetDIMM off a guy on the

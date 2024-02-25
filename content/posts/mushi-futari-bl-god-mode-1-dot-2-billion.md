@@ -2,7 +2,7 @@
 title = "Mushi Futari BL God Mode 1.2 billion!"
 date = "2017-06-11"
 slug = "mushi-futari-bl-god-mode-1-dot-2-billion"
-Categories = ["cave", "mushihimesama"]
+Categories = ["gaming"]
 +++
 I've had a goal of breaking a billion points on Mushihimesama Futari Black Label God Mode for a while now, and with a little effort I was able to get a score of 1,212,620,114!
 

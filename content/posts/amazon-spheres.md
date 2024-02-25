@@ -1,7 +1,6 @@
 ---
 title: "Amazon Spheres"
 date: 2018-02-07T21:57:31-08:00
-Categories: ["amazon"]
 code: true
 ---
 I got to tour the [Spheres at Amazon](https://www.seattlespheres.com) this week, and it was pretty awesome. There's quite a lot of space to hang out and relax, but for now you have to make an appointment to go as they ramp up letting people in. I sat for a bit and enjoyed a [donut](https://www.gpdoughnuts.com).

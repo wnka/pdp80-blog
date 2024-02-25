@@ -2,7 +2,7 @@
 date = "2012-05-17"
 slug = "new-pcbs-2"
 title = "New PCBs 2"
-Categories = ["ibara", "strider", "street fighter"]
+Categories = ["gaming"]
 +++
 
 It's been a while since I posted since I've been pretty busy with work and haven't been able to play a lot of games. However, that hasn't stopped me from **buying** games!

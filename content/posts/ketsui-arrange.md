@@ -2,7 +2,7 @@
 date = "2012-06-01"
 slug = "ketsui-arrange"
 title = "Ketsui Arrange"
-Categories = ["cave", "ketsui", "hack"]
+Categories = ["gaming"]
 +++
 
 A super cool guy reverse engineered Ketsui and made his own arrange mode and released it for free. [It is available here](http://dodonpachi.daifukkat.su/ketarr/).

@@ -1,6 +1,7 @@
 ---
 title: "Burning Spear"
 date: 2024-02-10T15:57:00-08:00
+Categories: ["music"]
 ---
 
 I looked at a list of Grammy Award 2024 winners and saw that Burning Spear was nominated for 'Best Reggae Album' which blew my mind. 

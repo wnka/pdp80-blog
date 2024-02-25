@@ -2,7 +2,7 @@
 title: "Mushihimesama Maniac 101 Million"
 date: 2020-07-12T16:21:04-07:00
 draft: false
-Categories: ["cave", "mushihimesama"]
+Categories: ["gaming"]
 ---
 I have been spending a little time here and there playing shmups and [streaming on Twitch](https://twitch.tv/pdp80). Today I played a single credit of [Mushihimesama](http://en.wikipedia.org/wiki/Mushihime-sama) Maniac mode and got a new personal best score of 101,210,364! I'm proud to have finally broken 100 million, even though I blew it on the last boss and didn't get the 1cc.
 

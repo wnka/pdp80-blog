@@ -1,7 +1,7 @@
 ---
 title: "wnka plays Ibara [nwstg]"
 date: 2013-05-26T20:54:00Z
-Categories: ["ibara", "pcb", "nwstg"]
+Categories: ["gaming", "nwstg"]
 ---
 {{< youtube GFPeznh0I3c >}}
 

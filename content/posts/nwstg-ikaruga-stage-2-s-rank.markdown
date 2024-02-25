@@ -1,7 +1,7 @@
 ---
 title: "Ikaruga Stage 2 S-Rank [nwstg]"
 date: 2013-09-23 20:44:00
-Categories: ["ikaruga", "nwstg"]
+Categories: ["gaming", "nwstg"]
 ---
 
 {{< youtube 5lrLwR6M2s4 >}}

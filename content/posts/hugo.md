@@ -1,7 +1,6 @@
 ---
 title: "Hugo!"
 date: 2018-01-29T21:46:13-08:00
-Categories: ["sitenews"]
 ---
 I moved my blog from Octopress to [Hugo](https://gohugo.io) since it builds sites blazing fast and doesn't have all the goofy dependency management of Ruby with rvm and all that. I picked a nice super simple [theme](https://themes.gohugo.io/temple/) that builds fast loading pages.
 

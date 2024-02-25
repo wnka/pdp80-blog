@@ -2,7 +2,7 @@
 title = "Site Move"
 date = "2013-10-27"
 slug = "site-move"
-Categories = ["sitenews"]
+Categories = ["personal"]
 +++
 
 I've moved my site off of [Dreamhost](http://dreamhost.com) and onto

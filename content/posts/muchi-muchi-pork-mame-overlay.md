@@ -4,6 +4,7 @@ date: 2023-05-20T21:37:46-07:00
 draft: false
 code: true
 ogimage: https://pdp.dev/images/mmpork-overlay.jpg
+Categories: ["gaming"]
 ---
 
 {{< figure src="/images/mmpork-overlay.jpg" alt="MAME overlay" caption="Lots of helpful information!" >}}

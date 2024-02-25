@@ -2,7 +2,7 @@
 date = "2011-06-25"
 slug = "new-pcbs"
 title = "New PCBs"
-Categories = ["battlegaregga", "cave", "mushihimesama", "raizing"]
+Categories = ["gaming"]
 +++
 
 I got two new arcade boards on June 15th: [Mushihimesama](http://en.wikipedia.org/wiki/Mushihime-sama) and [Battle Garegga](http://en.wikipedia.org/wiki/Battle_Garegga).  I got both of these off of [Yahoo Auctions Japan](http://category.auctions.yahoo.co.jp/list/%E3%82%B2%E3%83%BC%E3%83%A0%E5%9F%BA%E6%9D%BF-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0-%E3%82%B2%E3%83%BC%E3%83%A0-%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83-%E3%82%B2%E3%83%BC%E3%83%A0/2084047782/?p=%E3%82%B2%E3%83%BC%E3%83%A0%E5%9F%BA%E6%9D%BF&tab_ex=commerce&fr=auc-prop&slider=0&b=1) through [Rinkya](http://www.rinkya.com/index.php), a proxy bidding service.  I was nervous about the whole proxy bidding process, but it went smoothly and I'd use Rinkya again despite their pre-Web 1.0 website.

@@ -1,6 +1,7 @@
 ---
 title: "Happy 2024"
 date: 2024-01-05T18:42:32-08:00
+Categories: ["personal"]
 ---
 
 {{< figure src="/images/momas2023.jpg" alt="Family" quality="q90" caption="Holiday Photo">}}

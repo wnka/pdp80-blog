@@ -2,7 +2,7 @@
 date = "2006-05-20"
 slug = "gawker-070"
 title = "Gawker 0.7.0"
-Categories = ["Cocoa", "Gawker"]
+Categories = ["Gawker"]
 +++
 
 {{< figure src="/images/4waylarge.jpg" >}}

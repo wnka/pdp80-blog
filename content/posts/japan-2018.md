@@ -1,7 +1,7 @@
 ---
 title: "Japan Trip 2018"
 date: 2018-10-28T18:11:28-07:00
-Categories: ["japan", "travel"]
+Categories: ["personal"]
 ---
 Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to Japan and we totally loved it! [Krista's Instagram story shows a good pictoral summary of our trip.](https://www.instagram.com/stories/highlights/17982598309054531/) Below is the day-by-day log I kept during the trip.
 

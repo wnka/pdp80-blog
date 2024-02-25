@@ -2,7 +2,7 @@
 date = "2011-07-21"
 slug = "battle-garegga-3mil"
 title = "Battle Garegga 3mil"
-Categories = ["battlegaregga", "raizing"]
+Categories = ["gaming"]
 +++
 
 I've been playing Battle Garegga more recently and it's growing on me quite a bit.

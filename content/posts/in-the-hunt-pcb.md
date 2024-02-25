@@ -2,7 +2,7 @@
 title = "In the Hunt PCB"
 date = "2013-10-26"
 slug = "in-the-hunt-pcb"
-Categories = ["irem", "in the hunt"]
+Categories = ["gaming"]
 +++
 
 With my PCB collection getting too large for me to realistically play all of my games, I traded 2

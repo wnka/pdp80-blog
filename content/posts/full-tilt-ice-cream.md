@@ -2,7 +2,7 @@
 date = "2012-05-17"
 slug = "full-tilt-ice-cream"
 title = "Full Tilt Ice Cream"
-Categories = ["arcade"]
+Categories = ["gaming"]
 +++
 
 There is a place here in the Ballard neighborhood of Seattle called [Full Tilt Ice Cream](http://www.yelp.com/biz/full-tilt-ice-cream-seattle-5). It's amazing.

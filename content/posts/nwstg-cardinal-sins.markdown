@@ -1,7 +1,7 @@
 ---
 title: "Cardinal Sins tournament [nwstg]"
 date: 2013-05-05T23:04:59Z
-Categories: ["tournament", "Cardinal Sins", "nwstg"]
+Categories: ["gaming", "nwstg"]
 ---
 
 {{< youtube 4V2lGSRu820 >}}

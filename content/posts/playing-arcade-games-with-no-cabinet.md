@@ -2,7 +2,7 @@
 date = "2012-02-04"
 slug = "playing-arcade-games-with-no-cabinet"
 title = "Playing Arcade Games with no Cabinet"
-Categories = ["hardware"]
+Categories = ["gaming"]
 +++
 
 A [SuperGun](http://en.wikipedia.org/wiki/SuperGun) sounds way cooler than it is. All it does is allow you to play arcade games without an arcade cabinet.

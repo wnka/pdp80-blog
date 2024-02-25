@@ -2,7 +2,7 @@
 date = "2012-01-15"
 slug = "nostalgic-capcom-pcbs"
 title = "Nostalgic Capcom PCBs"
-Categories = ["capcom", "gunsmoke", "commando"]
+Categories = ["gaming"]
 +++
 
 I picked up two games this week: [Commando](http://en.wikipedia.org/wiki/Commando_(video_game)) and [Gun.Smoke](http://en.wikipedia.org/wiki/Gun.Smoke).

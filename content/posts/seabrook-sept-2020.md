@@ -1,7 +1,7 @@
 ---
 title: "Seabrook September 2020"
 date: 2020-09-11T11:53:02-07:00
-Categories: ["family"]
+Categories: ["personal"]
 draft: false
 ---
 

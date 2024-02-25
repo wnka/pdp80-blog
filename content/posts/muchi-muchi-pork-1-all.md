@@ -2,7 +2,7 @@
 title = "Muchi Muchi Pork 1-ALL"
 date = "2014-06-07"
 slug = "muchi-muchi-pork-1-all"
-Categories = ["cave", "1cc", "muchimuchipork"]
+Categories = ["gaming"]
 +++
 
 I took a break from playing for about a week and a half, then on my second credit after playing

@@ -1,6 +1,7 @@
 ---
 title: "On Calculus"
 date: 2023-05-14T15:38:22-07:00
+Categories: ["personal"]
 ---
 
 Calculus!

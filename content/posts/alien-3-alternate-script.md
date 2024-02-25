@@ -1,6 +1,7 @@
 ---
 title: "Book: Alien^3 - The Unproduced Screenplay by William Gibson"
 date: 2023-06-10T12:52:54-07:00
+Categories: ["books"]
 ---
 
 Alien 3 (or Alien^3) had a long development process where many scripts were written and rejected and eventually what got made was being rewritten while shooting was happening. It was director David Fincher's first movie and he pretty much disowned it and hated the process. "No one hated it more than me; to this day, no one hates it more than me."

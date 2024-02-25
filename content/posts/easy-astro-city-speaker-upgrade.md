@@ -2,7 +2,7 @@
 date = "2011-12-24"
 slug = "easy-astro-city-speaker-upgrade"
 title = "Easy Astro City Speaker Upgrade"
-Categories = ["hardware"]
+Categories = ["gaming"]
 +++
 
 The original Sega speakers that came in my Astro City cabinet sound like crap. They're very tinny and basically have no bass, which just won't do when you're playing Battle Garegga and want to crank the [excellent soundtrack](http://www.youtube.com/watch?v=6jFziuiB0ko). Thankfully, others have also found them lacking and there's a pretty easy upgrade, documented [here](http://www.neo-geo.com/forums/showthread.php?177596-Astro-City-speakers-sound-like-shit).

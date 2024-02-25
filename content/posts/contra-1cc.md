@@ -2,7 +2,7 @@
 title = "Contra 1cc"
 date = "2014-01-03"
 slug = "contra-1cc"
-Categories = ["konami", "contra", "1cc"]
+Categories = ["gaming"]
 +++
 I didn't play many games seriously in 2013, mostly due to work being very demanding and just not
 having the time to really get into a game.  Sadly, I didn't 1CC a single game in 2013 that I

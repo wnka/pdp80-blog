@@ -1,6 +1,7 @@
 ---
 title: "The Origins of 'Hella'"
 date: 2024-02-10T17:57:09-08:00
+Categories: ["personal"]
 ---
 
 Hella. I hella use this word. [This article explains its origins](https://www.kqed.org/news/10649552/the-origins-of-hella).

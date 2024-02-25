@@ -1,7 +1,7 @@
 ---
 title: "KevinDDR plays Radiant Silvergun [nwstg]"
 date: 2013-06-19 09:23:00
-Categories: ["radiant silvergun", "nwstg"]
+Categories: ["gaming", "nwstg"]
 ---
 
 [KevinDDR](https://twitter.com/KevinDDR) came over and did some Radiant Silvergun runs and this was the best one. He came up just

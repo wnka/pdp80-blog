@@ -2,7 +2,7 @@
 date = "2013-04-06"
 slug = "ketsui-1cc-at-full-tilt"
 title = "Ketsui 1cc at Full Tilt"
-Categories = ["1cc", "cave", "fulltilt", "ketsui"]
+Categories = ["gaming"]
 +++
 
 My Ketsui PCB is currently on loan to

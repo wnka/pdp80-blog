@@ -2,7 +2,7 @@
 date = "2012-03-05"
 slug = "neo-geo"
 title = "Neo-Geo"
-Categories = ["neogeo"]
+Categories = ["gaming"]
 +++
 
 Introduced in 1990, the [Neo Geo](http://en.wikipedia.org/wiki/Neo_Geo_(system)) was very unique in that it was both an arcade platform and a home console.  Since the home console hardware was exactly the same as the arcade hardware, it was finally possible to truly have arcade games at home. However the home console was ridiculously expensive at $649 and individual games were around $200, about the same as the full Genesis or SNES consoles from the time.

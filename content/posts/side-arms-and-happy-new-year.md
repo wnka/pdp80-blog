@@ -2,7 +2,7 @@
 title = "Side Arms and Happy New Year"
 date = "2015-01-02"
 slug = "side-arms-and-happy-new-year"
-Categories = ["capcom", "1cc"]
+Categories = ["gaming"]
 +++
 Near the end of 2014 I bought a [Side Arms](http://en.wikipedia.org/wiki/Hyper_Dyne_Side_Arms) PCB off the guy who runs [shmuplations.com](http://shmuplations.com). I *LOVED* this game as a kid, I used to gawk at the box of the DOS version at Fry's Electronics and think about playing it at home. But even as a kid, I smelled trouble because the back of the DOS box featured screen shots from the arcade version. When they don't show actual screen shots of what you're about to buy, chances are it's a turd. [I was so right.](http://youtube.com/watch?v=3HNlmkcSFzA)
 

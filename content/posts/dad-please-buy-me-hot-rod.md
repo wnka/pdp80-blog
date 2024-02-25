@@ -1,6 +1,7 @@
 ---
 title: "Dad Please! Buy me Hot Rod"
 date: 2023-11-27T12:03:46-08:00
+Categories: ["personal"]
 ---
 
 {{<figure src="/images/IMG_0111.jpg" caption="" alt="Dad Please! Buy me Hot Rod a TRANSFormer that turns into a Hot Rod Car. Note: Buy Hot Rod in San Francisco And give it To me on my Birthday">}}

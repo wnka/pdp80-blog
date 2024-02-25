@@ -2,7 +2,7 @@
 date = "2006-05-20"
 slug = "start-time"
 title = "Start Time"
-Categories = ["Cocoa", "Gawker"]
+Categories = ["Gawker"]
 +++
 
 So, I’ve decided to do a development blog so I can write musings and whatnot about the development of Gawker.  How useful this truly is will be told over time.  So to kick things off, my name is Phil Piwonka and Gawker is a project I started after I read some books and found out that yes, Cocoa is slick so I wanted to get my hands dirty and write a program.  Gawker started out simply enough but it grew into something that I thought other people might enjoy as well so I decided to release it Open Source... this project is all about learning how to write good Cocoa code.

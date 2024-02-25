@@ -2,7 +2,7 @@
 title = "Muchi Muchi Pork PCB"
 date = "2014-01-11"
 slug = "muchi-muchi-pork-pcb"
-Categories = ["cave", "pcb", "muchimuchipork"]
+Categories = ["gaming"]
 +++
 
 I love this game.

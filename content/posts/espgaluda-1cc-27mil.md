@@ -2,7 +2,7 @@
 title: "Espgaluda 1CC 27,436,670"
 date: 2019-07-05T20:26:18-07:00
 draft: false
-Categories: ["espgaluda", "cave", "1cc"]
+Categories: ["gaming"]
 ---
 
 {{< youtube _DtIkmp-fqg >}}

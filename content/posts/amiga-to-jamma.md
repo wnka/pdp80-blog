@@ -2,7 +2,7 @@
 date = "2012-02-19"
 slug = "amiga-to-jamma"
 title = "Amiga to Jamma"
-Categories = ["amiga", "hardware"]
+Categories = ["gaming"]
 +++
 
 Growing up, my brother and I had an [Amiga 2000](http://en.wikipedia.org/wiki/Amiga_2000). That computer got a lot of use: we played a lot of games, called a lot of BBSs on our 2400 baud modem, and listened to [MOD music](http://en.wikipedia.org/wiki/MOD_music).

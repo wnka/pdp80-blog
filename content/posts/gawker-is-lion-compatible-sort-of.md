@@ -2,7 +2,7 @@
 date = "2011-07-21"
 slug = "gawker-is-lion-compatible-sort-of"
 title = "Gawker is Lion Compatible (sort of)"
-Categories = ["Cocoa", "Gawker", "objective-c"]
+Categories = ["Gawker"]
 Tags = ["gawker", "mac"]
 +++
 

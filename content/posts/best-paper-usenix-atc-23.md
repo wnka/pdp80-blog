@@ -1,6 +1,7 @@
 ---
 title: "Best Paper Award at Usenix ATC '23!"
 date: 2023-07-28T20:58:24-07:00
+Categories: ["personal"]
 ---
 
 A paper that I wrote with some colleagues won a Best Paper Award at the USENIX ATC '23 conference! This is a huge honor!

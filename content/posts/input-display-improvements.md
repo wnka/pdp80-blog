@@ -2,7 +2,7 @@
 title = "Input Display Improvements"
 date = "2015-04-12"
 slug = "input-display-improvements"
-Categories = ["raspberrypi", "jamma"]
+Categories = ["gaming"]
 +++
 
 I did some more work on my [JAMMA input display](/posts/jamma-input-display/) recently and its working really well now. Before I had some issues with stuck inputs and it freezing up, but I upgraded to the 1.0 version of [socket.io](http://socket.io) and now it's rock solid. I also upgraded to a Raspberry Pi 2 which reduced the lag between the inputs and the display.

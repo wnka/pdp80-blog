@@ -2,7 +2,7 @@
 date = "2012-05-22"
 slug = "astro-city-super-sound"
 title = "Astro City Super Sound"
-Categories = ["hardware"]
+Categories = ["gaming"]
 +++
 
 The speakers [I swapped into my Astro City](/posts/easy-astro-city-speaker-upgrade/) were a big improvement over the stock ones, however 8" drivers can only do so much. Thankfully, there's an easy and cheap way to get RCA outputs on a cabinet using a [high-to-low converter](http://www.amazon.com/Pyramid-NS60-Level-Impedance-Adaptor/dp/B000EFKK5G/ref=sr_1_2?ie=UTF8&qid=1337657429&sr=8-2). 

@@ -2,7 +2,7 @@
 title: "HEY Shmup List"
 date: 2019-07-09T21:26:19-07:00
 draft: false
-Categories: ["arcade"]
+Categories: ["gaming"]
 ---
 
 When we were in Japan in late Sept/early Oct 2018, I went to the [HEY! arcade in Akihabara which is known for their impressive shmup line up](https://shmups.system11.org/viewtopic.php?f=1&t=57102). Impressive indeed! I was thinking back to that trip and found that I noted down the shmups they had when I was there. For fun, here's the list:

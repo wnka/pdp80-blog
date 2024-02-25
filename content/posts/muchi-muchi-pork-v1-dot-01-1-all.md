@@ -2,7 +2,7 @@
 title = "Muchi Muchi Pork V1.01 1-ALL"
 date = "2016-01-17"
 slug = "muchi-muchi-pork-v1-dot-01-1-all"
-Categories = ["cave", "1cc", "muchimuchipork"]
+Categories = ["gaming"]
 +++
 Haven't been playing a lot of shmups in recent times, but I played some [Muchi Muchi Pork](http://www.hardcoregaming101.net/muchimuchipork/muchimuchipork.htm) on XBox 360 and was able to 1-ALL the game and reach the 2nd loop for the first time!
 

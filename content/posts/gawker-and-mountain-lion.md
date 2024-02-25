@@ -2,7 +2,7 @@
 date = "2012-07-28"
 slug = "gawker-and-mountain-lion"
 title = "Gawker and Mountain Lion"
-Categories = ["Gawker", "mac"]
+Categories = ["Gawker"]
 +++
 
 I am happy to report that Gawker still works correctly in OS X Mountain Lion!

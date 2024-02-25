@@ -2,7 +2,7 @@
 title: "Remote Coin Insertion"
 date: 2018-10-30T21:44:43-07:00
 draft: false
-Categories: ["raspberrypi", "jamma"]
+Categories: ["gaming"]
 code: true
 ---
 Batteries on arcade PCBs are a pain. Gotta keep an eye on them to make sure they don’t start leaking acid and corroding everything. Also, sometimes removing them will intentionally ruin a game. [Read all about that here](http://www.arcadecollecting.com/dead/). Swapping [CPS2](https://en.wikipedia.org/wiki/CP_System_II) batteries is always a little stressful, thankfully I haven't had any problems when swapping those...

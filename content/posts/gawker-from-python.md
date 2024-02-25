@@ -2,7 +2,7 @@
 date = "2006-06-14"
 slug = "gawker-from-python"
 title = "Gawker from Python"
-Categories = ["Cocoa", "Gawker"]
+Categories = ["Gawker"]
 +++
 
 [Gawker Image Fetch Script](http://www.carrel.org/articles/2006/06/11/gawker-image-fetch-script)  
