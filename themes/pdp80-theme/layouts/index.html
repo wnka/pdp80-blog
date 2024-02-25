@@ -9,9 +9,9 @@
       {{ range .Pages }}
       {{ if eq .Type "posts" }}
       <p><a href="{{ .Permalink }}">{{ .Title }}</a>
-        {{ with .GetTerms "Categories" }}
+        {{ with .GetTerms "categories" }}
         {{ range . }}
-        <span class="tag"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+        <span class="tag"><a href="{{ .RelPermalink }}">{{ lower .LinkTitle }}</a></span>
         {{ end }}
         {{ end }}
       </p>
