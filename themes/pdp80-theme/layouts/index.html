@@ -2,8 +2,8 @@
   <body>
   {{ partial "nav.html" . }}
  
-  <div id="colo"></div>
   <section id="wrapper" class="home">
+    <div id="colo"></div>
     {{ range .Site.RegularPages.GroupByDate "2006" }}
     <div class="archive">
       <h1>{{ .Key }}</h1>
