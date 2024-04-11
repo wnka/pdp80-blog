@@ -6,7 +6,7 @@ export const onRequest = async (context) => {
   let newRes = new HTMLRewriter().on('div', {
     element(element) {
       if (element.getAttribute('id') === 'colo') {
-        element.append(`<div>${geo}</div>`, { html: true} );
+        element.append(geo, { html: true} );
       }
     }
   }).transform(response);
