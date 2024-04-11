@@ -2,6 +2,7 @@
   <body>
   {{ partial "nav.html" . }}
  
+  <div id="colo"></div>
   <section id="wrapper" class="home">
     {{ range .Site.RegularPages.GroupByDate "2006" }}
     <div class="archive">
@@ -20,7 +21,6 @@
     </div>
     {{ end }}
     {{ partial "footer.html" . }}
-    <div id="colo"></div>
   </section>
 
   </body>
