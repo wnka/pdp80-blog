@@ -3,6 +3,13 @@ export const onRequest = async (context) => {
   const geo = "Coming to you from " + context.request.cf.colo;
   console.log(geo);
 
-  response.body = response.body.replace('$TODO', geo);
-  return response;
+  let newRes = new HTMLRewriter().on('div', {
+    element(element) {
+      if (element.getAttribute('id') === 'colo') {
+        element.append(`<div>${geo}</div>`, { html: true} );
+      }
+    }
+  }).transform(response);
+
+  return newRes;
 }
