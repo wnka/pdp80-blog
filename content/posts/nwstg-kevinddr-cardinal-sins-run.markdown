@@ -4,7 +4,7 @@ date: 2013-05-18T19:53:00Z
 Categories: ["gaming", "nwstg"]
 ---
 
-{{< youtube op8ATuDqaG0 >}}
+**YouTube video is no longer available**
 
 Good run on Cardinal Sins by [KevinDDR](http://twitter.com/KevinDDR).
 

@@ -32,8 +32,4 @@ Sometimes I get videos from folks that use Gawker and I always enjoy seeing what
 
 {{< youtube SMgHejm3Vg8  >}}
 
-**Charpente** - Pierre ?
-
-{{< youtube uFB4t-MAD_Y  >}}
-
 If you've created something with Gawker you want to share, send it along!
