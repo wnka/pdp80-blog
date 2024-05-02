@@ -7,6 +7,17 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   padding: 0
 }
 
+.icon {
+  top: 2px;
+  position: relative;
+  stroke: black;
+  height: 1em;
+  width: 1em;
+  margin-right:.1em;
+  margin-left:-2px;
+  fill: none;
+}
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block
 }
@@ -278,6 +289,9 @@ svg {
 }
 
 @media (prefers-color-scheme: dark) {
+  .icon {
+    stroke: white;
+  }
   html, body {
     color: #fff;
     background: rgb(26, 27, 37);
