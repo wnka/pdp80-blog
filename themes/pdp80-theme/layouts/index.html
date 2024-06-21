@@ -8,7 +8,7 @@
       <h1>{{ .Key }}</h1>
       {{ range .Pages }}
       {{ if eq .Type "posts" }}
-      <p><a href="{{ .Permalink }}">{{ .Title }}</a>
+      <p><a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ with .GetTerms "categories" }}
         {{ range . }}
         <span class="tag"><a href="{{ .RelPermalink }}">{{ lower .LinkTitle }}</a></span>
