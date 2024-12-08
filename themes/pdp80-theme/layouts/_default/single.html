@@ -2,14 +2,14 @@
     <body>
        {{ partial "nav.html" . }}
 
-        <section id="wrapper" class="post">
+        <div id="wrapper" class="post">
             <article>
                   <h1>
                     {{ .Title }}
                   </h1>
-                <section id="post-body">
+                <div id="post-body">
                     {{ .Content }}
-                </section>
+                </div>
                 {{ if eq .Type "posts" }}
                 <div class="date-line">
                   <svg class="icon" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" aria-hidden="true" fill="none">
@@ -24,6 +24,6 @@
             </article>
 
             {{ partial "footer.html" . }}
-        </section>
+        </div>
     </body>
 </html>

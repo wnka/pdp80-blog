@@ -2,7 +2,7 @@
 	<body>
     {{ partial "nav.html" . }}
 
-    <section id="wrapper" class="home">
+    <div id="wrapper" class="home">
         <article class="post">
             <header>
                 <h1>{{ with .Site.Params.title404 }}{{ . }}{{ else }}404 - Page not found{{ end }}</h1>
@@ -11,6 +11,6 @@
         </article>
 
         {{ partial "footer.html" . }}
-    </section>
+    </div>
     </body>
 </html>
