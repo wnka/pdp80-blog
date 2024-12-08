@@ -34,10 +34,15 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Went to [HEY](https://www.youtube.com/watch?v=dDyRnrWH1xQ), the arcade. Super cool place, rows of STG cabs, was super cool to be in a place I'd read about and seen pictures of for years. Played the [Ketsui](https://en.wikipedia.org/wiki/Ketsui:_Kizuna_Jigoku_Tachi) PS4 port, got to stage 4 boss then blew it. This was pretty special, as that port doesn't come out until Nov 29th but [M2](https://m2stg.com/en/) were just happening to do a location test while we were in town. My favorite thing about HEY was just watching all the good players play games. Saw someone with an A score in [Garegga](https://en.wikipedia.org/wiki/Battle_Garegga), someone on the 2nd Ketsui loop, someone at Hibachi in [DOJ](https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou). Such pros! A guy double played the Ketsui PS4 cab. Oh and if folks made it to the second loop on the Ketsui PS4 cab, they’d just suicide and end their game. Courtesy? If they made Ura loop would they have done that? So many questions. Went to another Sega arcade but it was all newer stuff. There was a basement floor that seemed to have nude cartoon ladies. Didn’t go, but we walked past some dudes headed that way!
 
 {{< figure src="/images/hey1.jpg" alt="Hey" caption="Me walking around HEY arcade" >}}
+
 {{< figure src="/images/hey2.jpg" alt="Hey" caption="Look at all those vertical monitors and hardcore shmup players" >}}
+
 {{< figure src="/images/hey3.jpg" alt="Hey" caption="Playing the Ketsui PS4 Location Test" >}}
+
 {{< figure src="/images/hey4.jpg" alt="Hey" caption="This dude was doing double-play, note the big stack of fliers to the right" >}}
+
 {{< figure src="/images/hey5.jpg" alt="Hey" caption="This guy about the get a 1-ALL" >}}
+
 {{< figure src="/images/hey6.jpg" alt="Hey" caption="Darius Posters in the stairwell" >}}
 
 - Walked around some more. The maids / maid cafe thing is weird, and the erotic shit is surprisingly in the open. Giant poster of a naked chick with super thin ‘caution’ tape covering her privates, right next to a KFC. Weird stuff man. There was a guy with a camera carefully taking a photo of that poster. 
@@ -132,11 +137,17 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Came back to the hotel. Had some drinks. Went to bed. Lots mosquito bites. I also got sunburned. 
 
 {{< figure src="/images/kyoto1.jpg" alt="Kyoto" caption="Hi I'm a tourist at the Fushimi Inari-taisha gates!" >}}
+
 {{< figure src="/images/kyoto2.jpg" alt="Kyoto" caption="Krista outside Fushimi Inari-taisha gates" >}}
+
 {{< figure src="/images/kyoto3.jpg" alt="Kyoto" caption="A big tree outside a temple" >}}
+
 {{< figure src="/images/kyoto4.jpg" alt="Kyoto" caption="A temple, sadly I forget the name" >}}
+
 {{< figure src="/images/kyoto5.jpg" alt="Kyoto" caption="Riding bikes on the bike tour" >}}
+
 {{< figure src="/images/kyoto6.jpg" alt="Kyoto" caption="Another temple" >}}
+
 {{< figure src="/images/kyoto7.jpg" alt="Kyoto" caption="This is a famous tower" >}}
 
 ### Day 8 - Sept 29th
