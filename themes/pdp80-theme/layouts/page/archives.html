@@ -3,8 +3,11 @@
 <body>
   {{ partial "nav.html" . }}
   <div id="wrapper" class="home">
+    {{ range .Site.RegularPages.GroupByDate "2006" }}
     <div class="archive">
-      {{ range ( where .Site.RegularPages "Type" "posts" | first 10 ) }}
+      <h1>{{ .Key }}</h1>
+      {{ range .Pages }}
+      {{ if eq .Type "posts" }}
       <p><a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ with .GetTerms "categories" }}
         {{ range . }}
@@ -13,10 +16,12 @@
         {{ end }}
       </p>
       {{ end }}
+      {{ end }}
     </div>
-    <a href="/archives">Older Posts</a>&nbsp;🗄️
+    {{ end }}
     {{ partial "footer.html" . }}
   </div>
+
 </body>
 
 </html>
