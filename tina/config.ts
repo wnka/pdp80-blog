@@ -36,6 +36,7 @@ export default defineConfig({
           return {
             date: new Date(),
             draft: true,
+            code: false,
           }
         },
         fields: [
@@ -61,6 +62,11 @@ export default defineConfig({
             type: "boolean",
             name: 'draft',
             label: 'Draft',
+          },
+          {
+            type: "boolean",
+            name: 'code',
+            label: 'Does this post have code blocks?',
           },
           {
             label: 'Categories',
