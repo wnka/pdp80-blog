@@ -2,6 +2,7 @@
 title: Using TinaCMS to Post
 date: 2024-12-20T17:24:41.975Z
 draft: false
+code: true
 categories:
   - computers
 ---
