@@ -11,7 +11,7 @@
       <p><a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ with .GetTerms "categories" }}
         {{ range . }}
-        <span class="tag"><a href="{{ .RelPermalink }}">{{ lower .LinkTitle }}</a></span>
+        <span class="tag"><a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a></span>
         {{ end }}
         {{ end }}
       </p>
