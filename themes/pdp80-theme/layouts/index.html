@@ -1,7 +1,8 @@
 {{ partial "head.html" . }}
-  <body>
+
+<body>
   {{ partial "nav.html" . }}
- 
+
   <div id="wrapper" class="home">
     {{ range .Site.RegularPages.GroupByDate "2006" }}
     <div class="archive">
@@ -22,5 +23,6 @@
     {{ partial "footer.html" . }}
   </div>
 
-  </body>
+</body>
+
 </html>

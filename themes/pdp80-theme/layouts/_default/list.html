@@ -1,25 +1,23 @@
 {{ partial "head.html" . }}
-  <body>
+
+<body>
   {{ partial "nav.html" . }}
 
   <div id="wrapper" class="home">
     {{ range .Data.Pages.GroupByDate "2006" }}
     <div class="archive">
       <h1>{{ .Key }}</h1>
-      <ul>
-          {{ range .Pages }}
-          <div class="post-item">
-            <div class="post-time">{{ .Date.Format "Jan 02" }}</div>
-              <a href="{{ .Permalink }}" class="post-link">
-                {{ .Title }}
-              </a>
-          </div>
-          {{ end }}
-      </ul>
+      {{ range .Pages }}
+      <p><a href="{{ .Permalink }}">
+          {{ .Title }}
+        </a>
+        {{ end }}
+      </p>
     </div>
     {{ end }}
     {{ partial "footer.html" . }}
   </div>
 
-  </body>
+</body>
+
 </html>
