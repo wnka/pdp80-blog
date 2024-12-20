@@ -1,7 +1,7 @@
 ---
 title: Using TinaCMS to Post
 date: 2024-12-20T17:24:41.975Z
-draft: true
+draft: false
 categories:
   - computers
 ---
@@ -14,7 +14,7 @@ We're currently in Grand Junction, Colorado for the holidays/my wife's sister's 
 
 The GitHub commit where I set all this up is [here](https://github.com/wnka/pdp80-blog/commit/d160d1d64563754bff01241063d57208f075bb44).
 
-I use AWS Amplify for hosting and things were pretty straightforward on that side too. I had to update my build environment to be Amazon Linux 2023 (which is now the default, I was still using the ancient Amazon Linux 2) so that I could use a modern version of... well anything, and then add Node.js 22 to my build packages in addition to Hugo. My build settings amplify.yml became:
+I use AWS Amplify for hosting and things were pretty straightforward on that side too. I had to update my build environment to be Amazon Linux 2023 (which is now the default, I was still using the ancient Amazon Linux 2) so that I could use a modern version of... well anything, and then add Node.js 22 to my build packages in addition to Hugo. My build settings `amplify.yml` became:
 
 ```yaml
 version: 1
@@ -32,9 +32,9 @@ frontend:
     paths: []
 ```
 
-All I had to change was the build: commands:, which used to just be - hugo --minify. If you look in the package.json in the linked GitHub commit, npm run build now runs:tinacms build && hugo --minify
+All I had to change was the `build: commands:`, which used to just be `- hugo --minify`. If you look in the `package.json` in the linked GitHub commit, `npm run build` now runs:`tinacms build && hugo --minify`
 
-I signed up for a free account on [TinaCloud](https://app.tina.io/signin), got the access tokens and stuff, then added the environment variables needed by tina/config.ts to the Environment Variables on AWS Amplify.
+I signed up for a free account on [TinaCloud](https://app.tina.io/signin), got the access tokens and stuff, then added the environment variables needed by `tina/config.ts` to the Environment Variables on AWS Amplify.
 
 There were a few missteps, but overall it was easy!
 
