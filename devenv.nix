@@ -5,7 +5,7 @@
   env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [ pkgs.git pkgs.hugo pkgs.lynx ];
+  packages = [ pkgs.git pkgs.hugo pkgs.lynx pkgs.vscode-langservers-extracted ];
 
   # https://devenv.sh/languages/
   languages.javascript.enable = true;
