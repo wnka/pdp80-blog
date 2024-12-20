@@ -206,7 +206,7 @@ header {
   margin: 5px auto 0 auto;
   z-index: 100;
   color: #fff;
-  background: #ffe8c7;
+  background: #DBE4EE;
   border-radius: 5px;
 }
 
@@ -220,7 +220,6 @@ p.main-nav {
 
 p.main-nav a {
   padding: 8px;
-  text-decoration-color: #aac;
   color: #222129;
 }
 
@@ -241,7 +240,6 @@ a,
 #post-list a:hover,
 #title:hover {
   color: #222129;
-  text-decoration-color: #aac;
   text-decoration: underline;
 }
 
@@ -438,11 +436,9 @@ svg {
   #post-list a:hover,
   #title:hover {
     color: #fff;
-    text-decoration-color: #aac;
   }
 
   p.main-nav a {
-    text-decoration-color: #aac;
     color: #fff;
   }
 
