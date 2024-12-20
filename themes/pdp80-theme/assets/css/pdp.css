@@ -1,4 +1,89 @@
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+:root {
+  --font-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --font-sans: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+  --font-monospace: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   border: 0;
   font-size: 100%;
   font: inherit;
@@ -13,12 +98,22 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   stroke: black;
   height: 1em;
   width: 1em;
-  margin-right:.1em;
-  margin-left:-2px;
+  margin-right: .1em;
+  margin-left: -2px;
   fill: none;
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block
 }
 
@@ -33,8 +128,9 @@ blockquote {
   font-style: italic;
 }
 
-code, kbd {
-  font-family: monospace;
+code,
+kbd {
+  font-family: var(--font-monospace);
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
   background-color: #eee;
@@ -46,7 +142,9 @@ table {
   border-spacing: 0
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -55,13 +153,22 @@ table {
 
 /* Spacing */
 
-.post h2, h3, h4, h5, p, #post-body ul, #post-list li, #post-body ol, pre {
+.post h2,
+h3,
+h4,
+h5,
+p,
+#post-body ul,
+#post-list li,
+#post-body ol,
+pre {
   margin-bottom: 10px;
 }
 
 /* Base */
 
-html, body {
+html,
+body {
   font-size: 18px;
   height: 100%;
   background: #fff;
@@ -69,7 +176,7 @@ html, body {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+  font-family: var(--font-serif);
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: none;
   text-rendering: optimizeLegibility;
@@ -85,7 +192,8 @@ h1 {
   margin-bottom: 10px;
 }
 
-h2,h3 {
+h2,
+h3 {
   font-weight: bold;
   font-size: 24px;
 }
@@ -128,7 +236,10 @@ p.main-nav a {
 }
 
 /*Accent color*/
-a, #title, #post-list a:hover, #title:hover {
+a,
+#title,
+#post-list a:hover,
+#title:hover {
   color: #222129;
   text-decoration-color: #aac;
   text-decoration: underline;
@@ -138,7 +249,8 @@ a, #title, #post-list a:hover, #title:hover {
   padding: 3px 0;
 }
 
-ol, ul {
+ol,
+ul {
   margin-left: 27px;
   margin-bottom: 10px;
 }
@@ -148,16 +260,18 @@ mark {
   color: #fff;
 }
 
-#post-body p > a {
+#post-body p>a {
   word-break: break-word;
   white-space: pre-wrap;
 }
 
-b, strong {
+b,
+strong {
   font-weight: 700;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
@@ -173,19 +287,23 @@ p.copyright {
   margin-top: 20px;
 }
 
-table, td, th {
+table,
+td,
+th {
   border: 1px dashed;
   padding: 10px;
 }
 
 .archive .idate {
-  width:1px;
-  white-space:nowrap;
-  padding-right:10px;
-  font-weight:bold;
+  width: 1px;
+  white-space: nowrap;
+  padding-right: 10px;
+  font-weight: bold;
 }
 
-.archive table, .archive td, .archive th {
+.archive table,
+.archive td,
+.archive th {
   padding: 3px 0;
   border: none;
   margin: 0 0 10px 0;
@@ -199,7 +317,7 @@ table {
 }
 
 th {
-  font-weight:800;
+  font-weight: 800;
   text-align: left;
 }
 
@@ -216,15 +334,15 @@ figure {
 }
 
 figcaption {
-    font-size: 14px;
-    padding: 5px 10px;
-    margin-top: -8px;
-    background: #eee;
-    color: #222129;
-    width: calc(100% + 40px);
-    margin-left: calc(-20px);
-    margin-right: calc(-20px);
-    text-align: center;
+  font-size: 14px;
+  padding: 5px 10px;
+  margin-top: -8px;
+  background: #eee;
+  color: #222129;
+  width: calc(100% + 40px);
+  margin-left: calc(-20px);
+  margin-right: calc(-20px);
+  text-align: center;
 }
 
 .tag a {
@@ -268,9 +386,11 @@ svg {
   #wrapper {
     padding: 10px 20px 20px 20px;
   }
+
   #header {
     margin-bottom: 60px;
   }
+
   .post {
     margin: 40px 0;
   }
@@ -291,7 +411,9 @@ svg {
   .icon {
     stroke: white;
   }
-  html, body {
+
+  html,
+  body {
     color: #fff;
     background: rgb(26, 27, 37);
   }
@@ -311,22 +433,29 @@ svg {
     color: #fff;
   }
 
-  a, #title, #post-list a:hover, #title:hover {
+  a,
+  #title,
+  #post-list a:hover,
+  #title:hover {
     color: #fff;
     text-decoration-color: #aac;
   }
+
   p.main-nav a {
     text-decoration-color: #aac;
     color: #fff;
-}
+  }
 
-  code, kbd {
+  code,
+  kbd {
     color: #fff;
     background: rgb(37, 39, 57);
   }
+
   svg {
     background: rgb(37, 39, 57);
   }
+
   mark {
     color: rgb(37, 39, 57);
     background: #fff;
