@@ -33,7 +33,7 @@ frontend:
     paths: []
 ```
 
-All I had to change was the `build: commands:`, which used to just be `- hugo --minify`. If you look in the `package.json` in the linked GitHub commit, `npm run build` now runs:`tinacms build && hugo --minify`
+All I had to change was the `build: commands:`, which used to just be `- hugo --minify`. If you look in the `package.json` in the linked GitHub commit, `npm run build` now runs: `tinacms build && hugo --minify`
 
 I signed up for a free account on [TinaCloud](https://app.tina.io/signin), got the access tokens and stuff, then added the environment variables needed by `tina/config.ts` to the Environment Variables on AWS Amplify.
 
