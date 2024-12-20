@@ -8,10 +8,13 @@
   packages = [ pkgs.git pkgs.hugo pkgs.lynx ];
 
   # https://devenv.sh/languages/
-  # languages.rust.enable = true;
+  languages.javascript.enable = true;
+  languages.javascript.npm.enable = true;
+  languages.javascript.npm.install.enable = true;
+  languages.typescript.enable = true;
 
   # https://devenv.sh/processes/
-  processes.server.exec = "hugo server";
+  processes.server.exec = "npm run dev";
 
   # https://devenv.sh/services/
   # services.postgres.enable = true;
