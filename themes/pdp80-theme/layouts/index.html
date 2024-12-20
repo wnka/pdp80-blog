@@ -4,7 +4,7 @@
   {{ partial "nav.html" . }}
   <div id="wrapper" class="home">
     <div class="archive">
-      {{ range ( where .Site.RegularPages "Type" "posts" | first 10 ) }}
+      {{ range ( where .Site.RegularPages "Type" "posts" | first 20 ) }}
       <p><a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ with .GetTerms "categories" }}
         {{ range . }}
@@ -14,7 +14,7 @@
       </p>
       {{ end }}
     </div>
-    <a href="/archives">Older Posts</a>&nbsp;🗄️
+    <a href="/archives">Archives</a>&nbsp;🗄️
     {{ partial "footer.html" . }}
   </div>
 </body>
