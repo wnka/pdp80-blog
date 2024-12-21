@@ -21,9 +21,11 @@ I use AWS Amplify for hosting and things were pretty straightforward on that sid
 version: 1
 frontend:
   phases:
+    preBuild:
+      commands:
+        - npm ci
     build:
       commands:
-        - npm install
         - npm run build
   artifacts:
     baseDirectory: public
@@ -33,7 +35,7 @@ frontend:
     paths: []
 ```
 
-All I had to change was the `build: commands:`, which used to just be `- hugo --minify`. If you look in the `package.json` in the linked GitHub commit, `npm run build` now runs: `tinacms build && hugo --minify`
+All I had to change was the `preBuild: commands:` and `build: commands:`, which used to just be `- hugo --minify`. If you look in the `package.json` in the linked GitHub commit, `npm run build` now runs: `tinacms build && hugo --minify`
 
 I signed up for a free account on [TinaCloud](https://app.tina.io/signin), got the access tokens and stuff, then added the environment variables needed by `tina/config.ts` to the Environment Variables on AWS Amplify.
 
