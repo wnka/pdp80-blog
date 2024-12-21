@@ -205,7 +205,6 @@ header {
   padding: 0 20px 0 20px;
   margin: 5px auto 0 auto;
   z-index: 100;
-  color: #fff;
   background: #DBE4EE;
   border-radius: 5px;
 }
@@ -423,7 +422,6 @@ svg {
 
   header {
     background-color: rgb(37, 39, 57);
-    color: #fff;
   }
 
   figcaption {
