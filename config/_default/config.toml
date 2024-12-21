@@ -4,7 +4,7 @@ publishDir = "public"
 pygmentsUseClasses = true
 pygmentsCodefences = true
 theme = "pdp80-theme"
-title = "Phil Piwonka"
+title = "Phil is typing..."
 enableRobotsTXT = false
 [params]
 	author = "Phil Piwonka"
