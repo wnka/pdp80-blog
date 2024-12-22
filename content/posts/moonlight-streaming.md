@@ -6,9 +6,9 @@ date: 2024-12-21T17:53:38.000Z
 draft: false
 ---
 
-I'm sitting in a hotel in Grand Junction, CO using my iPad Pro to remotely play games on my gaming PC sitting my house in Seattle, WA and it works pretty damn well. I just played some [Mushihimesama Futari](https://en.wikipedia.org/wiki/Mushihimesama_Futari), which is a really hard shmup where any input lag is *very* noticable. Was it noticable with this setup? Yes absolutely, but it was playable. I made it to the middle of Stage 3 on Original mode while being incredibly rusty.
+I'm sitting in a hotel in Grand Junction, CO using my iPad Pro to remotely play games on my gaming PC sitting my house in Seattle, WA and it works pretty damn well. I just played some [Mushihimesama Futari](https://en.wikipedia.org/wiki/Mushihimesama_Futari), which is a really hard shmup where any input lag is *very* noticable. Was it noticable with this setup? Yes absolutely, but it was playable. I made it to the middle of stage 3 on Original mode while being incredibly rusty.
 
-{{\< figure src="/images/IMG\_5672.jpeg" alt="Hey" caption="The iPad is great for playing vertically oriented shmups!" >}}
+{{< figure src="/images/IMG_5672.jpeg" alt="Hey" caption="The iPad is great for playing vertically oriented shmups!" >}}
 
 It's pretty amazing stuff. I use it **a lot** at home since we only have one TV and I can't be playing super violent games like [Doom Eternal](/posts/doom-eternal/) with my daughter around. I stream to my iPad and use a [nice bluetooth controller](https://www.amazon.com/PC-Multi-Platform-NS-TV-Android-Laptop/dp/B0D7ZRXBY4) and AirPods Pro for sound. My PC is on a wired ethernet connection and my iPad is on WiFi and the lag is virtually unnoticable. At home I can stream at 120hz since my iPad Pro supports it! Right now though since I'm geographically far away at the moment I'm limiting myself to 1080p and 60hz.
 
