@@ -52,6 +52,36 @@ export default defineConfig({
             name: "body",
             label: "Body",
             isBody: true,
+            templates: [
+              {
+                name: 'figure',
+                label: "An image with a caption",
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: 'src',
+                    label: 'Path to image (should start with /images/)',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'alt',
+                    label: 'alt text',
+                    type: 'string',
+                    required: false,
+                  },
+                  {
+                    name: 'caption',
+                    label: 'Caption below the image',
+                    type: 'string',
+                    required: false,
+                  },
+                ]
+              },
+            ]
           },
           {
             type: 'datetime',
