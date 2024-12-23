@@ -21,7 +21,7 @@ I played the game for about 3 hours on New Years Day and reached the big beating
 boss. The next day on my 3rd credit of the day I beat it. I was streaming (with no one watching) and
 captured the run.
 
-{{< youtube 6RgctZ-Hbl4  >}}
+{{< youtube "6RgctZ-Hbl4" >}}
 
 The video does some weird things, my capture card doesn't seem to be able to handle the 57hz refresh
 rate of the arcade PCB. Oh well, sorry!

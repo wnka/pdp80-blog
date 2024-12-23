@@ -15,4 +15,4 @@ This port for XBox 360 came out almost exactly three years ago and I got it the 
 
 Video!
 
-{{< youtube uRJUpJE13s0  >}}
+{{< youtube "uRJUpJE13s0" >}}

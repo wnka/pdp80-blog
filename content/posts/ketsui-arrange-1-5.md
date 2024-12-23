@@ -9,4 +9,4 @@ Version 1.5 of Ketsui Arrange was released recently by [trap15](https://twitter.
 
 I burned an EPROM of it, slapped it on my Ketsui board and recorded the first couple of times I played it.
 
-{{< youtube P9BKdDiHmw0  >}}
+{{< youtube "P9BKdDiHmw0" >}}

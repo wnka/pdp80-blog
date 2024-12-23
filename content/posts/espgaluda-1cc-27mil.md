@@ -5,7 +5,7 @@ draft: false
 Categories: ["gaming"]
 ---
 
-{{< youtube _DtIkmp-fqg >}}
+{{< youtube "_DtIkmp-fqg" >}}
 
 My best score in this game and it's a **ONE CREDIT CLEAR!**
 

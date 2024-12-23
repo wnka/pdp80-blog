@@ -81,6 +81,22 @@ export default defineConfig({
                   },
                 ]
               },
+              {
+                name: 'youtube',
+                label: 'YouTube video',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: '_value',
+                    label: 'value',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
             ]
           },
           {

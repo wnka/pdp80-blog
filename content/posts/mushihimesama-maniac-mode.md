@@ -13,7 +13,7 @@ Maniac mode has bullet patterns that are a lot more dense and interesting. On to
 
 I recently got a [tripod mount for my iPhone](http://www.amazon.com/Studio-Neat-Tripod-Mount-iPhone/dp/B0052G679K/ref=sr_1_1?ie=UTF8&qid=1326918775&sr=8-1) so I recorded some games to test it out. I was able to capture my best game of Maniac mode yet, which I have posted to YouTube. The quality is surprisingly good, however the sound is a little quiet. **Score:** 77,916,281.
 
-{{< youtube cXPzP3nm3Do  >}}
+{{< youtube "cXPzP3nm3Do" >}}
 
 As long as I don't go overboard with trying to do crazy scoring tricks, which I am very prone to do, I can reach stage 4 consistently. Stage 4 and 5 are pretty rocky, mainly because I haven't been able to play them much. This is one disadvantage of playing on a PCB: no practice modes!
 

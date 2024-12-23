@@ -9,7 +9,7 @@ I took a break from playing for about a week and a half, then on my second credi
 again I was able to 1-ALL
 [Muchi Muchi Pork](http://www.hardcoregaming101.net/muchimuchipork/muchimuchipork.htm)!
 
-{{< youtube s3OC2QnTOBk  >}}
+{{< youtube "s3OC2QnTOBk" >}}
 
 **Final score:** 115,449,200
 

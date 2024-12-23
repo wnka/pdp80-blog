@@ -4,7 +4,7 @@ date: 2014-01-04 14:29:00
 Categories: ["gaming", "nwstg"]
 ---
 
-{{< youtube L75K9IiZLqY >}}
+{{< youtube "L75K9IiZLqY" >}}
 
 **KevinDDR says:**
 

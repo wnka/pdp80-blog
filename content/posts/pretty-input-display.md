@@ -15,4 +15,4 @@ I styled it after the control panel on my Astro City cabinet, which explains the
 
 You can see it in action here, where I played some Espgaluda and got a new personal best 1cc clear score of **28,582,720**!
 
-{{< youtube HPHacrqdxy0 >}}
+{{< youtube "HPHacrqdxy0" >}}

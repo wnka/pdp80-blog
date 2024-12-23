@@ -22,6 +22,6 @@ I watched this movie with a friend remotely and it was a total hoot. Unlike Bike
 
 My favorite scene is when the two girls fight while on their motorcycles. No one would do this, they would just get off their motorcycles and fight. But this is Torque and all expression must happen through motorcycles. They bang front wheels and ride standing up while kicking and punching. The big final chase scene with the fastest bike in the universe (called the Y2K bike) is real silly. Thankfully, there is a YouTube clip of all this:
 
-{{< youtube oKkF0xdrz1A >}}
+{{< youtube "oKkF0xdrz1A" >}}
 
 All in all, this movie fires on 3 out of 4 cylinders. It’s not cinema, but it's fun!

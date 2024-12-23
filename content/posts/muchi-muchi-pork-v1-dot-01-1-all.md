@@ -6,7 +6,7 @@ Categories = ["gaming"]
 +++
 Haven't been playing a lot of shmups in recent times, but I played some [Muchi Muchi Pork](http://www.hardcoregaming101.net/muchimuchipork/muchimuchipork.htm) on XBox 360 and was able to 1-ALL the game and reach the 2nd loop for the first time!
 
-{{< youtube Hq_LXwFmayM  >}}
+{{< youtube "Hq_LXwFmayM" >}}
 
 I own [the PCB](/posts/muchi-muchi-pork-pcb/) of this game, which is v1.00 of the game. Differences in v1.01 which is in the XBox 360 port:
 

@@ -4,7 +4,7 @@ date: 2013-05-05T23:04:59Z
 Categories: ["gaming", "nwstg"]
 ---
 
-{{< youtube 4V2lGSRu820 >}}
+{{< youtube "4V2lGSRu820" >}}
 
 I've been working on a streaming setup lately for streaming shmups and other arcade stuff. People
 came over to watch the [100 Yen: The Japanese Arcade Experience](http://www.100yenfilm.com/) documentary and we gave the setup a

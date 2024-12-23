@@ -45,7 +45,7 @@ recommend. Great service, decent prices, and they know how to pack and ship PCBs
 
 As usual, I can let ["STGWeekly"](http://twitter.com/stgweekly) provide a great intro to the game:
 
-{{< youtube WOEQKFTxf5A  >}}
+{{< youtube "WOEQKFTxf5A" >}}
 
 The guest and player in that episode is NTSC-J, who lives in Japan but is from Seattle. He was back
 in town once and came out to Full Tilt and I got to meet him, really nice guy. He mentions our
@@ -55,7 +55,7 @@ in town once and came out to Full Tilt and I got to meet him, really nice guy. H
 I did some streaming on Twitch from the PCB this morning and had a good run, which is my personal
 best!
 
-{{< youtube djHPdlHX2X0  >}}
+{{< youtube "djHPdlHX2X0" >}}
 
 {{<figure src="/images/mmp.jpg" caption="MMP on my Astro City">}}
 

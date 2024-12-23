@@ -21,4 +21,4 @@ form Nazca and [create Metal Slug](http://metalslug.wikia.com/wiki/The_origin_of
 
 Here's a video of someone 1CC'ing In the Hunt:
 
-{{< youtube m4n6RKSkpcI  >}}
+{{< youtube "m4n6RKSkpcI" >}}

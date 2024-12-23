@@ -11,4 +11,4 @@ I've been on pager duty for work this week, which means I need to be near a comp
 
 You can now click/tap on any of the inputs on the display and they will be remotely triggered. Not super handy, but neat! The idea came about when hanging out with [KevinDDR](http://twitch.tv/kevinddr) while I was teaching him how to play [Ketsui](http://en.wikipedia.org/wiki/Ketsui:_Kizuna_Jigoku_Tachi) and telling him when to bomb to avoid dying. I thought it would be cool to be able to actually do it for him. Someday we'll get together and try it!
 
-{{< youtube luvwnieSAqQ  >}}
+{{< youtube "luvwnieSAqQ" >}}

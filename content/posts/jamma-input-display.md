@@ -12,7 +12,7 @@ I built an input display for my arcade cabinets by reading the
 
 [The code is available on GitHub](https://github.com/wnka/arcadebuttons-node-pi) and here is a sample capture from me playing some [Espgaluda](http://en.wikipedia.org/wiki/Espgaluda):
 
-{{< youtube uSHMhtIR2wg  >}}
+{{< youtube "uSHMhtIR2wg" >}}
 
 I created an AMP-UP control panel wiring extender that splits off the input wires on my Astro City into the Raspberry
 Pi, but you could also split the wires off of the JAMMA harness. The needed 12-pin AMP-UP connectors are available

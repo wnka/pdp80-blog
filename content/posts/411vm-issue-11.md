@@ -5,7 +5,7 @@ date: 2018-08-25T15:13:47-07:00
 draft: true
 ---
 
-{{< youtube 0ZT46w11MSM >}}
+{{< youtube "0ZT46w11MSM" >}}
 
 I had this skate video when I was in high school and discovered a lot of great music from it:
 

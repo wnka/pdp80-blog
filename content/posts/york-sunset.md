@@ -7,6 +7,6 @@ Categories = ["Gawker"]
 
 This excellent video was sent to me by [Graham](http://vjskulpture.wordpress.com/) where he used [Gawker](http://gawker.sourceforge.net/Gawker.html) to record a sunset in York.
 
-{{< youtube sAkbEkcUyvo  >}}
+{{< youtube "sAkbEkcUyvo" >}}
 
 Thanks [Graham](http://vjskulpture.wordpress.com/) for sharing!

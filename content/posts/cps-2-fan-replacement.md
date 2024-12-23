@@ -11,4 +11,4 @@ that people sell quieter replacement fans.  I picked a few replacements up from
 [Jamma Nation X](http://www.jamma-nation-x.com/jammax/store.html) for cheap.  It took me about 10 minutes to
 install and the difference is obvious:
 
-{{< youtube otdcf7bbIi0  >}}
+{{< youtube "otdcf7bbIi0" >}}

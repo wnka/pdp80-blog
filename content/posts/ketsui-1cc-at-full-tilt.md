@@ -11,11 +11,11 @@ shmup guys here in Seattle (all 5 of us) do
 [meetups every week](http://shmups.system11.org/viewtopic.php?f=8&t=41318). Last meetup I 1CC'd the
 first loop LIVE:
 
-{{< youtube JzoT7ldlDas  >}}
+{{< youtube "JzoT7ldlDas" >}}
 
 I had a pretty hilarious death right at the start of the last boss. Here's a nice loop of that:
 
-{{< youtube ManpTjjUmak  >}}
+{{< youtube "ManpTjjUmak" >}}
 
 {{<figure src="/images/Ketsui1CCFT.jpg" caption="Final score: 82,520,034">}}
 
