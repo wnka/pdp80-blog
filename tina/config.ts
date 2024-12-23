@@ -91,11 +91,39 @@ export default defineConfig({
                 fields: [
                   {
                     name: '_value',
-                    label: 'value',
+                    label: 'The video ID, contained in the URL',
                     type: 'string',
                     required: true,
                   },
                 ],
+              },
+              {
+                name: 'videogif',
+                label: "A looping mp4 with no sound. Not a gif.",
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: 'src',
+                    label: 'Path to video (should start with /videos/)',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'width',
+                    label: 'Width in px',
+                    type: 'string',
+                    required: false,
+                  },
+                  {
+                    name: 'height',
+                    label: 'Height in px',
+                    type: 'string',
+                    required: false,
+                  },
+                ]
               },
             ]
           },
