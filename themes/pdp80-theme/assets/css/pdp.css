@@ -404,6 +404,7 @@ svg {
   background-color: rgb(37, 39, 57);
   padding: 0px 20px 0px 20px;
   margin-bottom: 10px;
+  overflow-x: auto;
 }
 
 @media (prefers-color-scheme: dark) {
