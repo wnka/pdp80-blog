@@ -22,3 +22,8 @@ devenv.local.nix
 
 node_modules
 .env
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
