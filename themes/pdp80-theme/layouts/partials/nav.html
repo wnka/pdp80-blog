@@ -1,12 +1,13 @@
 <header>
-	pdp.dev
+	{{ if not .IsHome }}
+	<a href='{{ .Site.BaseURL }}'>{{.Site.Title}}</a>
+	{{ else }}
+	{{ .Site.Title }}
+	{{ end }}
 	<nav>
 		<p class="main-nav">
-			{{ if not .IsHome }}
-			<a href='{{ .Site.BaseURL }}'>home</a>
-			{{ end }}
 			<a href='{{ .Site.BaseURL }}about/'>about</a>
-			<a href='{{ .Site.BaseURL }}archives/'>archives</a>
+			<a href='{{ .Site.BaseURL }}archives/'>older</a>
 		</p>
 	</nav>
 </header>
