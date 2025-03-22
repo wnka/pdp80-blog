@@ -11,3 +11,5 @@ The [SP 1200](https://en.wikipedia.org/wiki/E-mu_SP-1200) is a drum machine that
 Lord Finesse is great, he's been involved in so much good music dating all the way back to [Funky Technician](https://en.wikipedia.org/wiki/Funky_Technician) in 1990. What a fella.
 
 **UPDATE March 21 2025:** [There was talk about the album](https://youtu.be/oQ_hw_sUBek?si=TswOQiiBsbQLg2tM) which included a chat between Lord Finesse and Dave Rossum, one of the inventors of the SP-1200. This starts at around 51 mins in to the video and is really great. Lots of mutual respect and admiration between the two. 
+
+**UPDATE March 22 2025:** I forgot to mention that every Saturday at 9am PST, Lord Finesse [live streams DJ sets on Twitch](https://twitch.tv/lordfinesseditc). They're great and family friendly, at least I've found them to be while I'm enjoying them with my daughter.
