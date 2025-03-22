@@ -4,7 +4,7 @@
   "description": "This is the source for my blog, which uses the Hugo static website generator and is hosted on AWS Amplify.",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server -D\"",
+    "dev": "tinacms dev -c \"hugo server -D --bind 0.0.0.0\"",
     "build": "tinacms build && hugo --minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
