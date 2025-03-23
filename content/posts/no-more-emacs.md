@@ -20,7 +20,7 @@ For editing random files, Markdown, this blog, scripts, etc I've been using Heli
 
 ### LazyGit
 
-Instead of Magit for Git stuff I'm now using LazyGit and have found it to be good enough for my workflows. It's super fast, and while yes it's not integrated into the editor, I can easily `Ctrl-Z` my way out of Helix and do what I want, then `fg` back into Helix. No need to make Helix be this captive environment where everything.
+Instead of Magit for Git stuff I'm now using LazyGit and have found it to be good enough for my workflows. It's super fast, and while yes it's not integrated into the editor, I can easily `Ctrl-Z` my way out of Helix and do what I want, then `fg` back into Helix. No need to make Helix be this captive environment for everything.
 
 Custom config: None!
 
