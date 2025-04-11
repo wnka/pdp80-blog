@@ -8,13 +8,13 @@
   packages = [ pkgs.git pkgs.hugo pkgs.lynx pkgs.vscode-langservers-extracted ];
 
   # https://devenv.sh/languages/
-  languages.javascript.enable = true;
-  languages.javascript.npm.enable = true;
-  languages.javascript.npm.install.enable = true;
-  languages.typescript.enable = true;
+  # languages.javascript.enable = true;
+  # languages.javascript.npm.enable = true;
+  # languages.javascript.npm.install.enable = true;
+  # languages.typescript.enable = true;
 
   # https://devenv.sh/processes/
-  processes.server.exec = "npm run dev";
+  processes.server.exec = "hugo server";
 
   # https://devenv.sh/services/
   # services.postgres.enable = true;
