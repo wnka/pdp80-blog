@@ -4,7 +4,7 @@ date: 2025-04-11T10:18:48-07:00
 code: true
 ---
 
-In the past I wrote about having [a leaky TODO list]({{ <ref "leaky-todo.md"> }}) and how I implemented that in org-mode. I moved to using [Things](https://culturedcode.com/things/) for tracking my TODO list and wanted to be able to keep cleaning up things that had been sitting in my list for too long.
+In the past I wrote about having [a leaky TODO list]({{< ref "leaky-todo.md" >}}) and how I implemented that in org-mode. I moved to using [Things](https://culturedcode.com/things/) for tracking my TODO list and wanted to be able to keep cleaning up things that had been sitting in my list for too long.
 
 Thankfully Things is scriptable using AppleScript, which is confusing as shit and doesn't have great documentation but I was able to get it working. Here's the script:
 
