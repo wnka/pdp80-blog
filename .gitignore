@@ -5,6 +5,10 @@ public/
 .devenv*
 devenv.local.nix
 
+# frontmatter
+.frontmatter
+frontmatter.json
+
 # direnv
 .direnv
 

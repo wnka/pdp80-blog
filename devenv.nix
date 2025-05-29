@@ -14,7 +14,7 @@
   # languages.typescript.enable = true;
 
   # https://devenv.sh/processes/
-  processes.server.exec = "hugo server";
+  processes.server.exec = "hugo server --bind 0.0.0.0";
 
   # https://devenv.sh/services/
   # services.postgres.enable = true;
