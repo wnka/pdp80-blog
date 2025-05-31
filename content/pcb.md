@@ -63,6 +63,7 @@ This list is ordered by (roughly) when I got them.  I didn't start buying PCBs u
 	* Got: January 11 2014
 	* 1-ALL: June 7 2014 - Pink - 115,449,200
 1. **Sega Naomi 1**
+	* With NetBoot DIMM + Capcom I/O + Raspberry Pi running [piforcetools](https://github.com/wnka/piforcetools)
 1. **Shinobi**
 1. **Side Arms**
 
