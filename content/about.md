@@ -13,7 +13,8 @@ Links:
 
 * [Arcade PCB Collection](/pcb/)
 * [Vinyl Collection](/vinyl/)
-* [Strava](https://www.strava.com/athletes/6632067)
+* [Last.fm](https://www.last.fm/user/pdp80) - For what I'm listening to
+* [Strava](https://www.strava.com/athletes/6632067) - For bike adventures
 * <a href="https://hachyderm.io/@pdp" rel="me">Mastodon</a>
 * <a href="https://github.com/wnka" rel="me">GitHub</a>
 * [Resume](https://philpiwonka.com)
