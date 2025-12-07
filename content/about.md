@@ -3,9 +3,9 @@ title: "About"
 date: 2018-01-29T18:53:54-08:00
 ---
 
-{{<figure src="/images/about4.jpeg">}}
+{{<figure src="/images/welchonka.jpeg">}}
 
-Hi, my name is Phil Piwonka and I live in Seattle, WA with my [wife](https://kristawelch.com), daughter, and cat. I'm currently an engineer on the [AWS Lambda](https://aws.amazon.com/lambda/) team.
+Hi, my name is Phil Piwonka and I live in Seattle, WA with my [wife](https://kristawelch.com) and daughter. I'm currently an engineer at [Amazon Web Services](https://aws.amazon.com/).
 
 <a href="mailto:hello@pdp.dev?subject=Hello!">E-mail me and say hello!</a>
 
