@@ -3,7 +3,7 @@ title: It's a J.R.P.G. Age
 description: ""
 date: 2026-02-20T18:25:17.539Z
 preview: ""
-draft: true
+draft: false
 tags: []
 categories:
     - gaming
