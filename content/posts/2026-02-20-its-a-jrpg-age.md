@@ -11,7 +11,7 @@ categories:
 
 This blog has a lot of posts about SHMUPS but I haven't played shmups in quite a while, at least with any seriousness. Don't get me wrong, I still love serious shmup action, but after a long day of work and parenting I just don't want to sit and grind out trying to get a 1cc. My daughter is old enough to play games now and she likes Minecraft and the games that are in the PBS Kids app. That PBS Kids app has some good games, there's one that was similar to "The Incredible Machine" which I played the hell out of when I was a kid. We also played through "Donut County" which she had a lot of fun with.
 
-But bhe doesn't want to go for high scores or 1ccs on intense shooting games and that's super ok.
+But she doesn't want to go for high scores or 1ccs on intense shooting games and that's super ok.
 
 I bought one of those handheld retro gaming devices from Anbernic (who knows what model, their model numbers are the most confusing shit ever) and it's great. On a whim, I started playing "Chrono Trigger" on it because I've always heard that game is great. I own it on Steam since I bought it on sale and added it to my massive pile of games, but playing on a handheld with an emulator where I could save state my way through the game was the way to go.
 
