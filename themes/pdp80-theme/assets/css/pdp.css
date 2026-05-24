@@ -253,10 +253,18 @@ a,
   margin-bottom: 36px;
 }
 
+.archive h1 {
+  font-size: 26px;
+}
+
 .archive p {
   display: flex;
   align-items: baseline;
   gap: 12px;
+}
+
+#post-body p {
+  margin-bottom: 22px;
 }
 
 .archive-date {
