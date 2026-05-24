@@ -7,9 +7,6 @@
                   <h1>
                     {{ .Title }}
                   </h1>
-                <div id="post-body">
-                    {{ .Content }}
-                </div>
                 {{ if eq .Type "posts" }}
                 <div class="date-line">
                   <svg class="icon" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" aria-hidden="true" fill="none">
@@ -21,6 +18,9 @@
                   {{ .Date.Format "Jan 2 2006" }}
                 </div>
                 {{ end }}
+                <div id="post-body">
+                    {{ .Content }}
+                </div>
             </article>
 
             {{ partial "footer.html" . }}

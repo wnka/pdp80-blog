@@ -1,5 +1,5 @@
 :root {
-  --font-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --font-serif: Charter, Source Serif Pro, Iowan Old Style, Georgia, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
   --font-sans: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   --font-monospace: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 }
@@ -132,7 +132,7 @@ kbd {
   font-family: var(--font-monospace);
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
-  font-size: 14px;
+  font-size: 16px;
   padding: 2px 4px;
 }
 
@@ -173,7 +173,7 @@ pre {
 
 html,
 body {
-  font-size: 18px;
+  font-size: 20px;
   background: #fff;
   color: #222129;
 }
@@ -183,22 +183,27 @@ body {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: none;
   text-rendering: optimizeLegibility;
-  font-size: 18px;
-  line-height: 1.54;
-  max-width: 800px;
+  font-size: 20px;
+  line-height: 1.6;
+  max-width: 720px;
   margin: 0 auto;
 }
 
 h1 {
   font-weight: bold;
   font-size: 30px;
+  line-height: 1.2;
   margin-bottom: 10px;
 }
 
-h2,
-h3 {
+h2 {
   font-weight: bold;
   font-size: 24px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20px;
 }
 
 header {
@@ -276,11 +281,13 @@ i {
 }
 
 .post .date-line {
-  display: inline-block;
+  display: block;
+  font-size: 16px;
+  margin-bottom: 20px;
 }
 
 p.copyright {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
   display: block;
   text-align: center;
@@ -326,6 +333,11 @@ img {
   height: auto;
   margin-left: calc(-20px);
   margin-right: calc(-20px);
+  border-radius: 8px;
+}
+
+figure img {
+  border-radius: 8px 8px 0 0;
 }
 
 figure {
@@ -334,8 +346,8 @@ figure {
 }
 
 figcaption {
-  font-size: 14px;
-  padding: 5px 10px;
+  font-size: 16px;
+  padding: 6px 10px;
   margin-top: -8px;
   background: #eee;
   color: #222129;
@@ -343,12 +355,13 @@ figcaption {
   margin-left: calc(-20px);
   margin-right: calc(-20px);
   text-align: center;
+  border-radius: 0 0 8px 8px;
 }
 
 .tag a {
   text-decoration: none;
   padding: 2px;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 
@@ -382,6 +395,12 @@ svg {
 
 /* Media Queries */
 
+@media (max-width: 720px) {
+  body {
+    padding: 0 12px;
+  }
+}
+
 @media screen and (max-width: 540px) {
   #wrapper {
     padding: 10px 20px 20px 20px;
@@ -413,7 +432,7 @@ svg {
 
   html,
   body {
-    color: #fff;
+    color: #e6e6e6;
     background: rgb(26, 27, 37);
   }
 
