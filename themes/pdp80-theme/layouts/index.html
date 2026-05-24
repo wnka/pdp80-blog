@@ -3,18 +3,24 @@
 <body>
   {{ partial "nav.html" . }}
   <div id="wrapper" class="home">
+    {{ range (where .Site.RegularPages "Type" "posts").GroupByDate "2006" }}
     <div class="archive">
-      {{ range ( where .Site.RegularPages "Type" "posts" | first 20 ) }}
-      <p><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{ with .GetTerms "categories" }}
-        {{ range . }}
-        <span class="tag"><a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a></span>
-        {{ end }}
-        {{ end }}
+      <h1>{{ .Key }}</h1>
+      {{ range .Pages }}
+      <p>
+        <span class="archive-date">{{ .Date.Format "Jan 2" }}</span>
+        <span class="archive-content">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .GetTerms "categories" }}
+          {{ range . }}
+          <span class="tag"><a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a></span>
+          {{ end }}
+          {{ end }}
+        </span>
       </p>
       {{ end }}
     </div>
-    <a href="/archives">Archives</a>&nbsp;🗄️
+    {{ end }}
     {{ partial "footer.html" . }}
   </div>
 </body>

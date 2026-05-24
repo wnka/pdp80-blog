@@ -207,27 +207,26 @@ h3 {
 }
 
 header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 20px 0 20px;
-  margin: 5px auto 0 auto;
-  z-index: 100;
-  background: #DBE4EE;
-  border-radius: 5px;
+  padding: 14px 20px;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  border-bottom: 1px solid #e6e6e6;
 }
 
 p.main-nav {
-  padding: 10px 0;
-  margin: 0 auto;
-  text-align: right;
-  z-index: 100;
-  color: #fff;
+  margin: 0;
+  text-align: left;
 }
 
 p.main-nav a {
-  padding: 8px;
+  padding: 0;
   color: #222129;
+}
+
+.sep {
+  margin: 0 6px;
+  color: #888;
 }
 
 @media (max-width: 700px) {
@@ -248,6 +247,25 @@ a,
 #title:hover {
   color: #222129;
   text-decoration: underline;
+}
+
+.archive {
+  margin-bottom: 36px;
+}
+
+.archive p {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.archive-date {
+  flex: 0 0 4em;
+  font-size: 16px;
+}
+
+.archive-content {
+  flex: 1;
 }
 
 .archive li {
@@ -441,8 +459,12 @@ svg {
     background-color: rgb(37, 39, 57);
   }
 
+  .sep {
+    color: #6a6b75;
+  }
+
   header {
-    background-color: rgb(37, 39, 57);
+    border-bottom-color: #2e2f3a;
   }
 
   figcaption {
