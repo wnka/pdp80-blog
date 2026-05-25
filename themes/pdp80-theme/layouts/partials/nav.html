@@ -1,11 +1,11 @@
 <header>
 	<p class="main-nav">
 		Phil Piwonka
+		<span class="sep">·</span>
+		<a href='{{ .Site.BaseURL }}about/'>About</a>
 		{{ if not .IsHome }}
 		<span class="sep">·</span>
 		<a href='{{ .Site.BaseURL }}'>Home</a>
 		{{ end }}
-		<span class="sep">·</span>
-		<a href='{{ .Site.BaseURL }}about/'>About</a>
 	</p>
 </header>
