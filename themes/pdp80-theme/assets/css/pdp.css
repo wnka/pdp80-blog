@@ -453,8 +453,8 @@ svg {
 /* Media Queries */
 
 @media (max-width: 720px) {
-  #wrapper {
-    padding: 10px 16px 20px 16px;
+  body {
+    padding: 0 12px;
   }
 }
 
