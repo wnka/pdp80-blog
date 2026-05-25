@@ -188,6 +188,7 @@ body {
   font-size: 19px;
   background: #fafaf7;
   color: #2a2a32;
+  overflow-x: hidden;
 }
 
 body {
@@ -354,6 +355,8 @@ td,
 th {
   border: 1px dashed;
   padding: 10px;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 table {
