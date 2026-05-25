@@ -8,11 +8,18 @@
     <div class="archive">
       <h1>{{ .Key }}</h1>
       {{ range .Pages }}
-      <p><a href="{{ .Permalink }}">
-          {{ .Title }}
-        </a>
-        {{ end }}
+      <p>
+        <span class="archive-date">{{ .Date.Format "Jan 2" }}</span>
+        <span class="archive-content">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .GetTerms "categories" }}
+          {{ range . }}
+          <span class="tag"><a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a></span>
+          {{ end }}
+          {{ end }}
+        </span>
       </p>
+      {{ end }}
     </div>
     {{ end }}
     {{ partial "footer.html" . }}
