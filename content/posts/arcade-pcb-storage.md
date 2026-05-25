@@ -9,20 +9,20 @@ First up, after yesterday's long bike ride I went for a short ride today, but wa
 
 Mileage for the week: **42.4 miles.**
 
-### Route / Stats:
+## Route / Stats:
 {{< figure src="/images/vacation-08-2018-day2.jpg" >}}
 
-### Pictures from along the way:
+## Pictures from along the way:
 
 {{< figure src="/images/interlocken.jpg" >}}
 {{< figure src="/images/garden.jpg" >}}
 {{< figure src="/images/shelby.jpg" >}}
 
-### Soundtrack for the ride: 
+## Soundtrack for the ride: 
 
 * Disappears - Guider - [iTunes](https://itunes.apple.com/us/album/guider-ep/407907109) / [Spotify](https://open.spotify.com/album/2wTFPA5KBBqzSeQWbO9W1c)
 
-### Arcade PCB Storage
+## Arcade PCB Storage
 
 The other thing I did today was finally get [some shelving](https://www.ikea.com/us/en/catalog/products/50192822/) that will nicely store my arcade PCBs and free up closet space in the basement, something that has driven my wife nuts for years. PCBs come in all different shapes and sizes, making them kind of weird to buy shelves for, plus I had mounted them to wood to keep them from flexing too much but this made them even more cumbersome. I mean, look at the PCB for the [1985 Capcom game Commando](https://en.wikipedia.org/wiki/Commando_\(video_game\)). It's 3 boards stacked and is hella large:
 

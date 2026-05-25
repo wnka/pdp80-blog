@@ -21,7 +21,7 @@ It’s not just movies, it’s also technologies, music, etc. Everyday on Hacker
 
 I’ll probably keep watching that Calculus course. A lot of that stuff has totally fallen out of my head except some really basic derivative and integration techniques. Really though I just want to be less of a tumbleweed tumbling across the internet.
 
-### More personal history with Calculus
+## More personal history with Calculus
 I was a mediocre student in high school, I didn’t do bad but I was just not interested in many topics at school. I went to high school in Golden Colorado, the home of Coors beer and Kip Winger. I was a computer nerd, I taught myself how to program in high school and worked a part time job. I used the money from that job to build a computer and geek out on the 28.8k baud internet. School just ate into that time.
 
 Math was my favorite subject, but even in that I wasn’t great. I didn’t take calculus, the farthest I got was pre-calc since I wasn’t on the fast track. When it came to college, I knew I wanted to study computer science. I applied to two colleges, both nearby: University of Colorado at Boulder and Colorado School of Mines. School of Mines rejected me, and University of Colorado at Boulder accepted me so I went there. There was a problem though: I got into the school but I didn’t get into the College of Engineering because my grades and prerequisites weren’t great. Without being in the College of Engineering, I couldn’t major in computer science. To get in, I needed to take Calc 1, Calc 2, Physics 1 and Chemistry 1 and get good grades. I forget how good, probably at least a B?

@@ -5,14 +5,14 @@ Categories: ["personal"]
 ---
 Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to Japan and we totally loved it! [Krista's Instagram story shows a good pictoral summary of our trip.](https://www.instagram.com/stories/highlights/17982598309054531/) Below is the day-by-day log I kept during the trip.
 
-### Day 0 - Sept 21
+## Day 0 - Sept 21
 
 - Woke up at 3am to get to the airport. Krista stayed up all night, I slept probably 2 hours.
 - Our flight path was SEA -> LAX, LAX -> NRT. While taxiing in SEA, a warning light came on and they had to pull over to get it checked out. It ended up being a problem so the flight got delayed. Then the most magical airline customer service thing happened: they crammed us onto another flight headed for LAX that would allow us to not miss our Tokyo flight. They didn't think our bags would make it, but at least we would!
 - Made it to LAX and the Tokyo flight just in time. We got exit row seats, which meant I could cross my legs and stretch out.
 - Continued my tradition of not being able to sleep on airplanes.
 
-### Day 1 - Sept 22
+## Day 1 - Sept 22
 
 - Flew in fine, went through customs and magically our bags made it! I'm impressed!
 - Rode the train to our hotel. Super easy to figure out. Short walk from Kanda station which was down an alley and neat. Vending machines!
@@ -20,7 +20,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Asked hotel staff for dinner options. Wanted something light, so we went for tempura. Because our hotel is baller, they sent us to a baller [tempura place](http://www.tempura-yamanoue.jp/en/) that was not cheap at all and we didn't realize that until we sat down and saw the menu/prices. So we splurged and got to sit there and watch the guy make tempura. It was in the [Hilltop Hotel](https://www.yamanoue-hotel.co.jp/eng/), a short walk from our hotel. 
 - Came back, crashed. We went to bed at a decent time.
 
-### Day 2 - Sept 23
+## Day 2 - Sept 23
 
 - Woke up about 5am.
 - Watched some TV. Made coffee in the room. News shows here will show a story and then have a PiP of the news caster so we can see their reactions to things. What’s up with that?
@@ -58,7 +58,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Soaked in the tub in our room while drinking beers from the fridge. 
 - Fell asleep.
 
-### Day 3 - Sept 24th
+## Day 3 - Sept 24th
 
 - [Ghibli Museum tour](http://www.ghibli-museum.jp/en/) day! Tour started at 10 am and we had to head over to the [Keio Plaza](https://www.keioplaza.com/index.html?gclid=CjwKCAjwx7DeBRBJEiwA9MeX_Eq_uAs7ricSyk04tK3OR2XJ2gAgqL-sZE4-iPfacrT3DguapPq1GBoCetgQAvD_BwE&gclsrc=aw.ds) hotel to get on a bus. Took train over and walked around. Breakfast was riceballs and eggs from 7-11 before we got on the train. 7-11 is awesome in Tokyo!
 - Being on a bus was nice after all the walking we did yesterday. Our tour guide, Miki, was great. Really helpful and knowledgeable. 
@@ -76,7 +76,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Took the train back to our hotel and ordered room service. Long day. On the walk back to the room we stopped at a FamilyMart convenience store and I bought a tall boy of [Strong Zero](https://medium.com/@sasuraiger/my-japan-trip-2017-2018-drinking-in-japan-and-strong-zero-ad5c60256a4e), which is 9% alcohol, costs less than $2, and is available at any corner store. 
 - Watched Japanese TV, ate, drank, went to sleep. 
 
-### Day 4 - Sept 25th
+## Day 4 - Sept 25th
 
 - Last day at our first [hotel](http://www.ryumeikan-honten.jp/en/).
 - Slow morning, did laundry, spent time in the hotel’s library looking at their books about Japan and writing out post cards to friends/family. 
@@ -95,7 +95,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - The trains are so easy to navigate, everything has a two-letter code, a color, and a number. So I want to go from JY07 to JY11, therefore I want the platform that makes the numbers get bigger and ride four stops. Everything is numbered, it's like in that Godzilla movie where they go to Planet X and the guy is all "Everything is numbered here... the monster is zero." Strong Zero?
 - Watched some TV (Dragon Ball Z was on) and fell asleep. 
 
-### Day 5 - Sept 26th
+## Day 5 - Sept 26th
 
 - My mom sent a text message “You aware of typhoon Trami?” We saw something about a typhoon on the news and couldn’t understand the details, but tonally it didn’t seem like a big deal. I bet Japan knows how to handle a typhoon.
 - We stopped at FamilyMart and bought breakfast and snacks for the Shinkansen. I also bought a Strong Zero for the train, cuz why not.
@@ -108,7 +108,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Another thing I’ve noticed here is that ‘sweets’ aren’t nearly as sweet as in the US. Less sugar I guess.
 - Thought about walking around but it’s raining pretty hard and it’s dark so we wouldn’t really see anything. After all the high density public spaces it’s kind of nice to have a night in. [Japanese QVC](https://qvc.jp) is hilarious.
 
-### Day 6 - Sept 27th
+## Day 6 - Sept 27th
 
 - Woke up and had breakfast at a coffee shop in Kyoto station. Sat next to a nice old lady who gave us tips of what shrines to visit and stuff. She gave us her and her daughter's phone numbers in case we had any questions!
 - Walked through the [Chishakuin Temple](http://www.chisan.or.jp/english/). Very nice and peaceful. You’re in the city then the next block your in this manicured garden with these super interesting looking buildings and it’s quiet.
@@ -125,7 +125,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Total walking mileage: 9.4 miles. Our legs hurt. City is fairly flat, but temples required some stair and hill climbing. 
 - Typhoon update on the news says that Sunday will be windy and rainy. Should clear up by Monday, which is when we head to our next destination. Not too worried about it. However, trying to find decent information has been hard, so much is sensationalized bullshit that uses adjectives like “SLAM” and “DESTRUCTIVE” and “UNSTOPPABLE” but offers no actual information. Thankfully I found the [Japan Meteorological Agency's website](https://www.jma.go.jp/en/typh/) which had good information.
 
-### Day 7 - Sept 28th
+## Day 7 - Sept 28th
 
 - Got up and had breakfast buffet at the hotel. It was decent. 
 - Weather was beautiful, very few clouds in the sky. 
@@ -150,7 +150,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 
 {{< figure src="/images/kyoto7.jpg" alt="Kyoto" caption="This is a famous tower" >}}
 
-### Day 8 - Sept 29th
+## Day 8 - Sept 29th
 
 - Had McDonald’s for breakfast. Lame I know, but interesting. It was basically exactly the same as the US. 
 - Hopped on a train to Saga-Arashiyama to go to the [bamboo forest](https://en.wikipedia.org/wiki/Bamboo_Forest_(Kyoto,_Japan)). This was really neat, but super crowded. We met a nice guy from Korea on the train that we chatted with some. He and Krista are Instagram friends now.
@@ -164,7 +164,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - I’ve been feeling a little under the weather, so I wanted to go back to the hotel and lie down. Stuffy nose and cough. I hope it doesn’t get worse, so I’m taking it easy.
 - Typhoon update: it’s supposed to get here tomorrow night and pass through. We saw footage on the news from Okinawa where it hit today, didn’t seem too bad. Hotel has signs up saying we’ll probably lose power and to charge your devices. Sounds like we can handle it. We’re supposed to leave here on Oct 1st and go to Hakone which is east of here. We spend one night in an onsen there for our anniversary. Hopefully everything cooperates. 
 
-### Day 9 - Sept 30th
+## Day 9 - Sept 30th
 
 - Typhoon coming. Went to the train station to see what was going on. Lots of stuff shutdown and trains weren't running. Wanted to go to Mister Donut but they were shutdown! Ended up going to a small sit down place and had some breakfast curry.
 - Trains not running meant it would be hard to get around. My cold got worse so I was feeling pretty beat.
@@ -172,7 +172,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Watched “Memoirs of a Geisha” which was ok. It was cool to see the Gion district we were walking though a few days ago.
 - Typhoon came I guess? It got real windy at one point but it didn’t really disrupt sleep. I slept pretty poorly due to my cold though. Just couldn’t get comfortable. 
 
-### Day 10 - Oct 1st
+## Day 10 - Oct 1st
 
 - Last day in Kyoto. We’re talking a bullet train to Hakone where we’re staying one night at a super nice place. Today is our 7 year wedding anniversary. 
 - Weather is nice and clear. Blue skies. Typhoon gone.
@@ -190,7 +190,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Spent more time in the bath. Ahhhh. The arcade I was at in Akihabara that has the Ketsui location test was streaming people play (I’m pretty sure I was on stream when I played) on NicoNico so I watched that while in the bath.
 - Sleeps. We head back to Tokyo tomorrow, I want to try and track down some Macross toys and maybe go to [Ebisen](https://www.yelp.com/biz/えびせん-練馬区), an arcade KevinDDR told me about. It’s kind of a trek though so we’ll see about that. 
 
-### Day 11 - Oct 2nd
+## Day 11 - Oct 2nd
 
 - Woke up and soaked in the bath.
 - Had breakfast in the room fancy style. 
@@ -208,7 +208,7 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - Krista and I walked through the Ginza district to go to a place for dinner Krista found while I was at HEY. Ginza is pretty fancy. Also walked by the [clock that Hayao Miyazaki designed](https://www.atlasobscura.com/places/the-giant-ghibli-clock-tokyo-japan). 
 - Came back to hotel, watched Gundam, fell asleep. Our flight doesn’t leave tomorrow until like 7pm, so we’ll squeeze in some more stuff tomorrow morning. 
 
-### Day 12 - Oct 3rd
+## Day 12 - Oct 3rd
 
 - Last day. Sad!
 - Woke up early and rode the train to Shibuya to see [Shibuya Crossing](https://www.lonelyplanet.com/japan/tokyo/attractions/shibuya-crossing/a/poi-sig/396831/356817). It was ok, I mean it's just a big crosswalk with a bunch of people. There was a group of dudes that were hip-hop dudes and they would go out into the crossing when the walk signal was on and film themselves doing super generic hip-hop gestures, maybe for a video or something? I kind of wish I had asked them.
@@ -221,6 +221,6 @@ Krista and I were in Japan from Sept 22nd to Oct 3rd. This was our first trip to
 - With the time change of 16 hours, we got home to our house in Seattle at the same time that we left Tokyo. We got home at about 7:30pm.
 - We snuggled with our cats who were happy to see us and got in bed at about 10pm.
 
-### FIN!
+## FIN!
 
 {{< figure src="/images/mmp_clear_at_hey.jpg" alt="MMP Clear" caption="Muchi Muchi Pork 1-ALL at HEY!" >}}

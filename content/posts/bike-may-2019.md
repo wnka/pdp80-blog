@@ -9,13 +9,13 @@ This month I set the goal of biking every day and I did it. It's been great! I b
 
 I super enjoyed this route. The trail around the east side of Lake Sammamish was a flat ride and other parts had some hills to climb but nothing horrible. I will say that by the end of the ride I was pretty exhausted and was slowly creeping home. Some day I want to do a century ride (100 miles) but damn, by the end of this ride I would be less than half way there which was a reality check that I've got a long way to go before I can pull that off...
 
-### BelRedSamMerSea Route/Stats
+## BelRedSamMerSea Route/Stats
 
 {{< figure src="/images/IMG_1020.JPG" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/2412727330)
 
-### Pictures from along the way:
+## Pictures from along the way:
 
 {{< figure src="/images/IMG_1016.jpg" >}}
 {{< figure src="/images/IMG_1017.jpg" >}}

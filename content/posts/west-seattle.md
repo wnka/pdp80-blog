@@ -13,13 +13,13 @@ Once on the Elliott Bay trail it was easy to follow the signage and reach Alki B
 
 Total distance: **24.8 miles**
 
-### To West Seattle Route/Stats 
+## To West Seattle Route/Stats 
 
 {{< figure src="/images/IMG_B14D53374D36-1.jpeg" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1817071635)
 
-### Pictures heading to West Seattle:
+## Pictures heading to West Seattle:
 
 {{< figure src="/images/IMG_1875.jpg" >}}
 {{< figure src="/images/IMG_1877.JPG" >}}
@@ -32,13 +32,13 @@ Full Strava activity [here.](https://www.strava.com/activities/1817071635)
 {{< figure src="/images/IMG_1887.JPG" >}}
 {{< figure src="/images/IMG_1888.JPG" >}}
 
-### From West Seattle to Home Route/Stats:
+## From West Seattle to Home Route/Stats:
 
 {{< figure src="/images/IMG_1A0172138DBC-1.jpeg" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1817451082)
 
-### Pictures heading home:
+## Pictures heading home:
 
 {{< figure src="/images/IMG_1895.JPG" >}}
 {{< figure src="/images/IMG_1897.JPG" >}}
@@ -50,7 +50,7 @@ Full Strava activity [here.](https://www.strava.com/activities/1817451082)
 {{< figure src="/images/IMG_1908.JPG" >}}
 {{< figure src="/images/IMG_1910.JPG" >}}
 
-### Soundtrack for the ride:
+## Soundtrack for the ride:
 * Rezzett - Rezzett - [iTunes](https://itunes.apple.com/ee/album/rezzett/1344927144) / [Spotify](https://open.spotify.com/album/5N91OjEKm2kLaPuXhlFpkx)
 * Kool Keith / KutMasta Kurt - Your Mom is my Wife EP - [iTunes](https://itunes.apple.com/us/album/your-mom-is-my-wife-ep/1342773690) / [Spotify](https://open.spotify.com/album/263B0ofZk3CvffvUvkE58j)
 * The Upsetters / Lee Perry - Return of the Super Ape - [iTunes](https://itunes.apple.com/us/album/return-of-the-super-ape-deluxe-edition/274769018) / [Spotify](https://open.spotify.com/album/0VceVaIcxxNEXQ3fNv8u2G)

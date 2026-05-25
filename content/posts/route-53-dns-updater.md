@@ -10,7 +10,7 @@ I use [Route 53](https://aws.amazon.com/route53/) for my DNS and have an A recor
 ```bash
 #!/bin/sh
 
-### Things you need to set
+## Things you need to set
 ###
 # The record to update
 DNS_RECORD="blahblah.com"
@@ -19,7 +19,7 @@ PROFILE_NAME="yr-creds"
 # Your hosted zone ID
 ZONE_NAME="yr-zone-id"
 ###
-### END Things you need to set
+## END Things you need to set
 
 IP="$(curl -s http://checkip.amazonaws.com/)"
 TMP_FILE="$(mktemp)"

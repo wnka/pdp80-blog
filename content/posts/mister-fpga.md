@@ -17,7 +17,7 @@ It uses an FPGA to recreate old game hardware. Supposedly this is more 'accurate
 
 Now here's where I'll contradict myself, because why did I buy one of these then? One word: *accuracy*. More specifically though, video output accuracy.
 
-### Scanlines, Resolutions, Up/Down Scaling
+## Scanlines, Resolutions, Up/Down Scaling
 
 I own two arcade cabinets and I like being able to play games on them. I've got [quite a few PCBs](/pcb/), but they take up space, require maintainence, and swapping games takes time. So, I've always liked running MAME or whatever in my arcade cabinet to be able to play lots of different stuff. However, getting the video to look right is a real pain.
 
@@ -29,7 +29,7 @@ This isn't that hard when the arcade game originally was 320x240, but what about
 
 See, this all sucks. The refresh rates get all screwed up too: "Translating" 57.2hz to a 60hz signal means either running the game too fast or having it stutter.
 
-### MiSTer Analog output
+## MiSTer Analog output
 
 The best thing about the MiSTer is that it will just output the arcade native 240p signal which you can feed directly into an arcade monitor and it will be *accurate*. It handles goofy resolutions like 384x224 and goofy refresh rates like 57.2hz. You don't have to fiddle with *anything*. It just works because the video output is dumb, I don't think there's even a framebuffer.
 
@@ -37,13 +37,13 @@ It does consoles and old computers too, which also have goofy resolutions. An At
 
 There are devices for a Raspberry Pi that supposedly will handle some of this weirdness. I got a Pi2JAMMA but I never actually got it to work because if there's one thing I hate it's trial-and-erroring feeding weird video signals to a monitor.
 
-### Other Niceties
+## Other Niceties
 
 1. Scaled HDMI output for those that don't want to mess with CRTs and stuff. The really cool thing is that it will output *simultaneously* to analog and HDMI.
 1. It runs Linux and you can SSH into it. Great for copying files to/from it.
 1. Compatible with every USB controller I've tried with it.
 
-### Now Playing
+## Now Playing
 
 Anyway, so what am I actually playing on this thing?
 
@@ -53,7 +53,7 @@ Anyway, so what am I actually playing on this thing?
 1. **Gorf** (Arcade) - Loved this as a kid and played it a lot on C64, perhaps my first shmup? Playing it now though I see that it's a pretty crappy game.
 1. **Earl Weaver Baseball** (Amiga) - Growing up my whole neighborhood played this game, we'd do tournaments and stuff. Still fun!
 
-### Resources
+## Resources
 
 1. [update-all script](https://github.com/theypsilon/Update_All_MiSTer) - Will update all the things to the latest things!
 1. [MiSTer FPGA Forum](https://misterfpga.org/) - It's a forum!

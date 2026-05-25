@@ -15,13 +15,13 @@ I gotta say I'm pretty damn proud of this ride. I knew I could do it and I did i
 
 Total mileage for the week so far: **89.4 miles**
 
-### Route / Stats:
+## Route / Stats:
 
 {{< figure src="/images/IMG_1851.jpg" >}}
 
 Full Strava activity [here.](https://www.strava.com/activities/1806235335)
 
-### Pictures from along the way:
+## Pictures from along the way:
 
 {{< figure src="/images/IMG_1821.JPG" >}}
 {{< figure src="/images/IMG_1822.JPG" >}}
@@ -34,7 +34,7 @@ Full Strava activity [here.](https://www.strava.com/activities/1806235335)
 {{< figure src="/images/IMG_1844.JPG" >}}
 {{< figure src="/images/IMG_1847.JPG" >}}
 
-### Soundtrack for the ride:
+## Soundtrack for the ride:
 
 * Black Moon - Enta da Stage - [iTunes](https://itunes.apple.com/us/album/enta-da-stage/14141230) / [Spotify](https://open.spotify.com/album/6WqXR9PUGCCQe26QDL5gY3)
 * Black Flag - My War - [iTunes](https://itunes.apple.com/us/album/my-war/117618702) / [Spotify](https://open.spotify.com/album/17j1kW5y6yHlY5vaBFijbR)

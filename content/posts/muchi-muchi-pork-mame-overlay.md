@@ -33,7 +33,7 @@ This post is part of a 3-part series:
 1. You are here: Muchi Muchi Pork MAME Overlay
 
 
-### Appendix A: Boss logic
+## Appendix A: Boss logic
 
 Here's a comment from the [main file that contains the layout logic](https://github.com/wnka/muchi-muchi-pork-mame-overlay/blob/main/default.lay) that explains a little about how the boss logic works.
 

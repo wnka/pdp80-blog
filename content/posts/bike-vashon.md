@@ -15,14 +15,14 @@ I didn't do a ton of biking around the island but I will definitely head over th
 
 Great way to spend a beautiful day in Seattle.
 
-### Route / Stats:
+## Route / Stats:
 
 {{< figure src="/images/IMG_1129.JPG" >}}
 {{< figure src="/images/IMG_1128.JPG" >}}
 
 Full Strava activity [here](https://www.strava.com/activities/2472295942) and [here.](https://www.strava.com/activities/2472364063)
 
-### Pictures from along the way:
+## Pictures from along the way:
 
 {{< figure src="/images/IMG_1109.jpg" >}}
 {{< figure src="/images/IMG_1111.jpg" >}}

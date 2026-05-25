@@ -11,7 +11,7 @@ I'm not even sure if this is a good thing, I'm sure there are benefits to be had
 
 BTW this doesn't apply to pages that have images. Images are additional requests. 
 
-### Inlined Favicon using an Emoji
+## Inlined Favicon using an Emoji
 
 My `favicon.ico` used to be a red square that was a `.png` file. That's additional request. Unacceptable!
 
@@ -33,7 +33,7 @@ The `href` is just "data:image/svg+xml," plus this URL encoded:
 
 It's just a donut emoji! I don't fully understand the `viewBox` and `text` offsets, but hey that's what works. It doesn't show in Safari, but at least it doesn't make a request for `favicon.ico` so mission roughly accomplished. [caniuse.com](https://caniuse.com/?search=link-icon-svg) shows the full browser compatibility story.
 
-### Inlining CSS
+## Inlining CSS
 
 I still write CSS in a separate file as part of my site theme and use a feature of [Hugo](https://gohugo.io/) to inline it when the site is generated. In my theme's `<head>` Hugo template:
 
@@ -50,11 +50,11 @@ I still write CSS in a separate file as part of my site theme and use a feature 
 
 Easy! Convenient! I use one `.css` file for my site styling and one for code block styling. If I really wanted to go nuts, I could not include the code CSS unless there was code on the page.
 
-### No trackers
+## No trackers
 
 No Google Analytics or anything like that. I try to block all those things, so why would I put them on my own site? No one reads this site anyway, or maybe I'm massively popular. The world will never know!
 
-### Output Page Size
+## Output Page Size
 
 How large is the download for the home page of this site? We can use `curl` to get the download size.
 

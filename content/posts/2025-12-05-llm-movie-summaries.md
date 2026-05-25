@@ -22,7 +22,7 @@ In the dense jungles of Central America, an elite U.S. Army reconnaissance team 
 
 ---
 
-### How the main characters die
+## How the main characters die
 
 | Character | How the Predator kills them (briefly) |
 |-----------|---------------------------------------|
@@ -41,7 +41,7 @@ The film doesn’t linger on gore; rather, it presents each death as a tactical 
 
 *RoboCop* is a cyber‑punk action‑drama set in a seedy, crime‑plagued Detroit in the year 2018. The story follows former police officer **Alex Murphy** (Peter Weller), who is brutally murdered by a gang of armed robbers. The powerful conglomerate **Omni Consumer Products (OCP)**, which runs a private security division in the city, recovers Murphy’s body and uses cutting‑edge biotechnology to reconstruct him as a biomechanical law‑enforcement cyborg: **RoboCop**.
 
-### Key Plot Points
+## Key Plot Points
 
 | # | Event | Details |
 |---|-------|---------|
@@ -53,13 +53,13 @@ The film doesn’t linger on gore; rather, it presents each death as a tactical 
 | 6 | **Climax on a rooftop** | RoboCop infiltrates the OCP building’s boardroom, devastated by the wedding‑dated face‑paint he was forced to wear. He confronts Mendez and the gang after a violent shoot‑up; he later discovers the Murder Gang had fabricated the bank robbery to lure the cops. |
 | 7 | **Resolution** | RoboCop detonates the OCP building’s fuel tanks to take out the corrupt partners, then reverts to his human form (the final test of the regenerative system), and disappears into the city’s underworld – hinting at a future independent...|
 
-### Themes & Tone
+## Themes & Tone
 
 - **Identity & Humanity** – Murphy wrestles with a split identity: a blackened cyber‑code versus raw, human emotion.  
 - **Capitalism & Detachment** – OCP’s ruthless profits are personified by the lack of empathy toward civilians, a satirical commentary on corporate overreach.  
 - **Technology & Ethics** – The film asks whether augmenting men with artificial limbs and weapons can erase moral responsibility.  
 
-### Notable Cast
+## Notable Cast
 
 - **Peter Weller** – Alex Murphy / RoboCop  
 - **Lois Chiles** – Officer Anne Lewis  
@@ -69,7 +69,7 @@ The film doesn’t linger on gore; rather, it presents each death as a tactical 
 - **Donald Sutherland** – OCP President Dana West  
 - **Morgan Freeman** – Raiders of the trash yard (cameo)  
 
-### Legacy
+## Legacy
 
 *RoboCop* blends gunplay, social satire, and blatant 1980s futurism. Its impact lies in both its gritty commentary on corporate greed and its stylized, pipe‑dream world that has inspired sequels, a modern remake (2014), animated series, comics, and a cult‑classic status among sci‑fi fans.
 
