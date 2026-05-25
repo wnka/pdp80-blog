@@ -118,13 +118,19 @@ section {
 }
 
 blockquote {
-  border-left: 2px solid #222129;
+  border-left: 3px solid #222129;
   margin: 20px -20px;
   background-color: #eee;
-  padding-top: 10px;
-  padding-bottom: 1px;
-  padding-left: 18px;
-  padding-right: 20px;
+  padding: 16px 20px 16px 18px;
+  border-radius: 0 8px 8px 0;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+#post-body blockquote > :last-child {
+  margin-bottom: 0;
 }
 
 code,
@@ -132,13 +138,14 @@ kbd {
   font-family: var(--font-monospace);
   -webkit-font-feature-settings: normal;
   font-feature-settings: normal;
-  font-size: 16px;
+  font-size: 0.9em;
   padding: 2px 4px;
 }
 
 :not(pre)>code,
 :not(pre)>kbd {
   background-color: #eee;
+  border-radius: 3px;
 }
 
 table {
@@ -204,11 +211,23 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
+  margin-top: 1.8em;
+  margin-bottom: 0.4em;
+  line-height: 1.25;
 }
 
 h3 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
+  margin-top: 1.6em;
+  margin-bottom: 0.3em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+#post-body h2:first-child,
+#post-body h3:first-child {
+  margin-top: 0;
 }
 
 body > header {
@@ -244,6 +263,13 @@ a {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+  border-radius: 2px;
 }
 
 .archive {
@@ -429,8 +455,8 @@ svg {
 /* Media Queries */
 
 @media (max-width: 720px) {
-  body {
-    padding: 0 12px;
+  #wrapper {
+    padding: 10px 16px 20px 16px;
   }
 }
 
@@ -477,8 +503,8 @@ svg {
   }
 
   blockquote {
-    border-left: 4px solid #fff;
     background-color: rgb(37, 39, 57);
+    border-left-color: #fff;
   }
 
   .sep {
