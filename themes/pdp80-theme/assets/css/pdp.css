@@ -257,6 +257,14 @@ a,
   font-size: 26px;
 }
 
+article h1 {
+  color: #d4633a;
+}
+
+.archive-content > a {
+  color: #d4633a;
+}
+
 .archive p {
   display: flex;
   align-items: baseline;
@@ -505,5 +513,13 @@ svg {
   mark {
     color: rgb(37, 39, 57);
     background: #fff;
+  }
+
+  article h1 {
+    color: #fda4af;
+  }
+
+  .archive-content > a {
+    color: #fda4af;
   }
 }
