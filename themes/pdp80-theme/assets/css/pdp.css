@@ -455,12 +455,6 @@ svg {
 
 /* Media Queries */
 
-@media (max-width: 720px) {
-  body {
-    padding: 0 12px;
-  }
-}
-
 @media screen and (max-width: 540px) {
   .post {
     margin: 40px 0;
