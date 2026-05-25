@@ -157,13 +157,15 @@ table {
 
 /* Spacing */
 
-.post h2,
+.post h2 {
+  margin-bottom: 10px;
+}
+
 h3,
 h4,
 h5,
 p,
 #post-body ul,
-#post-list li,
 #post-body ol,
 pre {
   margin-bottom: 10px;
@@ -206,7 +208,7 @@ h3 {
   font-size: 20px;
 }
 
-header {
+body > header {
   padding: 14px 20px;
   margin: 0;
   font-size: 18px;
@@ -229,22 +231,12 @@ p.main-nav a {
   color: #888;
 }
 
-@media (max-width: 700px) {
-  nav.main-nav {
-    padding: 20px 10px 0 0;
-  }
-}
-
 #wrapper {
   margin: 0 auto;
   padding: 10px 20px 20px 20px;
 }
 
-/*Accent color*/
-a,
-#title,
-#post-list a:hover,
-#title:hover {
+a {
   color: #222129;
   text-decoration: underline;
 }
@@ -282,10 +274,6 @@ article h1 {
 
 .archive-content {
   flex: 1;
-}
-
-.archive li {
-  padding: 3px 0;
 }
 
 ol,
@@ -334,21 +322,6 @@ td,
 th {
   border: 1px dashed;
   padding: 10px;
-}
-
-.archive .idate {
-  width: 1px;
-  white-space: nowrap;
-  padding-right: 10px;
-  font-weight: bold;
-}
-
-.archive table,
-.archive td,
-.archive th {
-  padding: 3px 0;
-  border: none;
-  margin: 0 0 10px 0;
 }
 
 table {
@@ -437,14 +410,6 @@ svg {
 }
 
 @media screen and (max-width: 540px) {
-  #wrapper {
-    padding: 10px 20px 20px 20px;
-  }
-
-  #header {
-    margin-bottom: 60px;
-  }
-
   .post {
     margin: 40px 0;
   }
@@ -480,29 +445,26 @@ svg {
     color: #6a6b75;
   }
 
-  header {
+  body > header {
     border-bottom-color: #2e2f3a;
   }
 
   figcaption {
     background: rgb(37, 39, 57);
-    color: #fff;
+    color: #e6e6e6;
   }
 
-  a,
-  #title,
-  #post-list a:hover,
-  #title:hover {
-    color: #fff;
+  a {
+    color: #e6e6e6;
   }
 
   p.main-nav a {
-    color: #fff;
+    color: #e6e6e6;
   }
 
   :not(pre)>code,
   :not(pre)>kbd {
-    color: #fff;
+    color: #e6e6e6;
     background: rgb(37, 39, 57);
   }
 
