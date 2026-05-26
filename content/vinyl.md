@@ -5,7 +5,7 @@ date: 2018-07-14T18:53:54-08:00
 
 I started buying vinyl in 1998 when I was a senior in high school and had my own money from working. My interest in music was really ramping up and vinyl was the cheapest way to get music (this is all pre-Napster). I don't really buy records anymore, there are easier ways to get music with all the streaming services and records have gotten crazy expensive lately.
 
-* **Favorite Record Store:** [Black and Read](http://www.blackandread.net/site/) in Arvada, CO.
+* **Favorite Record Store:** [Black and Read](https://www.blackandread.com) in Arvada, CO.
 * **Favorite Online Record Store:** [Turntable Lab](https://www.turntablelab.com), nice curated selection that turned me on to a lot of good stuff.
 * **Favorite Record:** Gosh that's a hard question, but I'll go with [Slates](https://en.wikipedia.org/wiki/Slates_(EP)) by [The Fall](https://en.wikipedia.org/wiki/The_Fall_(band)).
 
