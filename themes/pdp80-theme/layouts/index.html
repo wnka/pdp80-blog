@@ -11,11 +11,6 @@
         <span class="archive-date">{{ .Date.Format "Jan 2" }}</span>
         <span class="archive-content">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{- with .GetTerms "categories" -}}
-          {{- range . -}}
-          <span class="tag"><a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a></span>
-          {{- end -}}
-          {{- end }}
         </span>
       </p>
       {{ end }}
