@@ -455,9 +455,21 @@ svg {
 
 /* Media Queries */
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 680px) {
   .post {
     margin: 40px 0;
+  }
+
+  img, figure img {
+    border-radius: 0;
+  }
+
+  figure img:has(+ figcaption) {
+    border-radius: 0;
+  }
+
+  figcaption {
+    border-radius: 0;
   }
 }
 
