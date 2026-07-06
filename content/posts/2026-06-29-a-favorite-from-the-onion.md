@@ -6,4 +6,6 @@ preview: ""
 draft: false
 ---
 
-[Just Wait 'Til I Get These Fucking Rubber Bands Off](https://theonion.com/just-wait-til-i-get-these-fucking-rubber-bands-off-1819583949/) by a lobster. 
+[Just Wait 'Til I Get These Fucking Rubber Bands Off](https://theonion.com/just-wait-til-i-get-these-fucking-rubber-bands-off-1819583949/) by a lobster.
+
+**Related:** A more recent guest commentary by an animal, this time it's [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) by a horse.
